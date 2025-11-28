@@ -1,0 +1,862 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+  "num_results": 15,
+  "last_modified": "2025-10-11T07:51:11Z",
+  "results": {
+    "display_name": "Hardcover Fiction",
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "previous_published_date": "2022-07-10",
+    "published_date": "2022-07-17",
+    "next_published_date": "2022-07-24",
+    "bestsellers_date": "2022-07-02",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "list_id": 1,
+    "uri": "nyt://bestsellerslist/096d69e0-a1c6-570a-a040-35ff9852f21d",
+    "books": [
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0316258679?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Elin Hilderbrand",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316258678.jpg",
+        "book_image_height": 500,
+        "book_image_width": 322,
+        "book_review_link": "",
+        "book_uri": "nyt://book/1786b486-adfa-5d2b-b3b0-78411312b0e6",
+        "contributor": "by Elin Hilderbrand",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:52:24.831Z",
+        "dagger": 0,
+        "description": "The new general manager of a hotel far from its Gilded Age heyday deals with the complicated pasts of her guests and staff.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316258678",
+        "publisher": "Little, Brown",
+        "rank": 1,
+        "rank_last_week": 1,
+        "sunday_review_link": "",
+        "title": "THE HOTEL NANTUCKET",
+        "updated_date": "2025-10-11T07:52:24.831Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316258678"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0316258679?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316258678?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316258678"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BHOTEL%2BNANTUCKET%2FElin%2BHilderbrand%2F9780316258678"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316258678"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0385549326?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "John Grisham",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780385549325.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/b60f2641-733d-5fcc-aaa1-f6e053b7f53c",
+        "contributor": "by John Grisham",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:52:25.075Z",
+        "dagger": 0,
+        "description": "Three novellas: \u201cHomecoming,\u201d \u201cStrawberry Moon\u201d and \u201cSparring Partners.\u201d",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780385549325",
+        "publisher": "Doubleday",
+        "rank": 2,
+        "rank_last_week": 2,
+        "sunday_review_link": "",
+        "title": "SPARRING PARTNERS",
+        "updated_date": "2025-10-11T07:52:25.075Z",
+        "weeks_on_list": 5,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780385549325"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0385549326?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780385549325?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385549325"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSPARRING%2BPARTNERS%2FJohn%2BGrisham%2F9780385549325"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780385549325"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1984821679?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Danielle Steel",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781984821676.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/bb541e36-bf07-53d6-8df4-d4f22f793bcd",
+        "contributor": "by Danielle Steel",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:51:05.522Z",
+        "dagger": 0,
+        "description": "A C.I.A. agent on a covert mission develops a relationship with a woman who is considered fashion royalty and has a tragic past.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781984821676",
+        "publisher": "Delacorte",
+        "rank": 3,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "SUSPECTS",
+        "updated_date": "2025-10-11T07:51:05.522Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781984821676"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1984821679?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781984821676?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781984821676"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSUSPECTS%2FDanielle%2BSteel%2F9781984821676"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781984821676"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593183193?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Riley Sager",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593183199.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/20629a46-48d8-5e38-857f-3944b31188b6",
+        "contributor": "by Riley Sager",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:50:45.644Z",
+        "dagger": 0,
+        "description": "An actress escaping bad press goes to a Vermont lake house and uncovers secrets within a neighboring couple\u2019s marriage.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593183199",
+        "publisher": "Dutton",
+        "rank": 4,
+        "rank_last_week": 3,
+        "sunday_review_link": "",
+        "title": "THE HOUSE ACROSS THE LAKE",
+        "updated_date": "2025-10-11T07:50:45.644Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593183199"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593183193?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593183199?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593183199"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BHOUSE%2BACROSS%2BTHE%2BLAKE%2FRiley%2BSager%2F9780593183199"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593183199"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0316499447?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "James Patterson and David Ellis",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316499446.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/c27abf37-85c9-5c81-bd7e-98a9a445de56",
+        "contributor": "by James Patterson and David Ellis",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:50:45.757Z",
+        "dagger": 0,
+        "description": "The third book in the Billy Harney thriller series. Detective Harney goes after a billionaire crime boss and a prison escape artist.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316499446",
+        "publisher": "Little, Brown",
+        "rank": 5,
+        "rank_last_week": 4,
+        "sunday_review_link": "",
+        "title": "ESCAPE",
+        "updated_date": "2025-10-11T07:50:45.757Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316499446"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0316499447?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316499446?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316499446"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FESCAPE%2FJames%2BPatterson%2Band%2BDavid%2BEllis%2F9780316499446"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316499446"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0063204207?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Nikki Erlick",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780063204201.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/18354cdf-d15e-5841-a6ff-8ba2fdee9608",
+        "contributor": "by Nikki Erlick",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:51:33.174Z",
+        "dagger": 0,
+        "description": "People around the world receive a small wooden box telling them the exact number of years they will live.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780063204201",
+        "publisher": "Morrow",
+        "rank": 6,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE MEASURE",
+        "updated_date": "2025-10-11T07:51:33.174Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780063204201"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0063204207?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780063204201?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780063204201"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BMEASURE%2FNikki%2BErlick%2F9780063204201"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780063204201"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0525559477?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Matt Haig",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525559474.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/60d0ee2d-3d05-50c9-a484-050d17a2308e",
+        "contributor": "by Matt Haig",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:57:35.581Z",
+        "dagger": 0,
+        "description": "Nora Seed finds a library beyond the edge of the universe that contains books with multiple possibilities of the lives one could have lived.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525559474",
+        "publisher": "Viking",
+        "rank": 7,
+        "rank_last_week": 6,
+        "sunday_review_link": "",
+        "title": "THE MIDNIGHT LIBRARY",
+        "updated_date": "2025-10-11T07:57:35.581Z",
+        "weeks_on_list": 82,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525559474"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0525559477?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525559474?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525559474"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BMIDNIGHT%2BLIBRARY%2FMatt%2BHaig%2F9780525559474"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525559474"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/038554734X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Bonnie Garmus",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780385547345.jpg",
+        "book_image_height": 500,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/717e0ead-9782-567d-af27-d9a6cfb1856f",
+        "contributor": "by Bonnie Garmus",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:09:33.119Z",
+        "dagger": 0,
+        "description": "A scientist and single mother living in California in the 1960s becomes a star on a TV cooking show.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780385547345",
+        "publisher": "Doubleday",
+        "rank": 8,
+        "rank_last_week": 11,
+        "sunday_review_link": "",
+        "title": "LESSONS IN CHEMISTRY",
+        "updated_date": "2025-10-11T08:09:33.119Z",
+        "weeks_on_list": 9,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780385547345"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/038554734X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780385547345?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385547345"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLESSONS%2BIN%2BCHEMISTRY%2FBonnie%2BGarmus%2F9780385547345"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780385547345"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1501171348?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Laura Dave",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781501171345.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/b38ae769-e873-5272-bb5a-c58a35162db1",
+        "contributor": "by Laura Dave",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:56:43.148Z",
+        "dagger": 0,
+        "description": "Hannah Hall discovers truths about her missing husband and bonds with his daughter from a previous relationship.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781501171345",
+        "publisher": "Simon & Schuster",
+        "rank": 9,
+        "rank_last_week": 7,
+        "sunday_review_link": "",
+        "title": "THE LAST THING HE TOLD ME",
+        "updated_date": "2025-10-11T07:56:43.148Z",
+        "weeks_on_list": 55,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781501171345"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1501171348?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781501171345?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501171345"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BLAST%2BTHING%2BHE%2BTOLD%2BME%2FLaura%2BDave%2F9781501171345"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781501171345"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0399562966?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Geraldine Brooks",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780399562969.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/0c83e517-70e6-5c2a-8d5e-2e95363c108f",
+        "contributor": "by Geraldine Brooks",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:56:44.542Z",
+        "dagger": 0,
+        "description": "The story of a racehorse, an enslaved groom and an itinerant painter reverberates in three different eras.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780399562969",
+        "publisher": "Viking",
+        "rank": 10,
+        "rank_last_week": 9,
+        "sunday_review_link": "",
+        "title": "HORSE",
+        "updated_date": "2025-10-11T07:56:44.542Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780399562969"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0399562966?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780399562969?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780399562969"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHORSE%2FGeraldine%2BBrooks%2F9780399562969"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780399562969"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593358600?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Adam Christopher",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593358603.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/51882bff-c38f-5355-bc0a-f7e5d830ead7",
+        "contributor": "by Adam Christopher",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:50:42.675Z",
+        "dagger": 0,
+        "description": "Nearly two decades after the Battle of Endor, Lando Calrissian informs Luke Skywalker of a new Sith menace.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593358603",
+        "publisher": "Del Rey",
+        "rank": 11,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "STAR WARS: SHADOW OF THE SITH",
+        "updated_date": "2025-10-11T07:50:42.675Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593358603"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593358600?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593358603?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593358603"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSTAR%2BWARS%253A%2BSHADOW%2BOF%2BTHE%2BSITH%2FAdam%2BChristopher%2F9780593358603"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593358603"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0425286649?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Emily Giffin",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780425286647.jpg",
+        "book_image_height": 500,
+        "book_image_width": 338,
+        "book_review_link": "",
+        "book_uri": "nyt://book/9d97c2b8-2162-57d1-83b2-0a1bc950f507",
+        "contributor": "by Emily Giffin",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:50:44.753Z",
+        "dagger": 0,
+        "description": "Joe, the disappointing scion of a family considered American royalty, and Cate, a budding model seeking to escape her surroundings, find each other.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780425286647",
+        "publisher": "Ballantine",
+        "rank": 12,
+        "rank_last_week": 8,
+        "sunday_review_link": "",
+        "title": "MEANT TO BE",
+        "updated_date": "2025-10-11T07:50:44.753Z",
+        "weeks_on_list": 5,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780425286647"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0425286649?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780425286647?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780425286647"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMEANT%2BTO%2BBE%2FEmily%2BGiffin%2F9780425286647"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780425286647"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/075955434X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Dolly Parton and James Patterson",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780759554344.jpg",
+        "book_image_height": 500,
+        "book_image_width": 322,
+        "book_review_link": "",
+        "book_uri": "nyt://book/de82c2a0-f17b-526c-a326-c2233f0667b3",
+        "contributor": "by Dolly Parton and James Patterson",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:50:42.922Z",
+        "dagger": 0,
+        "description": "A singer-songwriter goes to Nashville seeking stardom but is followed by her dark past.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780759554344",
+        "publisher": "Little, Brown",
+        "rank": 13,
+        "rank_last_week": 10,
+        "sunday_review_link": "",
+        "title": "RUN, ROSE, RUN",
+        "updated_date": "2025-10-11T07:50:42.922Z",
+        "weeks_on_list": 17,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780759554344"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/075955434X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780759554344?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780759554344"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRUN%252C%2BROSE%252C%2BRUN%2FDolly%2BParton%2Band%2BJames%2BPatterson%2F9780759554344"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780759554344"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0063003058?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Lucy Foley",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780063003057.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/ef0030b7-5eca-5278-835a-ade95bfbb1f2",
+        "contributor": "by Lucy Foley",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:51:33.789Z",
+        "dagger": 0,
+        "description": "Jess has suspicions about her half-brother\u2019s neighbors when he goes missing.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780063003057",
+        "publisher": "Morrow",
+        "rank": 14,
+        "rank_last_week": 15,
+        "sunday_review_link": "",
+        "title": "THE PARIS APARTMENT",
+        "updated_date": "2025-10-11T07:51:33.789Z",
+        "weeks_on_list": 19,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780063003057"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0063003058?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780063003057?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780063003057"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BPARIS%2BAPARTMENT%2FLucy%2BFoley%2F9780063003057"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780063003057"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593300262?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Ottessa Moshfegh",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593300268.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/92cd390a-ad12-5fd0-b947-1e99c5a7eecd",
+        "contributor": "by Ottessa Moshfegh",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:50:43.194Z",
+        "dagger": 0,
+        "description": "When a motherless shepherd boy gets in violent proximity to a depraved lord\u2019s family, occult forces upset the old order in a medieval fief.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593300268",
+        "publisher": "Penguin Press",
+        "rank": 15,
+        "rank_last_week": 5,
+        "sunday_review_link": "",
+        "title": "LAPVONA",
+        "updated_date": "2025-10-11T07:50:43.194Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593300268"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593300262?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593300268?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593300268"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLAPVONA%2FOttessa%2BMoshfegh%2F9780593300268"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593300268"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  }
+}

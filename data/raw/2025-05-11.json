@@ -1,0 +1,862 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+  "num_results": 15,
+  "last_modified": "2025-10-11T08:21:57Z",
+  "results": {
+    "display_name": "Hardcover Fiction",
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "previous_published_date": "2025-05-04",
+    "published_date": "2025-05-11",
+    "next_published_date": "2025-05-18",
+    "bestsellers_date": "2025-04-26",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "list_id": 1,
+    "uri": "nyt://bestsellerslist/74717caf-04de-58e5-b473-d1396474ea5b",
+    "books": [
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/059344129X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Emily Henry",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593441299.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/9acef644-540c-598c-8d0b-abe49ecc78c0",
+        "contributor": "by Emily Henry",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:22:38.714Z",
+        "dagger": 0,
+        "description": "A writer looking for her big break competes against a Pulitzer winner to tell the story of an octogenarian with a storied past.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593441299",
+        "publisher": "Berkley",
+        "rank": 1,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "GREAT BIG BEAUTIFUL LIFE",
+        "updated_date": "2025-10-11T08:22:38.714Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593441299"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/059344129X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593441299?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593441299"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGREAT%2BBIG%2BBEAUTIFUL%2BLIFE%2FEmily%2BHenry%2F9780593441299"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593441299"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/B0DGY5F5JX?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Jeneva Rose",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9798874620936.jpg",
+        "book_image_height": 500,
+        "book_image_width": 437,
+        "book_review_link": "",
+        "book_uri": "nyt://book/0957dbf1-919e-5282-b184-4872a7e06b3a",
+        "contributor": "by Jeneva Rose",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:22:39.549Z",
+        "dagger": 0,
+        "description": "Around the time of the disappearance of a woman who had a one-night stand with the attorney Sarah Morgan\u2019s new husband, police reopen the investigation into the murder of her first husband\u2019s mistress.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9798874620936",
+        "publisher": "Blackstone",
+        "rank": 2,
+        "rank_last_week": 1,
+        "sunday_review_link": "",
+        "title": "THE PERFECT DIVORCE",
+        "updated_date": "2025-10-11T08:22:39.549Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9798874620936"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/B0DGY5F5JX?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9798874620936?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9798874620936"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BPERFECT%2BDIVORCE%2FJeneva%2BRose%2F9798874620936"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9798874620936"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1538742055?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "David Baldacci",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781538742051.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/d6d26dfb-ee33-5706-ba9a-85c729f5916a",
+        "contributor": "by David Baldacci",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:22:39.423Z",
+        "dagger": 0,
+        "description": "In London in 1944, two teenagers dealing with the dangers of World War II form an alliance with a bookshop owner.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781538742051",
+        "publisher": "Grand Central",
+        "rank": 3,
+        "rank_last_week": 2,
+        "sunday_review_link": "",
+        "title": "STRANGERS IN TIME",
+        "updated_date": "2025-10-11T08:22:39.423Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781538742051"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1538742055?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781538742051?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538742051"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSTRANGERS%2BIN%2BTIME%2FDavid%2BBaldacci%2F9781538742051"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781538742051"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1538759195?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Abby Jimenez",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781538759196.jpg",
+        "book_image_height": 500,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/eefaad10-a0d7-5fea-97d1-47619ad9c431",
+        "contributor": "by Abby Jimenez",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:22:17.686Z",
+        "dagger": 0,
+        "description": "Despite having a great date, Samantha asks a veterinarian to forget about her because her family is in crisis.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781538759196",
+        "publisher": "Forever",
+        "rank": 4,
+        "rank_last_week": 3,
+        "sunday_review_link": "",
+        "title": "SAY YOU'LL REMEMBER ME",
+        "updated_date": "2025-10-11T08:22:17.686Z",
+        "weeks_on_list": 4,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781538759196"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1538759195?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781538759196?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538759196"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSAY%2BYOU%2527LL%2BREMEMBER%2BME%2FAb%2BJimenez%2F9781538759196"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781538759196"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1649374186?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Rebecca Yarros",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781649377159.jpg",
+        "book_image_height": 500,
+        "book_image_width": 310,
+        "book_review_link": "",
+        "book_uri": "nyt://book/8aa689f7-187e-5292-bfd4-e7fc7c2c535f",
+        "contributor": "by Rebecca Yarros",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:22:19.248Z",
+        "dagger": 0,
+        "description": "The third book in the Empyrean series. As enemies gain traction, Violet Sorrengail goes beyond the Aretian wards in search of allies.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781649377159",
+        "publisher": "Red Tower",
+        "rank": 5,
+        "rank_last_week": 4,
+        "sunday_review_link": "",
+        "title": "ONYX STORM",
+        "updated_date": "2025-10-11T08:22:19.248Z",
+        "weeks_on_list": 14,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781649377159"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1649374186?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781649377159?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781649377159"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FONYX%2BSTORM%2FRebecca%2BYarros%2F9781649377159"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781649377159"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1649374178?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Rebecca Yarros",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781649374172.jpg",
+        "book_image_height": 500,
+        "book_image_width": 309,
+        "book_review_link": "",
+        "book_uri": "nyt://book/d3c570c9-3c3a-5c8b-a740-85ea5e92bfc9",
+        "contributor": "by Rebecca Yarros",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:22:17.941Z",
+        "dagger": 0,
+        "description": "The second book in the Empyrean series. Violet Sorrengail\u2019s next round of training under the new vice commandant might require her to betray the man she loves.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781649374172",
+        "publisher": "Red Tower",
+        "rank": 6,
+        "rank_last_week": 5,
+        "sunday_review_link": "",
+        "title": "IRON FLAME",
+        "updated_date": "2025-10-11T08:22:17.941Z",
+        "weeks_on_list": 77,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781649374172"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1649374178?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781649374172?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781649374172"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FIRON%2BFLAME%2FRebecca%2BYarros%2F9781649374172"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781649374172"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/166807818X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Clare Leslie Hall",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781668078181.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/bd78d61b-82fb-58ec-8990-46ca43146f2b",
+        "contributor": "by Clare Leslie Hall",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:22:18.033Z",
+        "dagger": 0,
+        "description": "Beth must confront her past when the man she once loved as a teenager returns to the village with his son.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781668078181",
+        "publisher": "Simon & Schuster",
+        "rank": 7,
+        "rank_last_week": 6,
+        "sunday_review_link": "",
+        "title": "BROKEN COUNTRY",
+        "updated_date": "2025-10-11T08:22:18.033Z",
+        "weeks_on_list": 8,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781668078181"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/166807818X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781668078181?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781668078181"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBROKEN%2BCOUNTRY%2FClare%2BLeslie%2BHall%2F9781668078181"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781668078181"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1250899575?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Alison Espach",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250899576.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/0935eb9b-9320-5ed9-93e8-32cef229779e",
+        "contributor": "by Alison Espach",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:22:17.003Z",
+        "dagger": 0,
+        "description": "A woman who is down on her luck forms an unexpected bond with the bride at a wedding in Rhode Island.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250899576",
+        "publisher": "Holt",
+        "rank": 8,
+        "rank_last_week": 8,
+        "sunday_review_link": "",
+        "title": "THE WEDDING PEOPLE",
+        "updated_date": "2025-10-11T08:22:17.003Z",
+        "weeks_on_list": 26,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250899576"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250899575?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250899576?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250899576"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BWEDDING%2BPEOPLE%2FAlison%2BEspach%2F9781250899576"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250899576"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1250178630?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Kristin Hannah",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250178633.jpg",
+        "book_image_height": 500,
+        "book_image_width": 333,
+        "book_review_link": "",
+        "book_uri": "nyt://book/9ce735af-71cf-5ff3-a367-43ee07e3fdd7",
+        "contributor": "by Kristin Hannah",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:22:18.311Z",
+        "dagger": 0,
+        "description": "A nurse follows her brother to serve during the Vietnam War and returns to a divided America.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250178633",
+        "publisher": "St. Martin's",
+        "rank": 9,
+        "rank_last_week": 9,
+        "sunday_review_link": "",
+        "title": "THE WOMEN",
+        "updated_date": "2025-10-11T08:22:18.311Z",
+        "weeks_on_list": 64,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250178633"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250178630?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250178633?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250178633"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BWOMEN%2FKristin%2BHannah%2F9781250178633"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250178633"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0385550367?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Percival Everett",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780385550369.jpg",
+        "book_image_height": 500,
+        "book_image_width": 333,
+        "book_review_link": "",
+        "book_uri": "nyt://book/5788b098-426a-5f2c-a318-475692df69ee",
+        "contributor": "by Percival Everett",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:22:19.505Z",
+        "dagger": 0,
+        "description": "A reimagining of \u201cAdventures of Huckleberry Finn\u201d shines a different light on Mark Twain's classic, revealing new facets of the character of Jim.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780385550369",
+        "publisher": "Doubleday",
+        "rank": 10,
+        "rank_last_week": 11,
+        "sunday_review_link": "",
+        "title": "JAMES",
+        "updated_date": "2025-10-11T08:22:19.505Z",
+        "weeks_on_list": 43,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780385550369"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0385550367?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780385550369?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385550369"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FJAMES%2FPercival%2BEverett%2F9780385550369"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780385550369"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593418913?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Liz Moore",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593418918.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/76d129f6-ab9c-591c-b25e-9a2758250c07",
+        "contributor": "by Liz Moore",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:22:17.384Z",
+        "dagger": 0,
+        "description": "When a 13-year-old girl disappears from an Adirondack summer camp in 1975, secrets kept by the Van Laar family emerge.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593418918",
+        "publisher": "Riverhead",
+        "rank": 11,
+        "rank_last_week": 13,
+        "sunday_review_link": "",
+        "title": "THE GOD OF THE WOODS",
+        "updated_date": "2025-10-11T08:22:17.384Z",
+        "weeks_on_list": 41,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593418918"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593418913?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593418918?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593418918"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BGOD%2BOF%2BTHE%2BWOODS%2FLiz%2BMoore%2F9780593418918"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593418918"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0063411660?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Alex Aster",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780063411661.jpg",
+        "book_image_height": 500,
+        "book_image_width": 350,
+        "book_review_link": "",
+        "book_uri": "nyt://book/9abdcbb4-40fe-54fc-bb74-f8e2b673d188",
+        "contributor": "by Alex Aster",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:21:49.828Z",
+        "dagger": 0,
+        "description": "A screenwriter seeking inspiration coincidentally moves next door to the billionaire with whom she hooked up a couple years ago.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780063411661",
+        "publisher": "Morrow",
+        "rank": 12,
+        "rank_last_week": 10,
+        "sunday_review_link": "",
+        "title": "SUMMER IN THE CITY",
+        "updated_date": "2025-10-11T08:21:49.828Z",
+        "weeks_on_list": 5,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780063411661"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0063411660?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780063411661?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780063411661"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSUMMER%2BIN%2BTHE%2BCITY%2FAlex%2BAster%2F9780063411661"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780063411661"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0063344858?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Anne Hillerman",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780063344853.jpg",
+        "book_image_height": 500,
+        "book_image_width": 333,
+        "book_review_link": "",
+        "book_uri": "nyt://book/533ba09d-583e-5cce-b5ea-05b2f7d33d21",
+        "contributor": "by Anne Hillerman",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:21:39.991Z",
+        "dagger": 0,
+        "description": "The 10th book in the Leaphorn, Chee & Manuelito series. A scheme exploiting Indigenous people intersects with other investigations.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780063344853",
+        "publisher": "Harper",
+        "rank": 13,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "SHADOW OF THE SOLSTICE",
+        "updated_date": "2025-10-11T08:21:39.991Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780063344853"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0063344858?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780063344853?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780063344853"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSHADOW%2BOF%2BTHE%2BSOLSTICE%2FAnne%2BHillerman%2F9780063344853"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780063344853"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1649374046?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Rebecca Yarros",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781649374042.jpg",
+        "book_image_height": 500,
+        "book_image_width": 309,
+        "book_review_link": "",
+        "book_uri": "nyt://book/106c2cf0-7d20-51b1-bad4-91c3ebcd131a",
+        "contributor": "by Rebecca Yarros",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:21:40.121Z",
+        "dagger": 0,
+        "description": "Violet Sorrengail is urged by the commanding general, who also is her mother, to become a candidate for the elite dragon riders.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781649374042",
+        "publisher": "Red Tower",
+        "rank": 14,
+        "rank_last_week": 12,
+        "sunday_review_link": "",
+        "title": "FOURTH WING",
+        "updated_date": "2025-10-11T08:21:40.121Z",
+        "weeks_on_list": 94,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781649374042"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1649374046?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781649374042?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781649374042"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFOURTH%2BWING%2FRebecca%2BYarros%2F9781649374042"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781649374042"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1250339944?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Juliette Cross",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250339942.jpg",
+        "book_image_height": 500,
+        "book_image_width": 359,
+        "book_review_link": "",
+        "book_uri": "nyt://book/7eebc020-069c-5641-9db2-b1a370fd1e55",
+        "contributor": "by Juliette Cross",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:21:50.551Z",
+        "dagger": 0,
+        "description": "A Roman general who can transform into a dragon and a Dacian dancer discover that their love may bring about pain.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250339942",
+        "publisher": "Bramble",
+        "rank": 15,
+        "rank_last_week": 7,
+        "sunday_review_link": "",
+        "title": "FIREBIRD",
+        "updated_date": "2025-10-11T08:21:50.551Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250339942"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250339944?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250339942?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250339942"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFIREBIRD%2FJuliette%2BCross%2F9781250339942"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250339942"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  }
+}

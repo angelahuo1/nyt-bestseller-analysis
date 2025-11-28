@@ -1,0 +1,862 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+  "num_results": 15,
+  "last_modified": "2025-10-11T07:32:39Z",
+  "results": {
+    "display_name": "Hardcover Fiction",
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "previous_published_date": "2020-12-06",
+    "published_date": "2020-12-13",
+    "next_published_date": "2020-12-20",
+    "bestsellers_date": "2020-11-28",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "list_id": 1,
+    "uri": "nyt://bestsellerslist/d51d5c7d-1219-5f4e-b1a6-d911f8fa8047",
+    "books": [
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1524761338?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Ernest Cline",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781524761332.jpg",
+        "book_image_height": 500,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/473f18d4-0433-5c42-abaa-54c7c9dd26e5",
+        "contributor": "by Ernest Cline",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:34:40.403Z",
+        "dagger": 0,
+        "description": "In a sequel to \u201cReady Player One,\u201d Wade Watts discovers a technological advancement and goes on a new quest.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781524761332",
+        "publisher": "Ballantine",
+        "rank": 1,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "READY PLAYER TWO",
+        "updated_date": "2025-10-11T07:34:40.403Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781524761332"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1524761338?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781524761332?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781524761332"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FREADY%2BPLAYER%2BTWO%2FErnest%2BCline%2F9781524761332"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781524761332"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0316420255?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "James Patterson",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316420259.jpg",
+        "book_image_height": 500,
+        "book_image_width": 322,
+        "book_review_link": "",
+        "book_uri": "nyt://book/662286db-c00a-50de-9ba0-dec968f24b50",
+        "contributor": "by James Patterson",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:33:51.371Z",
+        "dagger": 0,
+        "description": "The 28th book in the Alex Cross series. An investigation of a double homicide sends Alex Cross to Alabama.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316420259",
+        "publisher": "Little, Brown",
+        "rank": 2,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "DEADLY CROSS",
+        "updated_date": "2025-10-11T07:33:51.371Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316420259"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0316420255?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316420259?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316420259"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDEADLY%2BCROSS%2FJames%2BPatterson%2F9780316420259"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316420259"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1538728575?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Nicholas Sparks",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781538728574.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/b9bf792c-a853-54ce-8f33-7117f51be365",
+        "contributor": "by Nicholas Sparks",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:34:43.825Z",
+        "dagger": 0,
+        "description": "A doctor serving in the Navy in Afghanistan goes back to North Carolina where two women change his life.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781538728574",
+        "publisher": "Grand Central",
+        "rank": 3,
+        "rank_last_week": 5,
+        "sunday_review_link": "",
+        "title": "THE RETURN",
+        "updated_date": "2025-10-11T07:34:43.825Z",
+        "weeks_on_list": 9,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781538728574"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1538728575?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781538728574?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538728574"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BRETURN%2FNicholas%2BSparks%2F9781538728574"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781538728574"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0385545967?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "John Grisham",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780385545969.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/33a48cf6-d7f3-5113-aa1e-6adcbb3853c3",
+        "contributor": "by John Grisham",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:34:42.379Z",
+        "dagger": 0,
+        "description": "The third book in the Jake Brigance series. A 16-year-old is accused of killing a deputy in Clanton, Miss., in 1990.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780385545969",
+        "publisher": "Doubleday",
+        "rank": 4,
+        "rank_last_week": 3,
+        "sunday_review_link": "",
+        "title": "A TIME FOR MERCY",
+        "updated_date": "2025-10-11T07:34:42.379Z",
+        "weeks_on_list": 7,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780385545969"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0385545967?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780385545969?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385545969"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FA%2BTIME%2BFOR%2BMERCY%2FJohn%2BGrisham%2F9780385545969"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780385545969"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1538761696?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "David Baldacci",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781538761694.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/da8e02be-ca28-5393-9abc-02be863d6cb7",
+        "contributor": "by David Baldacci",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:33:13.538Z",
+        "dagger": 0,
+        "description": "The F.B.I. agent Atlee Pine\u2019s search for her twin sister overlaps with a military investigator\u2019s hunt for someone involved in a global conspiracy.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781538761694",
+        "publisher": "Grand Central",
+        "rank": 5,
+        "rank_last_week": 2,
+        "sunday_review_link": "",
+        "title": "DAYLIGHT",
+        "updated_date": "2025-10-11T07:33:13.538Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781538761694"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1538761696?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781538761694?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538761694"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDAYLIGHT%2FDavid%2BBaldacci%2F9781538761694"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781538761694"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1250272610?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Nora Roberts",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250272614.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/f6cca87d-7905-5e95-943a-e72c543f314d",
+        "contributor": "by Nora Roberts",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:33:13.904Z",
+        "dagger": 0,
+        "description": "The first book in the Dragon Heart Legacy series. Breen Kelly travels through a portal in Ireland to a land of faeries and mermaids.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250272614",
+        "publisher": "St. Martin's",
+        "rank": 6,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE AWAKENING",
+        "updated_date": "2025-10-11T07:33:13.904Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250272614"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250272610?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250272614?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250272614"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BAWAKENING%2FNora%2BRoberts%2F9781250272614"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250272614"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0316485624?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Michael Connelly",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316485623.jpg",
+        "book_image_height": 500,
+        "book_image_width": 322,
+        "book_review_link": "",
+        "book_uri": "nyt://book/2a92d581-b696-57c3-a866-5b983c4c07df",
+        "contributor": "by Michael Connelly",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:33:14.032Z",
+        "dagger": 0,
+        "description": "The sixth book in the Mickey Haller series. Haller defends himself when police find the body of a former client in his car\u2019s trunk.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316485623",
+        "publisher": "Little, Brown",
+        "rank": 7,
+        "rank_last_week": 4,
+        "sunday_review_link": "",
+        "title": "THE LAW OF INNOCENCE",
+        "updated_date": "2025-10-11T07:33:14.032Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316485623"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0316485624?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316485623?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316485623"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BLAW%2BOF%2BINNOCENCE%2FMichael%2BConnelly%2F9780316485623"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316485623"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0765326388?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Brandon Sanderson",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780765326386.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/1f018177-46e5-5eff-83bf-2b9e9cc07290",
+        "contributor": "by Brandon Sanderson",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:32:33.454Z",
+        "dagger": 0,
+        "description": "The fourth book in the Stormlight Archive series. Technological discoveries and an ensuing arms race change how a war is fought.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780765326386",
+        "publisher": "Tor",
+        "rank": 8,
+        "rank_last_week": 1,
+        "sunday_review_link": "",
+        "title": "RHYTHM OF WAR",
+        "updated_date": "2025-10-11T07:32:33.454Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780765326386"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0765326388?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780765326386?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780765326386"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRHYTHM%2BOF%2BWAR%2FBrandon%2BSanderson%2F9780765326386"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780765326386"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1984818465?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Lee Child and Andrew Child",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781984818461.jpg",
+        "book_image_height": 500,
+        "book_image_width": 327,
+        "book_review_link": "",
+        "book_uri": "nyt://book/8af67edb-c121-58bc-88ca-4fc6599ef2b6",
+        "contributor": "by Lee Child and Andrew Child",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:33:13.658Z",
+        "dagger": 0,
+        "description": "Jack Reacher intervenes on an ambush in Tennessee and uncovers a conspiracy.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781984818461",
+        "publisher": "Delacorte",
+        "rank": 9,
+        "rank_last_week": 7,
+        "sunday_review_link": "",
+        "title": "THE SENTINEL",
+        "updated_date": "2025-10-11T07:33:13.658Z",
+        "weeks_on_list": 5,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781984818461"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1984818465?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781984818461?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781984818461"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BSENTINEL%2FLee%2BChild%2Band%2BAndrew%2BChild%2F9781984818461"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781984818461"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0525536299?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Brit Bennett",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525536291.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/6db17f1d-4bd0-562a-80ef-efa2a272cf64",
+        "contributor": "by Brit Bennett",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:38:40.367Z",
+        "dagger": 0,
+        "description": "The lives of twin sisters who run away from a Southern Black community at age 16 diverge as one returns and the other takes on a different racial identity but their fates intertwine.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525536291",
+        "publisher": "Riverhead",
+        "rank": 10,
+        "rank_last_week": 12,
+        "sunday_review_link": "",
+        "title": "THE VANISHING HALF",
+        "updated_date": "2025-10-11T07:38:40.367Z",
+        "weeks_on_list": 26,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525536291"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0525536299?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525536291?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525536291"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BVANISHING%2BHALF%2FBrit%2BBennett%2F9780525536291"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525536291"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1982154837?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Janet Evanovich",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781982154837.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/adddbef7-49d1-5a23-82b6-cb83b7d030fb",
+        "contributor": "by Janet Evanovich",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:33:13.341Z",
+        "dagger": 0,
+        "description": "The 27th book in the Stephanie Plum series. Stephanie deals with a soldier of fortune from Little Havana.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781982154837",
+        "publisher": "Atria",
+        "rank": 11,
+        "rank_last_week": 8,
+        "sunday_review_link": "",
+        "title": "FORTUNE AND GLORY",
+        "updated_date": "2025-10-11T07:33:13.341Z",
+        "weeks_on_list": 4,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781982154837"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1982154837?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781982154837?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781982154837"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFORTUNE%2BAND%2BGLORY%2FJanet%2BEvanovich%2F9781982154837"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781982154837"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Where-Crawdads-Sing-Delia-Owens/dp/0735219095?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Delia Owens",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780735219090.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/053b4109-4555-5aa1-9b39-cc40549bcdf0",
+        "contributor": "by Delia Owens",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:50:45.896Z",
+        "dagger": 0,
+        "description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780735219090",
+        "publisher": "Putnam",
+        "rank": 12,
+        "rank_last_week": 13,
+        "sunday_review_link": "",
+        "title": "WHERE THE CRAWDADS SING",
+        "updated_date": "2025-10-11T07:50:45.896Z",
+        "weeks_on_list": 117,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780735219090"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Where-Crawdads-Sing-Delia-Owens/dp/0735219095?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780735219090?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780735219090"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWHERE%2BTHE%2BCRAWDADS%2BSING%2FDelia%2BOwens%2F9780735219090"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780735219090"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1501160834?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Fredrik Backman",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781501160837.jpg",
+        "book_image_height": 500,
+        "book_image_width": 332,
+        "book_review_link": "",
+        "book_uri": "nyt://book/3981eb6a-8937-5dcb-848b-a3904bf779a2",
+        "contributor": "by Fredrik Backman",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:34:43.957Z",
+        "dagger": 0,
+        "description": "A failed bank robber holds a group of strangers hostage at an apartment open house.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781501160837",
+        "publisher": "Atria",
+        "rank": 13,
+        "rank_last_week": 14,
+        "sunday_review_link": "",
+        "title": "ANXIOUS PEOPLE",
+        "updated_date": "2025-10-11T07:34:43.957Z",
+        "weeks_on_list": 12,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781501160837"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1501160834?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781501160837?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501160837"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FANXIOUS%2BPEOPLE%2FFredrik%2BBackman%2F9781501160837"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781501160837"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0765387565?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "V.E. Schwab",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780765387561.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/c9bf2d03-7b78-58d8-a9d7-a9b897d08427",
+        "contributor": "by V.E. Schwab",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:41:00.875Z",
+        "dagger": 0,
+        "description": "A Faustian bargain comes with a curse that affects the adventure Addie LaRue has across centuries.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780765387561",
+        "publisher": "Tor/Forge",
+        "rank": 14,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE INVISIBLE LIFE OF ADDIE LARUE",
+        "updated_date": "2025-10-11T07:41:00.875Z",
+        "weeks_on_list": 7,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780765387561"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0765387565?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780765387561?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780765387561"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BINVISIBLE%2BLIFE%2BOF%2BADDIE%2BLARUE%2FV.E.%2BSchwab%2F9780765387561"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780765387561"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0399179682?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Danielle Steel",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780399179686.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/a2ccd984-b48a-56ee-b8bd-2ca02fe706f3",
+        "contributor": "by Danielle Steel",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:32:22.049Z",
+        "dagger": 0,
+        "description": "Just as Coco is about to graduate from Columbia, tragic events in her family send her on a journey of self-discovery.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780399179686",
+        "publisher": "Delacorte",
+        "rank": 15,
+        "rank_last_week": 6,
+        "sunday_review_link": "",
+        "title": "ALL THAT GLITTERS",
+        "updated_date": "2025-10-11T07:32:22.049Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780399179686"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0399179682?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780399179686?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780399179686"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FALL%2BTHAT%2BGLITTERS%2FDanielle%2BSteel%2F9780399179686"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780399179686"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  }
+}

@@ -1,0 +1,862 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+  "num_results": 15,
+  "last_modified": "2025-10-11T08:04:33Z",
+  "results": {
+    "display_name": "Hardcover Fiction",
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "previous_published_date": "2023-10-22",
+    "published_date": "2023-10-29",
+    "next_published_date": "2023-11-05",
+    "bestsellers_date": "2023-10-14",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "list_id": 1,
+    "uri": "nyt://bestsellerslist/247640ba-752f-5d2c-bf91-8dc53f277612",
+    "books": [
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1649374046?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Rebecca Yarros",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781649374042.jpg",
+        "book_image_height": 500,
+        "book_image_width": 309,
+        "book_review_link": "",
+        "book_uri": "nyt://book/106c2cf0-7d20-51b1-bad4-91c3ebcd131a",
+        "contributor": "by Rebecca Yarros",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:21:40.121Z",
+        "dagger": 0,
+        "description": "Violet Sorrengail is urged by the commanding general, who also is her mother, to become a candidate for the elite dragon riders.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781649374042",
+        "publisher": "Red Tower",
+        "rank": 1,
+        "rank_last_week": 1,
+        "sunday_review_link": "",
+        "title": "FOURTH WING",
+        "updated_date": "2025-10-11T08:21:40.121Z",
+        "weeks_on_list": 23,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781649374042"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1649374046?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781649374042?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781649374042"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFOURTH%2BWING%2FRebecca%2BYarros%2F9781649374042"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781649374042"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/038554734X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Bonnie Garmus",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780385547345.jpg",
+        "book_image_height": 500,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/717e0ead-9782-567d-af27-d9a6cfb1856f",
+        "contributor": "by Bonnie Garmus",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:09:33.119Z",
+        "dagger": 0,
+        "description": "A scientist and single mother living in California in the 1960s becomes a star on a TV cooking show.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780385547345",
+        "publisher": "Doubleday",
+        "rank": 2,
+        "rank_last_week": 4,
+        "sunday_review_link": "",
+        "title": "LESSONS IN CHEMISTRY",
+        "updated_date": "2025-10-11T08:09:33.119Z",
+        "weeks_on_list": 75,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780385547345"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/038554734X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780385547345?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385547345"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLESSONS%2BIN%2BCHEMISTRY%2FBonnie%2BGarmus%2F9780385547345"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780385547345"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1668016133?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Stephen King",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781668016138.jpg",
+        "book_image_height": 500,
+        "book_image_width": 327,
+        "book_review_link": "",
+        "book_uri": "nyt://book/24a09504-4f13-5e38-a4a0-f6b8978e5ca7",
+        "contributor": "by Stephen King",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:06:59.512Z",
+        "dagger": 0,
+        "description": "The private detective Holly Gibney investigates whether a married pair of octogenarian academics had anything to do with Bonnie Dahl\u2019s disappearance.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781668016138",
+        "publisher": "Scribner",
+        "rank": 3,
+        "rank_last_week": 3,
+        "sunday_review_link": "",
+        "title": "HOLLY",
+        "updated_date": "2025-10-11T08:06:59.512Z",
+        "weeks_on_list": 6,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781668016138"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1668016133?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781668016138?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781668016138"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHOLLY%2FStephen%2BKing%2F9781668016138"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781668016138"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0525619992?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Cassandra Clare",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525619994.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/0140d611-8157-5401-a78e-6fd6807b1542",
+        "contributor": "by Cassandra Clare",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:05:03.419Z",
+        "dagger": 0,
+        "description": "An orphan who is the body double for a royal heir and a woman with magical abilities are drawn into the underworld of the city-state of Castellane.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525619994",
+        "publisher": "Del Rey",
+        "rank": 4,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "SWORD CATCHER",
+        "updated_date": "2025-10-11T08:05:03.419Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525619994"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0525619992?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525619994?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525619994"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSWORD%2BCATCHER%2FCassandra%2BClare%2F9780525619994"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525619994"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1501101811?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Nelson DeMille and Alex DeMille",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781501101816.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/74a9ef0d-b0b2-564c-9fbd-473906820032",
+        "contributor": "by Nelson DeMille and Alex DeMille",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:05:02.656Z",
+        "dagger": 0,
+        "description": "The second book in the Scott Brodie and Maggie Taylor series. After a mission in Venezuela, Brodie and Taylor search for the murderer of a fellow agent.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781501101816",
+        "publisher": "Scribner",
+        "rank": 5,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "BLOOD LINES",
+        "updated_date": "2025-10-11T08:05:02.656Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781501101816"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1501101811?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781501101816?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501101816"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBLOOD%2BLINES%2FNelson%2BDeMille%2Band%2BAlex%2BDeMille%2F9781501101816"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781501101816"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593542819?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "John Sandford",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593542811.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/0dfbdfc8-86ba-5616-a3fb-697390a00f32",
+        "contributor": "by John Sandford",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:05:26.479Z",
+        "dagger": 0,
+        "description": "The 33rd book in the Prey series. Davenport and Flowers investigate the murder of a federal judge and his two young sons.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593542811",
+        "publisher": "Putnam",
+        "rank": 6,
+        "rank_last_week": 2,
+        "sunday_review_link": "",
+        "title": "JUDGMENT PREY",
+        "updated_date": "2025-10-11T08:05:26.479Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593542811"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593542819?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593542811?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593542811"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FJUDGMENT%2BPREY%2FJohn%2BSandford%2F9780593542811"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593542811"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/006332752X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Ann Patchett",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780063327528.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/2430a2de-ff8f-5a25-88f8-50bd8137fa92",
+        "contributor": "by Ann Patchett",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:08:38.854Z",
+        "dagger": 0,
+        "description": "Three daughters, who return to their family orchard in the spring of 2020, learn about their mother\u2019s relationship with a famous actor.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780063327528",
+        "publisher": "Harper",
+        "rank": 7,
+        "rank_last_week": 9,
+        "sunday_review_link": "",
+        "title": "TOM LAKE",
+        "updated_date": "2025-10-11T08:08:38.854Z",
+        "weeks_on_list": 11,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780063327528"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/006332752X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780063327528?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780063327528"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTOM%2BLAKE%2FAnn%2BPatchett%2F9780063327528"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780063327528"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0525954996?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Ken Follett",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525954996.jpg",
+        "book_image_height": 500,
+        "book_image_width": 330,
+        "book_review_link": "",
+        "book_uri": "nyt://book/155373ee-247b-58fd-b6bc-ca6ed976ef23",
+        "contributor": "by Ken Follett",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:05:16.71Z",
+        "dagger": 0,
+        "description": "The fifth book in the Kingsbridge series. Change and turmoil affect various aspects of society in the latter part of the 18th century.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525954996",
+        "publisher": "Viking",
+        "rank": 8,
+        "rank_last_week": 10,
+        "sunday_review_link": "",
+        "title": "THE ARMOR OF LIGHT",
+        "updated_date": "2025-10-11T08:05:16.71Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525954996"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0525954996?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525954996?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525954996"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BARMOR%2BOF%2BLIGHT%2FKen%2BFollett%2F9780525954996"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525954996"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0316405698?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "James Patterson and Mike Lupica",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316405690.jpg",
+        "book_image_height": 500,
+        "book_image_width": 322,
+        "book_review_link": "",
+        "book_uri": "nyt://book/83c70590-6b64-5e72-8c6d-29f4ef483edb",
+        "contributor": "by James Patterson and Mike Lupica",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:04:34.039Z",
+        "dagger": 0,
+        "description": "A criminal defense attorney who received a terminal diagnosis might be in danger of being murdered.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316405690",
+        "publisher": "Little, Brown",
+        "rank": 9,
+        "rank_last_week": 7,
+        "sunday_review_link": "",
+        "title": "12 MONTHS TO LIVE",
+        "updated_date": "2025-10-11T08:04:34.039Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316405690"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0316405698?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316405690?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316405690"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2F12%2BMONTHS%2BTO%2BLIVE%2FJames%2BPatterson%2Band%2BMike%2BLupica%2F9780316405690"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316405690"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0063251922?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Barbara Kingsolver",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780063251922.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/dd6e4f9d-d082-552d-b888-7276a25b5aca",
+        "contributor": "by Barbara Kingsolver",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:08:41.499Z",
+        "dagger": 0,
+        "description": "Winner of a 2023 Pulitzer Prize for fiction. A reimagining of Charles Dickens\u2019s \u201cDavid Copperfield\u201d set in the mountains of southern Appalachia.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780063251922",
+        "publisher": "Harper",
+        "rank": 10,
+        "rank_last_week": 11,
+        "sunday_review_link": "",
+        "title": "DEMON COPPERHEAD",
+        "updated_date": "2025-10-11T08:08:41.499Z",
+        "weeks_on_list": 50,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780063251922"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0063251922?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780063251922?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780063251922"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDEMON%2BCOPPERHEAD%2FBarbara%2BKingsolver%2F9780063251922"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780063251922"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0802162177?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Abraham Verghese",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780802162175.jpg",
+        "book_image_height": 500,
+        "book_image_width": 320,
+        "book_review_link": "",
+        "book_uri": "nyt://book/5ebf1d34-4c68-560a-8330-7e65bedaaa1a",
+        "contributor": "by Abraham Verghese",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:10:46.788Z",
+        "dagger": 0,
+        "description": "Three generations of a family living on South India\u2019s Malabar Coast suffer the loss of a family member by drowning.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780802162175",
+        "publisher": "Grove",
+        "rank": 11,
+        "rank_last_week": 14,
+        "sunday_review_link": "",
+        "title": "THE COVENANT OF WATER",
+        "updated_date": "2025-10-11T08:10:46.788Z",
+        "weeks_on_list": 24,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780802162175"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0802162177?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780802162175?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780802162175"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BCOVENANT%2BOF%2BWATER%2FAbraham%2BVerghese%2F9780802162175"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780802162175"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1250799058?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Alix E. Harrow",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250799050.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/0bf107dc-ba64-5691-afb5-7b92284795af",
+        "contributor": "by Alix E. Harrow",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:04:27.899Z",
+        "dagger": 0,
+        "description": "An orphan hoping to improve things for her brother and herself goes inside a mansion connected to an author who disappeared over a century ago.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250799050",
+        "publisher": "Tor",
+        "rank": 12,
+        "rank_last_week": 8,
+        "sunday_review_link": "",
+        "title": "STARLING HOUSE",
+        "updated_date": "2025-10-11T08:04:27.899Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250799050"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250799058?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250799050?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250799050"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSTARLING%2BHOUSE%2FAlix%2BE.%2BHarrow%2F9781250799050"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250799050"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1984821954?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Danielle Steel",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781984821959.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/2864bf9e-5327-5030-bccd-aef1a71a8782",
+        "contributor": "by Danielle Steel",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:05:02.799Z",
+        "dagger": 0,
+        "description": "The former head of a Hollywood studio thinks the unfinished novel written by a woman he hired to get his affairs in order could be adapted for the screen.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781984821959",
+        "publisher": "Delacorte",
+        "rank": 13,
+        "rank_last_week": 6,
+        "sunday_review_link": "",
+        "title": "SECOND ACT",
+        "updated_date": "2025-10-11T08:05:02.799Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781984821959"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1984821954?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781984821959?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781984821959"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSECOND%2BACT%2FDanielle%2BSteel%2F9781984821959"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781984821959"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1668009161?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Richard Chizmar",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781668009161.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/0721277a-c706-5b9d-ad67-117f4e86298a",
+        "contributor": "by Richard Chizmar",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:04:15.735Z",
+        "dagger": 0,
+        "description": "In a sequel to \u201cChasing the Boogeyman,\u201d society\u2019s true crime obsession is further explored using meta-fiction devices.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781668009161",
+        "publisher": "Gallery",
+        "rank": 14,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "BECOMING THE BOOGEYMAN",
+        "updated_date": "2025-10-11T08:04:15.735Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781668009161"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1668009161?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781668009161?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781668009161"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBECOMING%2BTHE%2BBOOGEYMAN%2FRichard%2BChizmar%2F9781668009161"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781668009161"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593422945?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "James McBride",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593422946.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/7d47b076-7ad7-539c-a051-6664384636b9",
+        "contributor": "by James McBride",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:11:21.147Z",
+        "dagger": 0,
+        "description": "Secrets held by the residents of a dilapidated neighborhood come to life when a skeleton is found at the bottom of a well.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593422946",
+        "publisher": "Riverhead",
+        "rank": 15,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE HEAVEN & EARTH GROCERY STORE",
+        "updated_date": "2025-10-11T08:11:21.147Z",
+        "weeks_on_list": 9,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593422946"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593422945?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593422946?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593422946"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BHEAVEN%2B%2526%2BEARTH%2BGROCERY%2BSTORE%2FJames%2BMcBride%2F9780593422946"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593422946"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  }
+}

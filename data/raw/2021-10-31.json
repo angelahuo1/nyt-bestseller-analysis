@@ -1,0 +1,862 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+  "num_results": 15,
+  "last_modified": "2025-10-11T07:42:12Z",
+  "results": {
+    "display_name": "Hardcover Fiction",
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "previous_published_date": "2021-10-24",
+    "published_date": "2021-10-31",
+    "next_published_date": "2021-11-07",
+    "bestsellers_date": "2021-10-16",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "list_id": 1,
+    "uri": "nyt://bestsellerslist/dd5dd8cb-03e0-54ed-bf03-d8a9976e7f82",
+    "books": [
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/198217367X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Hillary Rodham Clinton and Louise Penny",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781982173678.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/ee38f9b9-6787-5e00-b068-7d2f712aa3fd",
+        "contributor": "by Hillary Rodham Clinton and Louise Penny",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:44:25.647Z",
+        "dagger": 0,
+        "description": "In the wake of the previous administration\u2019s mishandling of international affairs, the new Secretary of State Ellen Adams confronts interconnected global threats.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781982173678",
+        "publisher": "Simon & Schuster, St. Martin's",
+        "rank": 1,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "STATE OF TERROR",
+        "updated_date": "2025-10-11T07:44:25.647Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781982173678"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/198217367X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781982173678?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781982173678"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSTATE%2BOF%2BTERROR%2FHillary%2BRodham%2BClinton%2Band%2BLouise%2BPenny%2F9781982173678"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781982173678"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1538728621?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Nicholas Sparks",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781538728628.jpg",
+        "book_image_height": 500,
+        "book_image_width": 330,
+        "book_review_link": "",
+        "book_uri": "nyt://book/28cad580-eb4e-512f-a790-9fd5eddd45d4",
+        "contributor": "by Nicholas Sparks",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:45:28.203Z",
+        "dagger": 0,
+        "description": "Maggie Dawes, a renowned travel photographer, struggles with a medical diagnosis over Christmas.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781538728628",
+        "publisher": "Grand Central",
+        "rank": 2,
+        "rank_last_week": 2,
+        "sunday_review_link": "",
+        "title": "THE WISH",
+        "updated_date": "2025-10-11T07:45:28.203Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781538728628"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1538728621?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781538728628?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538728628"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BWISH%2FNicholas%2BSparks%2F9781538728628"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781538728628"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0735222355?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Amor Towles",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780735222359.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/43839b1f-c8cc-5ef4-8893-bd85582906a4",
+        "contributor": "by Amor Towles",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:48:14.134Z",
+        "dagger": 0,
+        "description": "Two friends who escaped from a juvenile work farm take Emmett Watson on an unexpected journey to New York City in 1954.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780735222359",
+        "publisher": "Viking",
+        "rank": 3,
+        "rank_last_week": 1,
+        "sunday_review_link": "",
+        "title": "THE LINCOLN HIGHWAY",
+        "updated_date": "2025-10-11T07:48:14.134Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780735222359"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0735222355?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780735222359?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780735222359"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BLINCOLN%2BHIGHWAY%2FAmor%2BTowles%2F9780735222359"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780735222359"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1982168439?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Anthony Doerr",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781982168438.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/d7de00f6-afc5-58c4-b106-0dcb33c8eed9",
+        "contributor": "by Anthony Doerr",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:46:19.787Z",
+        "dagger": 0,
+        "description": "An interconnected cast of dreamers and outsiders are in dangerous and disparate settings past, present and future.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781982168438",
+        "publisher": "Scribner",
+        "rank": 4,
+        "rank_last_week": 3,
+        "sunday_review_link": "",
+        "title": "CLOUD CUCKOO LAND",
+        "updated_date": "2025-10-11T07:46:19.787Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781982168438"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1982168439?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781982168438?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781982168438"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCLOUD%2BCUCKOO%2BLAND%2FAnthony%2BDoerr%2F9781982168438"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781982168438"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1250220254?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Liane Moriarty",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250220257.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/49a3b4e2-4c03-5363-be9f-b3f5e80ddc6a",
+        "contributor": "by Liane Moriarty",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:43:06.148Z",
+        "dagger": 0,
+        "description": "The Delaney siblings suspect their father of causing the disappearance of their mother.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250220257",
+        "publisher": "Holt",
+        "rank": 5,
+        "rank_last_week": 5,
+        "sunday_review_link": "",
+        "title": "APPLES NEVER FALL",
+        "updated_date": "2025-10-11T07:43:06.148Z",
+        "weeks_on_list": 5,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250220257"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250220254?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250220257?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250220257"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAPPLES%2BNEVER%2BFALL%2FLiane%2BMoriarty%2F9781250220257"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250220257"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593490592?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "John Le Carr\u00e9",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593490594.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/325d46cd-2ab6-5093-888b-10a01a6983e8",
+        "contributor": "by John Le Carr\u00e9",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:42:56.399Z",
+        "dagger": 0,
+        "description": "A London spy chief\u2019s investigation brings him to a quiet seaside town where Julian Lawndsley has relocated and opened a bookstore.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593490594",
+        "publisher": "Viking",
+        "rank": 6,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "SILVERVIEW",
+        "updated_date": "2025-10-11T07:42:56.399Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593490594"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593490592?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593490594?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593490594"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSILVERVIEW%2FJohn%2BLe%2BCarr%25C3%25A9%2F9780593490594"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593490594"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1501171348?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Laura Dave",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781501171345.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/b38ae769-e873-5272-bb5a-c58a35162db1",
+        "contributor": "by Laura Dave",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:56:43.148Z",
+        "dagger": 0,
+        "description": "Hannah Hall discovers truths about her missing husband and bonds with his daughter from a previous relationship.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781501171345",
+        "publisher": "Simon & Schuster",
+        "rank": 7,
+        "rank_last_week": 8,
+        "sunday_review_link": "",
+        "title": "THE LAST THING HE TOLD ME",
+        "updated_date": "2025-10-11T07:56:43.148Z",
+        "weeks_on_list": 24,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781501171345"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1501171348?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781501171345?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501171345"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BLAST%2BTHING%2BHE%2BTOLD%2BME%2FLaura%2BDave%2F9781501171345"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781501171345"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/198215148X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Alice Hoffman",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781982151485.jpg",
+        "book_image_height": 500,
+        "book_image_width": 336,
+        "book_review_link": "",
+        "book_uri": "nyt://book/767e23ef-e9d6-5e36-b992-63286b33d7d5",
+        "contributor": "by Alice Hoffman",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:42:08.241Z",
+        "dagger": 0,
+        "description": "The fourth book in the Practical Magic series. Three generations of Owens women try to save a young man\u2019s life.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781982151485",
+        "publisher": "Simon & Schuster",
+        "rank": 8,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE BOOK OF MAGIC",
+        "updated_date": "2025-10-11T07:42:08.241Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781982151485"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/198215148X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781982151485?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781982151485"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BBOOK%2BOF%2BMAGIC%2FAlice%2BHoffman%2F9781982151485"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781982151485"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0385545134?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Colson Whitehead",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780385545136.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/429ead69-c906-5e12-8372-4af272f75460",
+        "contributor": "by Colson Whitehead",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:44:25.868Z",
+        "dagger": 0,
+        "description": "Ray Carney, a family man who sells furniture on 125th Street, gets a new clientele made up of vicious and unsavory characters.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780385545136",
+        "publisher": "Doubleday",
+        "rank": 9,
+        "rank_last_week": 6,
+        "sunday_review_link": "",
+        "title": "HARLEM SHUFFLE",
+        "updated_date": "2025-10-11T07:44:25.868Z",
+        "weeks_on_list": 5,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780385545136"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0385545134?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780385545136?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385545136"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHARLEM%2BSHUFFLE%2FColson%2BWhitehead%2F9780385545136"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780385545136"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1984821520?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Danielle Steel",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781984821522.jpg",
+        "book_image_height": 500,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/c4337533-9195-5d2f-8dd8-02c874ff89cd",
+        "contributor": "by Danielle Steel",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:42:42.721Z",
+        "dagger": 0,
+        "description": "The working relationship between a man and woman from different worlds develops into something new for them.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781984821522",
+        "publisher": "Delacorte",
+        "rank": 10,
+        "rank_last_week": 7,
+        "sunday_review_link": "",
+        "title": "THE BUTLER",
+        "updated_date": "2025-10-11T07:42:42.721Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781984821522"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1984821520?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781984821522?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781984821522"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BBUTLER%2FDanielle%2BSteel%2F9781984821522"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781984821522"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1982173610?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Stephen King",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781982173616.jpg",
+        "book_image_height": 500,
+        "book_image_width": 327,
+        "book_review_link": "",
+        "book_uri": "nyt://book/718759e4-3da8-561f-bd45-c0b5e1769e06",
+        "contributor": "by Stephen King",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:44:41.101Z",
+        "dagger": 0,
+        "description": "A killer for hire who only takes out bad guys seeks redemption as he does one final job.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781982173616",
+        "publisher": "Scribner",
+        "rank": 11,
+        "rank_last_week": 9,
+        "sunday_review_link": "",
+        "title": "BILLY SUMMERS",
+        "updated_date": "2025-10-11T07:44:41.101Z",
+        "weeks_on_list": 11,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781982173616"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1982173610?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781982173616?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781982173616"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBILLY%2BSUMMERS%2FStephen%2BKing%2F9781982173616"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781982173616"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0374181179?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Jonathan Franzen",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780374181178.jpg",
+        "book_image_height": 500,
+        "book_image_width": 333,
+        "book_review_link": "",
+        "book_uri": "nyt://book/a8a06aec-3cbc-5104-a35b-161fd68075f7",
+        "contributor": "by Jonathan Franzen",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:42:42.443Z",
+        "dagger": 0,
+        "description": "Members of a Midwestern family find themselves at a pivotal moment of moral crisis in 1971.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780374181178",
+        "publisher": "Farrar, Straus & Giroux",
+        "rank": 12,
+        "rank_last_week": 4,
+        "sunday_review_link": "",
+        "title": "CROSSROADS",
+        "updated_date": "2025-10-11T07:42:42.443Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780374181178"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0374181179?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780374181178?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780374181178"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCROSSROADS%2FJonathan%2BFranzen%2F9780374181178"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780374181178"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0525559477?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Matt Haig",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525559474.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/60d0ee2d-3d05-50c9-a484-050d17a2308e",
+        "contributor": "by Matt Haig",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:57:35.581Z",
+        "dagger": 0,
+        "description": "Nora Seed finds a library beyond the edge of the universe that contains books with multiple possibilities of the lives one could have lived.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525559474",
+        "publisher": "Viking",
+        "rank": 13,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE MIDNIGHT LIBRARY",
+        "updated_date": "2025-10-11T07:57:35.581Z",
+        "weeks_on_list": 45,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525559474"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0525559477?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525559474?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525559474"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BMIDNIGHT%2BLIBRARY%2FMatt%2BHaig%2F9780525559474"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525559474"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0374602603?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Sally Rooney",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780374602604.jpg",
+        "book_image_height": 500,
+        "book_image_width": 327,
+        "book_review_link": "",
+        "book_uri": "nyt://book/97a333ba-3bc7-522f-9c8d-3e7b704ba6ae",
+        "contributor": "by Sally Rooney",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:44:27.469Z",
+        "dagger": 0,
+        "description": "A novelist, a warehouse worker, an editorial assistant and a political adviser deal with changes.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780374602604",
+        "publisher": "Farrar, Straus & Giroux",
+        "rank": 14,
+        "rank_last_week": 13,
+        "sunday_review_link": "",
+        "title": "BEAUTIFUL WORLD, WHERE ARE YOU",
+        "updated_date": "2025-10-11T07:44:27.469Z",
+        "weeks_on_list": 6,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780374602604"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0374602603?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780374602604?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780374602604"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBEAUTIFUL%2BWORLD%252C%2BWHERE%2BARE%2BYOU%2FSally%2BRooney%2F9780374602604"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780374602604"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0316276626?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "James Patterson and Nancy Allen",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316276627.jpg",
+        "book_image_height": 500,
+        "book_image_width": 322,
+        "book_review_link": "",
+        "book_uri": "nyt://book/5371f6aa-bbba-5d1e-a04e-bcb044f628a4",
+        "contributor": "by James Patterson and Nancy Allen",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:42:15.45Z",
+        "dagger": 0,
+        "description": "A young lawyer winds up in an Alabama jail that remains mysteriously crowded.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316276627",
+        "publisher": "Little, Brown",
+        "rank": 15,
+        "rank_last_week": 10,
+        "sunday_review_link": "",
+        "title": "THE JAILHOUSE LAWYER",
+        "updated_date": "2025-10-11T07:42:15.45Z",
+        "weeks_on_list": 4,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316276627"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0316276626?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316276627?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316276627"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BJAILHOUSE%2BLAWYER%2FJames%2BPatterson%2Band%2BNancy%2BAllen%2F9780316276627"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316276627"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  }
+}

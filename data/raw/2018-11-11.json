@@ -1,0 +1,862 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+  "num_results": 15,
+  "last_modified": "2025-10-11T07:09:20Z",
+  "results": {
+    "display_name": "Hardcover Fiction",
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "previous_published_date": "2018-11-04",
+    "published_date": "2018-11-11",
+    "next_published_date": "2018-11-18",
+    "bestsellers_date": "2018-10-27",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "list_id": 1,
+    "uri": "nyt://bestsellerslist/d80d6389-3ffa-5cf2-b372-27b295dd0bf8",
+    "books": [
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Reckoning-Novel-John-Grisham-ebook/dp/B079DBS447?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "John Grisham",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780385544153.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "",
+        "book_uri": "nyt://book/3ee62d10-7341-5e71-8603-2acc2eeaaa0d",
+        "contributor": "by John Grisham",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:13:20.691Z",
+        "dagger": 0,
+        "description": "A decorated World War II veteran shoots and kills a pastor.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780385544153",
+        "publisher": "Doubleday",
+        "rank": 1,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE RECKONING",
+        "updated_date": "2025-10-11T07:13:20.691Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780385544153"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Reckoning-Novel-John-Grisham-ebook/dp/B079DBS447?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780385544153?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385544153"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BRECKONING%2FJohn%2BGrisham%2F9780385544153"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780385544153"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Every-Breath-Nicholas-Sparks/dp/1538728524?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Nicholas Sparks",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781538728529.jpg",
+        "book_image_height": 495,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/a4b91b12-9435-5ebb-b4aa-1ecb31da3215",
+        "contributor": "by Nicholas Sparks",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:11:39.26Z",
+        "dagger": 0,
+        "description": "Difficult choices surface when Hope Anderson and Tru Walls meet in a North Carolina seaside town.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781538728529",
+        "publisher": "Grand Central",
+        "rank": 2,
+        "rank_last_week": 1,
+        "sunday_review_link": "",
+        "title": "EVERY BREATH",
+        "updated_date": "2025-10-11T07:11:39.26Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781538728529"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Every-Breath-Nicholas-Sparks/dp/1538728524?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781538728529?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538728529"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEVERY%2BBREATH%2FNicholas%2BSparks%2F9781538728529"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781538728529"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Next-Person-You-Meet-Heaven/dp/006229444X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Mitch Albom",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780062294449.jpg",
+        "book_image_height": 461,
+        "book_image_width": 330,
+        "book_review_link": "",
+        "book_uri": "nyt://book/54e2c5a9-e29c-521f-8349-052bb28d5a1e",
+        "contributor": "by Mitch Albom",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:10:58.914Z",
+        "dagger": 0,
+        "description": "The sequel to \"The Five People You Meet in Heaven\" follows Annie on her heavenly journey.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780062294449",
+        "publisher": "Harper",
+        "rank": 3,
+        "rank_last_week": 2,
+        "sunday_review_link": "",
+        "title": "THE NEXT PERSON YOU MEET IN HEAVEN",
+        "updated_date": "2025-10-11T07:10:58.914Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780062294449"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Next-Person-You-Meet-Heaven/dp/006229444X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780062294449?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062294449"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BNEXT%2BPERSON%2BYOU%2BMEET%2BIN%2BHEAVEN%2FMitch%2BAlbom%2F9780062294449"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780062294449"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Unsheltered-Novel-Barbara-Kingsolver/dp/0062684566?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Barbara Kingsolver",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780062684561.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "https://www.nytimes.com/2018/10/19/books/review/barbara-kingsolver-unsheltered.html",
+        "book_uri": "nyt://book/cd5cffc8-8c46-53bc-a8d4-90b5a5254bc5",
+        "contributor": "by Barbara Kingsolver",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:09:54.168Z",
+        "dagger": 0,
+        "description": "Intertwined stories of two families who live in different centuries on the same street corner in Vineland, N.J.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780062684561",
+        "publisher": "Harper",
+        "rank": 4,
+        "rank_last_week": 3,
+        "sunday_review_link": "",
+        "title": "UNSHELTERED",
+        "updated_date": "2025-10-11T07:09:54.168Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780062684561"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Unsheltered-Novel-Barbara-Kingsolver/dp/0062684566?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780062684561?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062684561"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUNSHELTERED%2FBarbara%2BKingsolver%2F9780062684561"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780062684561"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Spark-Light-Novel-Jodi-Picoult-ebook/dp/B07B73H2BX?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Jodi Picoult",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780345544988.jpg",
+        "book_image_height": 491,
+        "book_image_width": 330,
+        "book_review_link": "",
+        "book_uri": "nyt://book/859a878e-7c37-518d-9c48-e137ef1730fd",
+        "contributor": "by Jodi Picoult",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:09:53.913Z",
+        "dagger": 0,
+        "description": "The lives of patients, doctors and activists intersect when a gunman holds them all hostage in a woman's health center in Mississippi.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780345544988",
+        "publisher": "Ballantine",
+        "rank": 5,
+        "rank_last_week": 4,
+        "sunday_review_link": "",
+        "title": "A SPARK OF LIGHT",
+        "updated_date": "2025-10-11T07:09:53.913Z",
+        "weeks_on_list": 4,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780345544988"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Spark-Light-Novel-Jodi-Picoult-ebook/dp/B07B73H2BX?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780345544988?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780345544988"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FA%2BSPARK%2BOF%2BLIGHT%2FJodi%2BPicoult%2F9780345544988"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780345544988"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Ambush-Michael-Bennett-Book-11-ebook/dp/B079L52TTB?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "James Patterson and James O. Born",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316273985.jpg",
+        "book_image_height": 495,
+        "book_image_width": 322,
+        "book_review_link": "",
+        "book_uri": "nyt://book/396e7ae2-97df-53a9-a3e5-ee6f19446c9e",
+        "contributor": "by James Patterson and James O. Born",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:09:25.702Z",
+        "dagger": 0,
+        "description": "Michael Bennett discovers that an assassin is targeting him and his family.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316273985",
+        "publisher": "Little, Brown",
+        "rank": 6,
+        "rank_last_week": 5,
+        "sunday_review_link": "",
+        "title": "AMBUSH",
+        "updated_date": "2025-10-11T07:09:25.702Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316273985"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Ambush-Michael-Bennett-Book-11-ebook/dp/B079L52TTB?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316273985?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316273985"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAMBUSH%2FJames%2BPatterson%2Band%2BJames%2BO%2BBorn%2F9780316273985"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316273985"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Holy-Ghost-Virgil-Flowers-Novel-ebook/dp/B079DXLLPC?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "John Sandford",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780735217324.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/aeefbf3a-e850-5996-83cc-e375fa7b9ef8",
+        "contributor": "by John Sandford",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:09:03.23Z",
+        "dagger": 0,
+        "description": "Virgil Flowers investigates shootings in a Minnesota town following an attempt to revive its ailing economy.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780735217324",
+        "publisher": "Putnam",
+        "rank": 7,
+        "rank_last_week": 6,
+        "sunday_review_link": "",
+        "title": "HOLY GHOST",
+        "updated_date": "2025-10-11T07:09:03.23Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780735217324"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Holy-Ghost-Virgil-Flowers-Novel-ebook/dp/B079DXLLPC?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780735217324?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780735217324"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHOLY%2BGHOST%2FJohn%2BSandford%2F9780735217324"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780735217324"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Witch-Elm-Novel-Tana-French-ebook/dp/B07C1XRQVJ?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Tana French",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780735224629.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "https://www.nytimes.com/2018/10/10/books/review/tana-french-witch-elm.html",
+        "book_uri": "nyt://book/1dae80bc-aedf-51fd-b3cc-03f29a98c6d8",
+        "contributor": "by Tana French",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:09:03.58Z",
+        "dagger": 0,
+        "description": "After Toby Hennessy retreats to his family\u2019s ancestral home, a skull discovered in the backyard exposes his family's past.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780735224629",
+        "publisher": "Viking",
+        "rank": 8,
+        "rank_last_week": 7,
+        "sunday_review_link": "",
+        "title": "THE WITCH ELM",
+        "updated_date": "2025-10-11T07:09:03.58Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780735224629"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Witch-Elm-Novel-Tana-French-ebook/dp/B07C1XRQVJ?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780735224629?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780735224629"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BWITCH%2BELM%2FTana%2BFrench%2F9780735224629"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780735224629"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Red-Mitch-Rapp-Novel-Book-ebook/dp/B07B3WJ9X7?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Kyle Mills",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781501190599.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "",
+        "book_uri": "nyt://book/be83521f-77ed-5a86-b98a-382d2d24954a",
+        "contributor": "by Kyle Mills",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:09:03.709Z",
+        "dagger": 0,
+        "description": "When the Russian prime minister plots to invade the Baltics, only Mitch Rapp can stop him.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781501190599",
+        "publisher": "Emily Bestler/Atria",
+        "rank": 9,
+        "rank_last_week": 8,
+        "sunday_review_link": "",
+        "title": "VINCE FLYNN: RED WAR",
+        "updated_date": "2025-10-11T07:09:03.709Z",
+        "weeks_on_list": 5,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781501190599"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Red-Mitch-Rapp-Novel-Book-ebook/dp/B07B3WJ9X7?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781501190599?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501190599"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FVINCE%2BFLYNN%253A%2BRED%2BWAR%2FKyle%2BMills%2F9781501190599"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781501190599"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Where-Crawdads-Sing-Delia-Owens/dp/0735219095?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Delia Owens",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780735219090.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/053b4109-4555-5aa1-9b39-cc40549bcdf0",
+        "contributor": "by Delia Owens",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:50:45.896Z",
+        "dagger": 0,
+        "description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780735219090",
+        "publisher": "Putnam",
+        "rank": 10,
+        "rank_last_week": 11,
+        "sunday_review_link": "",
+        "title": "WHERE THE CRAWDADS SING",
+        "updated_date": "2025-10-11T07:50:45.896Z",
+        "weeks_on_list": 8,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780735219090"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Where-Crawdads-Sing-Delia-Owens/dp/0735219095?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780735219090?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780735219090"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWHERE%2BTHE%2BCRAWDADS%2BSING%2FDelia%2BOwens%2F9780735219090"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780735219090"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Clockmakers-Daughter-Novel-Kate-Morton/dp/1451649398?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Kate Morton",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781451649390.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/2bea9aea-b568-5c81-a9fe-4090ffba1e32",
+        "contributor": "by Kate Morton",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:09:03.452Z",
+        "dagger": 0,
+        "description": "A century-old mystery at the Birchwood Manor on the Thames connects the lives of an archivist and artist.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781451649390",
+        "publisher": "Atria",
+        "rank": 11,
+        "rank_last_week": 12,
+        "sunday_review_link": "",
+        "title": "THE CLOCKMAKER'S DAUGHTER",
+        "updated_date": "2025-10-11T07:09:03.452Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781451649390"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Clockmakers-Daughter-Novel-Kate-Morton/dp/1451649398?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781451649390?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781451649390"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BCLOCKMAKER%2527S%2BDAUGHTER%2FKate%2BMorton%2F9781451649390"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781451649390"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Winter-Paradise-Elin-Hilderbrand/dp/0316435511?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Elin Hilderbrand",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316435512.jpg",
+        "book_image_height": 495,
+        "book_image_width": 319,
+        "book_review_link": "",
+        "book_uri": "nyt://book/3b96503a-3bf6-535e-b1fa-36bb3199de71",
+        "contributor": "by Elin Hilderbrand",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:09:03.839Z",
+        "dagger": 0,
+        "description": "Irene Steele uncovers her husband\u2019s secret life on a Caribbean island following his death.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316435512",
+        "publisher": "Little, Brown",
+        "rank": 12,
+        "rank_last_week": 9,
+        "sunday_review_link": "",
+        "title": "WINTER IN PARADISE",
+        "updated_date": "2025-10-11T07:09:03.839Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316435512"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Winter-Paradise-Elin-Hilderbrand/dp/0316435511?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316435512?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316435512"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWINTER%2BIN%2BPARADISE%2FElin%2BHilderbrand%2F9780316435512"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316435512"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Alaskan-Holiday-Novel-Debbie-Macomber-ebook/dp/B078VTZV9X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Debbie Macomber",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780399181283.jpg",
+        "book_image_height": 482,
+        "book_image_width": 330,
+        "book_review_link": "",
+        "book_uri": "nyt://book/97dca05b-e3e3-5107-b1e9-e30d41b333d3",
+        "contributor": "by Debbie Macomber",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:09:02.928Z",
+        "dagger": 0,
+        "description": "A Seattleite cook stuck in remote Ponder, Alaska, grapples with her feelings for the local swordsmith.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780399181283",
+        "publisher": "Ballantine",
+        "rank": 13,
+        "rank_last_week": 14,
+        "sunday_review_link": "",
+        "title": "ALASKAN HOLIDAY",
+        "updated_date": "2025-10-11T07:09:02.928Z",
+        "weeks_on_list": 4,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780399181283"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Alaskan-Holiday-Novel-Debbie-Macomber-ebook/dp/B078VTZV9X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780399181283?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780399181283"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FALASKAN%2BHOLIDAY%2FDebbie%2BMacomber%2F9780399181283"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780399181283"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Killing-Commendatore-novel-Haruki-Murakami/dp/052552004X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Haruki Murakami",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525520047.jpg",
+        "book_image_height": 482,
+        "book_image_width": 330,
+        "book_review_link": "https://www.nytimes.com/2018/10/16/books/review/haruki-murakami-killing-commendatore.html",
+        "book_uri": "nyt://book/eb9c7268-8a1f-580d-8078-8bf147a9928a",
+        "contributor": "by Haruki Murakami",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:09:03.054Z",
+        "dagger": 0,
+        "description": "The discovery of an unseen work in an artist\u2019s attic unleashes a series of bizarre occurrences that a painter must navigate.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525520047",
+        "publisher": "Knopf",
+        "rank": 14,
+        "rank_last_week": 15,
+        "sunday_review_link": "",
+        "title": "KILLING COMMENDATORE",
+        "updated_date": "2025-10-11T07:09:03.054Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525520047"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Killing-Commendatore-novel-Haruki-Murakami/dp/052552004X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525520047?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525520047"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FKILLING%2BCOMMENDATORE%2FHaruki%2BMurakami%2F9780525520047"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525520047"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Fox-Frederick-Forsyth/dp/0525538429?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Frederick Forsyth",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525538424.jpg",
+        "book_image_height": 488,
+        "book_image_width": 330,
+        "book_review_link": "",
+        "book_uri": "nyt://book/9b17a7a4-468f-58e1-9ca7-8544373b858a",
+        "contributor": "by Frederick Forsyth",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:09:03.185Z",
+        "dagger": 0,
+        "description": "A young British hacker's skills are used for risky espionage operations.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525538424",
+        "publisher": "Putnam",
+        "rank": 15,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE FOX",
+        "updated_date": "2025-10-11T07:09:03.185Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525538424"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Fox-Frederick-Forsyth/dp/0525538429?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525538424?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525538424"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BFOX%2FFrederick%2BForsyth%2F9780525538424"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525538424"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  }
+}

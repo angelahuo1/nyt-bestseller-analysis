@@ -1,0 +1,862 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+  "num_results": 15,
+  "last_modified": "2025-10-11T07:58:42Z",
+  "results": {
+    "display_name": "Hardcover Fiction",
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "previous_published_date": "2023-04-02",
+    "published_date": "2023-04-09",
+    "next_published_date": "2023-04-16",
+    "bestsellers_date": "2023-03-25",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "list_id": 1,
+    "uri": "nyt://bestsellerslist/341a09bc-afce-54b9-b7e7-43e8f13a6f79",
+    "books": [
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/038554734X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Bonnie Garmus",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780385547345.jpg",
+        "book_image_height": 500,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/717e0ead-9782-567d-af27-d9a6cfb1856f",
+        "contributor": "by Bonnie Garmus",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:09:33.119Z",
+        "dagger": 0,
+        "description": "A scientist and single mother living in California in the 1960s becomes a star on a TV cooking show.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780385547345",
+        "publisher": "Doubleday",
+        "rank": 1,
+        "rank_last_week": 3,
+        "sunday_review_link": "",
+        "title": "LESSONS IN CHEMISTRY",
+        "updated_date": "2025-10-11T08:09:33.119Z",
+        "weeks_on_list": 46,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780385547345"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/038554734X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780385547345?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385547345"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLESSONS%2BIN%2BCHEMISTRY%2FBonnie%2BGarmus%2F9780385547345"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780385547345"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1538748363?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Harlan Coben",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781538748367.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/c789a035-0507-529f-bc7a-c3e829948370",
+        "contributor": "by Harlan Coben",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:59:14.99Z",
+        "dagger": 0,
+        "description": "A man imprisoned for murdering his 3-year-old son becomes convinced his son is still alive and plans an escape.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781538748367",
+        "publisher": "Grand Central",
+        "rank": 2,
+        "rank_last_week": 1,
+        "sunday_review_link": "",
+        "title": "I WILL FIND YOU",
+        "updated_date": "2025-10-11T07:59:14.99Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781538748367"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1538748363?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781538748367?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538748367"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FI%2BWILL%2BFIND%2BYOU%2FHarlan%2BCoben%2F9781538748367"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781538748367"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/031645737X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "James Patterson and Brendan DuBois",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316457378.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/337797d3-55de-594f-af32-576d6bfdeed8",
+        "contributor": "by James Patterson and Brendan DuBois",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:59:15.449Z",
+        "dagger": 0,
+        "description": "A botched field operation and a terrorist plot endanger Amy Cornwall and her family.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316457378",
+        "publisher": "Little, Brown",
+        "rank": 3,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "COUNTDOWN",
+        "updated_date": "2025-10-11T07:59:15.449Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316457378"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/031645737X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316457378?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316457378"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCOUNTDOWN%2FJames%2BPatterson%2Band%2BBrendan%2BDuBois%2F9780316457378"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316457378"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593243730?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Ann Napolitano",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593243732.jpg",
+        "book_image_height": 500,
+        "book_image_width": 330,
+        "book_review_link": "",
+        "book_uri": "nyt://book/3b1a624d-7296-5b11-9c41-a473f433c18d",
+        "contributor": "by Ann Napolitano",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:02:31.909Z",
+        "dagger": 0,
+        "description": "In a homage to Louisa May Alcott\u2019s \u201cLittle Women,\u201d a young man\u2019s dark past resurfaces as he gets to know the family of his college sweetheart.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593243732",
+        "publisher": "Dial",
+        "rank": 4,
+        "rank_last_week": 2,
+        "sunday_review_link": "",
+        "title": "HELLO BEAUTIFUL",
+        "updated_date": "2025-10-11T08:02:31.909Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593243732"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593243730?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593243732?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593243732"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHELLO%2BBEAUTIFUL%2FAnn%2BNapolitano%2F9780593243732"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593243732"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593321200?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Gabrielle Zevin",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593321201.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/bc07e3e3-e917-50bb-9439-70118335f40c",
+        "contributor": "by Gabrielle Zevin",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:07:35.866Z",
+        "dagger": 0,
+        "description": "Two friends find their partnership challenged in the world of video game design.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593321201",
+        "publisher": "Knopf",
+        "rank": 5,
+        "rank_last_week": 4,
+        "sunday_review_link": "",
+        "title": "TOMORROW, AND TOMORROW, AND TOMORROW",
+        "updated_date": "2025-10-11T08:07:35.866Z",
+        "weeks_on_list": 26,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593321201"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593321200?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593321201?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593321201"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTOMORROW%252C%2BAND%2BTOMORROW%252C%2BAND%2BTOMORROW%2FGabrielle%2BZevin%2F9780593321201"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593321201"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/059349069X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Jenny Jackson",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593490693.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/ef3b13a2-5258-57ad-8bce-8af149b7dde3",
+        "contributor": "by Jenny Jackson",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:59:16.715Z",
+        "dagger": 0,
+        "description": "Three women navigate their roles in a well-to-do family living in Brooklyn Heights.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593490693",
+        "publisher": "Pamela Dorman",
+        "rank": 6,
+        "rank_last_week": 6,
+        "sunday_review_link": "",
+        "title": "PINEAPPLE STREET",
+        "updated_date": "2025-10-11T07:59:16.715Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593490693"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/059349069X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593490693?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593490693"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPINEAPPLE%2BSTREET%2FJenny%2BJackson%2F9780593490693"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593490693"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0062867989?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Jacqueline Winspear",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780062867988.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/bcdfadce-632b-5a0e-aedc-4233c788e96b",
+        "contributor": "by Jacqueline Winspear",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:58:24.942Z",
+        "dagger": 0,
+        "description": "In 1947, Elinor White, a former wartime operative, must face an organized crime gang in London.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780062867988",
+        "publisher": "Harper",
+        "rank": 7,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE WHITE LADY",
+        "updated_date": "2025-10-11T07:58:24.942Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780062867988"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0062867989?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780062867988?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062867988"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BWHITE%2BLADY%2FJacqueline%2BWinspear%2F9780062867988"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780062867988"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593331303?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "C.J. Box",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593331309.jpg",
+        "book_image_height": 500,
+        "book_image_width": 332,
+        "book_review_link": "",
+        "book_uri": "nyt://book/83b9c8a5-e965-5237-b6e2-0c3efcc22120",
+        "contributor": "by C.J. Box",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:58:37.762Z",
+        "dagger": 0,
+        "description": "The 23rd book in the Joe Pickett series. Joe and Nate might be on opposite sides for the first time.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593331309",
+        "publisher": "Putnam",
+        "rank": 8,
+        "rank_last_week": 5,
+        "sunday_review_link": "",
+        "title": "STORM WATCH",
+        "updated_date": "2025-10-11T07:58:37.762Z",
+        "weeks_on_list": 4,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593331309"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593331303?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593331309?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593331309"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSTORM%2BWATCH%2FC.J.%2BBox%2F9780593331309"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593331309"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0063251922?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Barbara Kingsolver",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780063251922.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/dd6e4f9d-d082-552d-b888-7276a25b5aca",
+        "contributor": "by Barbara Kingsolver",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:08:41.499Z",
+        "dagger": 0,
+        "description": "Winner of a 2023 Pulitzer Prize for fiction. A reimagining of Charles Dickens\u2019s \u201cDavid Copperfield\u201d set in the mountains of southern Appalachia.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780063251922",
+        "publisher": "Harper",
+        "rank": 9,
+        "rank_last_week": 8,
+        "sunday_review_link": "",
+        "title": "DEMON COPPERHEAD",
+        "updated_date": "2025-10-11T08:08:41.499Z",
+        "weeks_on_list": 23,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780063251922"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0063251922?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780063251922?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780063251922"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDEMON%2BCOPPERHEAD%2FBarbara%2BKingsolver%2F9780063251922"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780063251922"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1984804499?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Laurell K. Hamilton",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781984804495.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/f25a5f41-ce5b-56c8-8261-648235a6428c",
+        "contributor": "by Laurell K. Hamilton",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:58:25.299Z",
+        "dagger": 0,
+        "description": "The 29th book in the Anita Blake, Vampire Hunter series. Anita and Jean-Claude get engaged and an ancient evil comes to St. Louis.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781984804495",
+        "publisher": "Berkley",
+        "rank": 10,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "SMOLDER",
+        "updated_date": "2025-10-11T07:58:25.299Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781984804495"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1984804499?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781984804495?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781984804495"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSMOLDER%2FLaurell%2BK.%2BHamilton%2F9781984804495"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781984804495"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0063204150?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Shelby Van Pelt",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780063204157.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/206a5e83-12f4-5ea9-8e63-1da5470a6ef5",
+        "contributor": "by Shelby Van Pelt",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:19:46.774Z",
+        "dagger": 0,
+        "description": "A widow working the night shift at the Sowell Bay Aquarium is aided in solving a mystery by a giant Pacific octopus living there.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780063204157",
+        "publisher": "Ecco",
+        "rank": 11,
+        "rank_last_week": 11,
+        "sunday_review_link": "",
+        "title": "REMARKABLY BRIGHT CREATURES",
+        "updated_date": "2025-10-11T08:19:46.774Z",
+        "weeks_on_list": 10,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780063204157"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0063204150?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780063204157?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780063204157"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FREMARKABLY%2BBRIGHT%2BCREATURES%2FShel%2BVan%2BPelt%2F9780063204157"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780063204157"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1984879294?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Jojo Moyes",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781984879295.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/f36f1a26-ed5f-58c3-abd2-ed2fc9082ee6",
+        "contributor": "by Jojo Moyes",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:58:26.303Z",
+        "dagger": 0,
+        "description": "Drastic changes and a pair of six-inch high Christian Louboutin red crocodile shoes shake up the lives of two women.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781984879295",
+        "publisher": "Pamela Dorman",
+        "rank": 12,
+        "rank_last_week": 9,
+        "sunday_review_link": "",
+        "title": "SOMEONE ELSE'S SHOES",
+        "updated_date": "2025-10-11T07:58:26.303Z",
+        "weeks_on_list": 7,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781984879295"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1984879294?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781984879295?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781984879295"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSOMEONE%2BELSE%2527S%2BSHOES%2FJojo%2BMoyes%2F9781984879295"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781984879295"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593490142?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Rebecca Makkai",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593490143.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/98324fe9-47f7-59c0-8a2e-28fe06c18598",
+        "contributor": "by Rebecca Makkai",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:58:26.703Z",
+        "dagger": 0,
+        "description": "A film professor and podcaster is invited back to teach a course at the boarding school where her roommate was murdered.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593490143",
+        "publisher": "Viking",
+        "rank": 13,
+        "rank_last_week": 10,
+        "sunday_review_link": "",
+        "title": "I HAVE SOME QUESTIONS FOR YOU",
+        "updated_date": "2025-10-11T07:58:26.703Z",
+        "weeks_on_list": 5,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593490143"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593490142?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593490143?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593490143"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FI%2BHAVE%2BSOME%2BQUESTIONS%2BFOR%2BYOU%2FRebecca%2BMakkai%2F9780593490143"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593490143"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1984821806?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Danielle Steel",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781984821805.jpg",
+        "book_image_height": 500,
+        "book_image_width": 330,
+        "book_review_link": "",
+        "book_uri": "nyt://book/d2e8f731-1d6a-57c9-976e-83cb7809bb3b",
+        "contributor": "by Danielle Steel",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:58:35.336Z",
+        "dagger": 0,
+        "description": "A divorced mother of twins and chief executive of a luxury department store goes against a wealthy investor looking to take it over.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781984821805",
+        "publisher": "Delacorte",
+        "rank": 14,
+        "rank_last_week": 7,
+        "sunday_review_link": "",
+        "title": "WORTHY OPPONENTS",
+        "updated_date": "2025-10-11T07:58:35.336Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781984821805"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1984821806?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781984821805?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781984821805"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWORTHY%2BOPPONENTS%2FDanielle%2BSteel%2F9781984821805"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781984821805"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1984818384?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Jodi Picoult and Jennifer Finney Boylan",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781984818386.jpg",
+        "book_image_height": 500,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/8af7bc3e-8c1e-5bb1-820c-06169fac15b1",
+        "contributor": "by Jodi Picoult and Jennifer Finney Boylan",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:58:26.827Z",
+        "dagger": 0,
+        "description": "After returning to her hometown, Olivia McAfee\u2019s son gets accused of killing his crush.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781984818386",
+        "publisher": "Ballantine",
+        "rank": 15,
+        "rank_last_week": 14,
+        "sunday_review_link": "",
+        "title": "MAD HONEY",
+        "updated_date": "2025-10-11T07:58:26.827Z",
+        "weeks_on_list": 25,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781984818386"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1984818384?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781984818386?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781984818386"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMAD%2BHONEY%2FJodi%2BPicoult%2Band%2BJennifer%2BFinney%2BBoylan%2F9781984818386"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781984818386"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  }
+}

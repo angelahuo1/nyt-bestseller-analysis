@@ -1,0 +1,858 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+  "num_results": 15,
+  "last_modified": "2025-11-05T23:40:46Z",
+  "results": {
+    "display_name": "Hardcover Fiction",
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "previous_published_date": "2025-11-09",
+    "published_date": "2025-11-16",
+    "next_published_date": "2025-11-23",
+    "bestsellers_date": "2025-11-01",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "list_id": 1,
+    "uri": "nyt://bestsellerslist/561ef48c-3040-5735-aab7-ec66b51fba67",
+    "books": [
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1250328179?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Louise Penny",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250328175.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/a7b2700f-bab6-53b8-8d3d-a19ae885661a",
+        "contributor": "by Louise Penny",
+        "contributor_note": "",
+        "created_date": "2025-11-05T23:40:33.101Z",
+        "dagger": 0,
+        "description": "The 20th book in the Chief Inspector Gamache series. After thwarting a terrorist attack, an injured Gamache leads a covert investigation.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250328175",
+        "publisher": "Minotaur",
+        "rank": 1,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE BLACK WOLF",
+        "updated_date": "2025-11-05T23:40:33.101Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250328175"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250328179?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250328175?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-black-wolf-louise-penny%2F1146663292%3Fean%3D9781250328175"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBlack-Wolf%2FLouise-Penny%2F9781250328175"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250328175"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0385548982?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "John Grisham",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780385548984.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/b4d35d23-bb5e-5f9c-b842-01c4352fe4dc",
+        "contributor": "by John Grisham",
+        "contributor_note": "",
+        "created_date": "2025-10-29T22:37:36.735Z",
+        "dagger": 0,
+        "description": "When Simon Latch, a lawyer in rural Virginia, is accused of murder, he goes in search of the real killer.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780385548984",
+        "publisher": "Doubleday",
+        "rank": 2,
+        "rank_last_week": 1,
+        "sunday_review_link": "",
+        "title": "THE WIDOW",
+        "updated_date": "2025-10-29T22:37:36.735Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780385548984"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0385548982?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780385548984?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-widow-john-grisham%2F1147191431%3Fean%3D9780385548984"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWidow%2FJohn-Grisham%2F9780385548984"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780385548984"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1335146989?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Jasmine Mas",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781335146984.jpg",
+        "book_image_height": 500,
+        "book_image_width": 318,
+        "book_review_link": "",
+        "book_uri": "nyt://book/1daa5a33-0526-5b5e-b5c2-59efc13c2a6e",
+        "contributor": "by Jasmine Mas",
+        "contributor_note": "",
+        "created_date": "2025-11-05T23:40:41.53Z",
+        "dagger": 0,
+        "description": "The second book in the Villains of Lore series. Seduction and danger put Hercules in a tough spot.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781335146984",
+        "publisher": "Canary Street",
+        "rank": 3,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "BONDS OF HERCULES",
+        "updated_date": "2025-11-05T23:40:41.53Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781335146984"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1335146989?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781335146984?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbonds-of-hercules-jasmine-mas%2F1146294670%3Fean%3D9781335146984"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBonds-Hercules-Deluxe-Limited%2FJasmine-Mas%2F9781335146984"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781335146984"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0385546890?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Dan Brown",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780385546898.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "https://www.nytimes.com/2025/09/09/books/review/the-secret-of-secrets-dan-brown.html",
+        "book_uri": "nyt://book/49cff1bb-35bc-554b-a7d4-dbc946230c00",
+        "contributor": "by Dan Brown",
+        "contributor_note": "",
+        "created_date": "2025-09-17T22:38:11.49Z",
+        "dagger": 0,
+        "description": "As he searches for the missing noetic scientist he has been seeing, Robert Langdon discovers something regarding a secret project.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780385546898",
+        "publisher": "Doubleday",
+        "rank": 4,
+        "rank_last_week": 4,
+        "sunday_review_link": "",
+        "title": "THE SECRET OF SECRETS",
+        "updated_date": "2025-09-17T22:38:11.49Z",
+        "weeks_on_list": 8,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780385546898"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0385546890?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-secret-of-secrets-dan-brown%2F1146902400%3Fean%3D9780385546898"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSecret-Secrets%2FDan-Brown%2F9780385546898"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780385546898"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593972708?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "SenLinYu",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593972700.jpg",
+        "book_image_height": 500,
+        "book_image_width": 330,
+        "book_review_link": "",
+        "book_uri": "nyt://book/e9c567d8-7c38-5cb8-88e5-ba46078e2144",
+        "contributor": "by SenLinYu",
+        "contributor_note": "",
+        "created_date": "2025-10-01T22:40:32.788Z",
+        "dagger": 0,
+        "description": "After the war, an imprisoned alchemist is sent to a necromancer to recover her lost memories.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593972700",
+        "publisher": "Del Rey",
+        "rank": 5,
+        "rank_last_week": 5,
+        "sunday_review_link": "",
+        "title": "ALCHEMISED",
+        "updated_date": "2025-10-01T22:40:32.788Z",
+        "weeks_on_list": 6,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593972700"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593972708?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593972700?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Falchemised-senlinyu%2F1146838848%3Fean%3D9780593972700"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAlchemised%2FSenLinYu%2F9780593972700"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593972700"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1538774704?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Reese Witherspoon and Harlan Coben",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781538774700.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/9b7486f1-4174-5974-85d4-6f3642a46e51",
+        "contributor": "by Reese Witherspoon and Harlan Coben",
+        "contributor_note": "",
+        "created_date": "2025-10-22T22:37:47.5Z",
+        "dagger": 0,
+        "description": "When a mysterious man disappears, the former combat surgeon giving him medical assistance goes on the lam.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781538774700",
+        "publisher": "Grand Central",
+        "rank": 6,
+        "rank_last_week": 7,
+        "sunday_review_link": "",
+        "title": "GONE BEFORE GOODBYE",
+        "updated_date": "2025-10-22T22:37:47.5Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781538774700"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1538774704?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781538774700?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fgone-before-goodbye-harlan-coben%2F1147449181%3Fean%3D9781538774700"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGone-Before-Goodbye%2FHarlan-Coben%2F9781538774700"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781538774700"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/B0DZ5FPM6L?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Nicholas Sparks with M. Night Shyamalan",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9798217154043.jpg",
+        "book_image_height": 500,
+        "book_image_width": 332,
+        "book_review_link": "",
+        "book_uri": "nyt://book/59f872d7-f5c3-5542-8473-f93b993d23c7",
+        "contributor": "by Nicholas Sparks with M. Night Shyamalan",
+        "contributor_note": "",
+        "created_date": "2025-10-22T22:37:47.625Z",
+        "dagger": 0,
+        "description": "A New York architect moves to Cape Cod, where he enters a relationship that brings up a lot of questions.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9798217154043",
+        "publisher": "Random House",
+        "rank": 7,
+        "rank_last_week": 6,
+        "sunday_review_link": "",
+        "title": "REMAIN",
+        "updated_date": "2025-10-22T22:37:47.625Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9798217154043"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/B0DZ5FPM6L?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9798217154043?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fremain-nicholas-sparks%2F1147568387%3Fean%3D9798217154043"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRemain%2FNicholas-Sparks%2F9798217154043"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9798217154043"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/031656382X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Michael Connelly",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316563826.jpg",
+        "book_image_height": 500,
+        "book_image_width": 323,
+        "book_review_link": "",
+        "book_uri": "nyt://book/93096031-e0dc-5a57-b1a8-f6e6b1dac3fa",
+        "contributor": "by Michael Connelly",
+        "contributor_note": "",
+        "created_date": "2025-10-29T22:37:33.358Z",
+        "dagger": 0,
+        "description": "The eighth book in the Lincoln Lawyer series. Mickey Haller enlists a journalist to help his lawsuit against an A.I. company.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316563826",
+        "publisher": "Little, Brown",
+        "rank": 8,
+        "rank_last_week": 2,
+        "sunday_review_link": "",
+        "title": "THE PROVING GROUND",
+        "updated_date": "2025-10-29T22:37:33.358Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316563826"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/031656382X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316563826?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-proving-ground-michael-connelly%2F1147425306%3Fean%3D9780316563826"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FProving-Ground%2FMichael-Connelly%2F9780316563826"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316563826"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/006240668X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Mitch Albom",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780062406682.jpg",
+        "book_image_height": 500,
+        "book_image_width": 340,
+        "book_review_link": "",
+        "book_uri": "nyt://book/c29f65eb-1196-5749-bbf1-7dff2b35022e",
+        "contributor": "by Mitch Albom",
+        "contributor_note": "",
+        "created_date": "2025-10-15T22:38:33.619Z",
+        "dagger": 0,
+        "description": "Alfie Logan, who was gifted with the ability to live any moment a second time but must accept the outcomes, makes a risky love decision.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780062406682",
+        "publisher": "Harper",
+        "rank": 9,
+        "rank_last_week": 10,
+        "sunday_review_link": "",
+        "title": "TWICE",
+        "updated_date": "2025-10-15T22:38:33.619Z",
+        "weeks_on_list": 4,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780062406682"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/006240668X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780062406682?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ftwice-mitch-albom%2F1146840194%3Fean%3D9780062406682"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTwice%2FMitch-Albom%2F9780062406682"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780062406682"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1464260915?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Freida McFadden",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781464260919.jpg",
+        "book_image_height": 500,
+        "book_image_width": 394,
+        "book_review_link": "",
+        "book_uri": "nyt://book/65d085aa-5926-5741-8006-1cd6cb90849e",
+        "contributor": "by Freida McFadden",
+        "contributor_note": "",
+        "created_date": "2025-10-15T22:38:33.294Z",
+        "dagger": 0,
+        "description": "During a rough storm, Casey puts herself in danger when she lets a girl, who is covered in blood, into her cabin.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781464260919",
+        "publisher": "Poisoned Pen",
+        "rank": 10,
+        "rank_last_week": 8,
+        "sunday_review_link": "",
+        "title": "THE INTRUDER",
+        "updated_date": "2025-10-15T22:38:33.294Z",
+        "weeks_on_list": 4,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781464260919"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1464260915?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781464260919?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-intruder-freida-mcfadden%2F1147331363%3Fean%3D9781464260919"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FIntruder%2FFreida-McFadden%2F9781464260919"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781464260919"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/164937853X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Abigail Owen",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781649378538.jpg",
+        "book_image_height": 500,
+        "book_image_width": 309,
+        "book_review_link": "",
+        "book_uri": "nyt://book/1ec52f25-fb74-509e-b53c-95952c7b0815",
+        "contributor": "by Abigail Owen",
+        "contributor_note": "",
+        "created_date": "2025-10-29T22:37:37.009Z",
+        "dagger": 0,
+        "description": "The second book in the Crucible series. Escaping Tartarus demands overcoming trials and breaking rules.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781649378538",
+        "publisher": "Red Tower",
+        "rank": 11,
+        "rank_last_week": 3,
+        "sunday_review_link": "",
+        "title": "THE THINGS GODS BREAK",
+        "updated_date": "2025-10-29T22:37:37.009Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781649378538"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/164937853X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781649378538?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-things-gods-break-abigail-owen%2F1146602035%3Fean%3D9781649378538"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FThings-Gods-Break%2FAbigail-Owen%2F9781649378538"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781649378538"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1250799082?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Alix E. Harrow",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250799081.jpg",
+        "book_image_height": 500,
+        "book_image_width": 336,
+        "book_review_link": "",
+        "book_uri": "nyt://book/95d69795-99f7-55f3-ac56-99c8e709c1f7",
+        "contributor": "by Alix E. Harrow",
+        "contributor_note": "",
+        "created_date": "2025-11-05T23:40:33.469Z",
+        "dagger": 0,
+        "description": "A scholar goes back in time to help rewrite Una Everlasting's legend.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250799081",
+        "publisher": "Tor",
+        "rank": 12,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE EVERLASTING",
+        "updated_date": "2025-11-05T23:40:33.469Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250799081"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250799082?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250799081?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-everlasting-alix-e-harrow%2F1146895475%3Fean%3D9781250799081"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEverlasting%2FAlix-E-Harrow%2F9781250799081"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250799081"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1501101870?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Nelson DeMille and Alex DeMille",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781501101878.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/36a1b47a-2d9f-5e43-8bf0-2294e7432dc3",
+        "contributor": "by Nelson DeMille and Alex DeMille",
+        "contributor_note": "",
+        "created_date": "2025-11-05T23:40:33.619Z",
+        "dagger": 0,
+        "description": "The third book in the Scott Brodie & Maggie Taylor series. An investigation into the death of a military scientist surfaces troubling technology.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781501101878",
+        "publisher": "Simon & Schuster",
+        "rank": 13,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE TIN MEN",
+        "updated_date": "2025-11-05T23:40:33.619Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781501101878"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1501101870?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781501101878?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-tin-men-nelson-demille%2F1146889895%3Fean%3D9781501101878"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTin-Men%2FNelson-DeMille%2F9781501101878"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781501101878"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0063453916?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Catherine Newman",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780063453913.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/23d34ad6-954a-5689-9a06-060332ae2b26",
+        "contributor": "by Catherine Newman",
+        "contributor_note": "",
+        "created_date": "2025-11-05T23:40:41.938Z",
+        "dagger": 0,
+        "description": "Shifts in circumstances affect Rocky and her family.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780063453913",
+        "publisher": "Harper",
+        "rank": 14,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "WRECK",
+        "updated_date": "2025-11-05T23:40:41.938Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780063453913"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0063453916?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780063453913?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwreck-catherine-newman%2F1146989805%3Fean%3D9780063453913"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWreck%2FCatherine-Newman%2F9780063453913"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780063453913"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1524747718?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Mark Z. Danielewski",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781524747718.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "https://www.nytimes.com/2025/10/28/books/review/mark-danielewski-toms-crossing.html",
+        "book_uri": "nyt://book/542a416a-bc9d-5583-90e7-f5753dd185e4",
+        "contributor": "by Mark Z. Danielewski",
+        "contributor_note": "",
+        "created_date": "2025-11-05T23:40:33.924Z",
+        "dagger": 0,
+        "description": "In Utah in 1982, two teenagers try to prevent two horses from being slaughtered.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781524747718",
+        "publisher": "Pantheon",
+        "rank": 15,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "TOM'S CROSSING",
+        "updated_date": "2025-11-05T23:40:33.924Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781524747718"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1524747718?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781524747718?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ftoms-crossing-mark-z-danielewski%2F1147092659%3Fean%3D9781524747718"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FToms-Crossing%2FMark-Z-Danielewski%2F9781524747718"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781524747718"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  }
+}

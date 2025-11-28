@@ -1,0 +1,862 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+  "num_results": 15,
+  "last_modified": "2025-10-11T07:39:38Z",
+  "results": {
+    "display_name": "Hardcover Fiction",
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "previous_published_date": "2021-07-25",
+    "published_date": "2021-08-01",
+    "next_published_date": "2021-08-08",
+    "bestsellers_date": "2021-07-17",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "list_id": 1,
+    "uri": "nyt://bestsellerslist/a6548222-9921-5d45-a990-91c24d938777",
+    "books": [
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/006283486X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Daniel Silva",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780062834867.jpg",
+        "book_image_height": 500,
+        "book_image_width": 332,
+        "book_review_link": "",
+        "book_uri": "nyt://book/a0cf03e9-1337-5a14-8bb8-ab563b0bc929",
+        "contributor": "by Daniel Silva",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:40:30.598Z",
+        "dagger": 0,
+        "description": "The 21st book in the Gabriel Allon series. A private intelligence service plans an act of violence that will aid Russia and divide America.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780062834867",
+        "publisher": "HarperCollins",
+        "rank": 1,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE CELLIST",
+        "updated_date": "2025-10-11T07:40:30.598Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780062834867"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/006283486X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780062834867?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062834867"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BCELLIST%2FDaniel%2BSilva%2F9780062834867"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780062834867"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593329821?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Miranda Cowley Heller",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593329825.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/19df20da-3888-5522-9117-a8bbae382671",
+        "contributor": "by Miranda Cowley Heller",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:41:51.143Z",
+        "dagger": 0,
+        "description": "After an extramarital dalliance, Elle must choose between her husband and her childhood love.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593329825",
+        "publisher": "Riverhead",
+        "rank": 2,
+        "rank_last_week": 1,
+        "sunday_review_link": "",
+        "title": "THE PAPER PALACE",
+        "updated_date": "2025-10-11T07:41:51.143Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593329825"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593329821?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593329825?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593329825"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BPAPER%2BPALACE%2FMiranda%2BCowley%2BHeller%2F9780593329825"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593329825"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1501171348?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Laura Dave",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781501171345.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/b38ae769-e873-5272-bb5a-c58a35162db1",
+        "contributor": "by Laura Dave",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:56:43.148Z",
+        "dagger": 0,
+        "description": "Hannah Hall discovers truths about her missing husband and bonds with his daughter from a previous relationship.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781501171345",
+        "publisher": "Simon & Schuster",
+        "rank": 3,
+        "rank_last_week": 4,
+        "sunday_review_link": "",
+        "title": "THE LAST THING HE TOLD ME",
+        "updated_date": "2025-10-11T07:56:43.148Z",
+        "weeks_on_list": 11,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781501171345"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1501171348?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781501171345?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501171345"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BLAST%2BTHING%2BHE%2BTOLD%2BME%2FLaura%2BDave%2F9781501171345"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781501171345"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1984818783?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Debbie Macomber",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781984818782.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/77b17e7d-4e01-5681-abc0-c3c45c4c703c",
+        "contributor": "by Debbie Macomber",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:39:33.384Z",
+        "dagger": 0,
+        "description": "Julia Jones begins a new life after discovering her husband\u2019s infidelity almost six years ago.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781984818782",
+        "publisher": "Ballantine",
+        "rank": 4,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "IT'S BETTER THIS WAY",
+        "updated_date": "2025-10-11T07:39:33.384Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781984818782"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1984818783?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781984818782?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781984818782"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FIT%2527S%2BBETTER%2BTHIS%2BWAY%2FDebbie%2BMacomber%2F9781984818782"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781984818782"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1524798657?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Taylor Jenkins Reid",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781524798659.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/775af99a-4809-5852-843c-1e1558bc5929",
+        "contributor": "by Taylor Jenkins Reid",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:41:04.132Z",
+        "dagger": 0,
+        "description": "An epic party has serious outcomes for four famous siblings.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781524798659",
+        "publisher": "Ballantine",
+        "rank": 5,
+        "rank_last_week": 5,
+        "sunday_review_link": "",
+        "title": "MALIBU RISING",
+        "updated_date": "2025-10-11T07:41:04.132Z",
+        "weeks_on_list": 7,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781524798659"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1524798657?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781524798659?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781524798659"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMALIBU%2BRISING%2FTaylor%2BJenkins%2BReid%2F9781524798659"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781524798659"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0316540714?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "James Patterson and Bill Clinton",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316540711.jpg",
+        "book_image_height": 500,
+        "book_image_width": 321,
+        "book_review_link": "",
+        "book_uri": "nyt://book/1d793ef2-1c31-5633-8c20-843968b92ab4",
+        "contributor": "by James Patterson and Bill Clinton",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:41:00.502Z",
+        "dagger": 0,
+        "description": "Matthew Keating, a past president and former Navy SEAL, goes on his own to find his abducted teenage daughter.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316540711",
+        "publisher": "Little, Brown",
+        "rank": 6,
+        "rank_last_week": 6,
+        "sunday_review_link": "",
+        "title": "THE PRESIDENT'S DAUGHTER",
+        "updated_date": "2025-10-11T07:41:00.502Z",
+        "weeks_on_list": 6,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316540711"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0316540714?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316540711?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316540711"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BPRESIDENT%2527S%2BDAUGHTER%2FJames%2BPatterson%2Band%2BBill%2BClinton%2F9780316540711"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316540711"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1984821431?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Danielle Steel",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781984821430.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/33079fcc-6cd1-5a1d-874c-62e0358f0f4b",
+        "contributor": "by Danielle Steel",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:39:31.407Z",
+        "dagger": 0,
+        "description": "After tragedy upsets her stable family life, Maggie must decide if she will take a risk with a thrill seeker.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781984821430",
+        "publisher": "Delacorte",
+        "rank": 7,
+        "rank_last_week": 3,
+        "sunday_review_link": "",
+        "title": "NINE LIVES",
+        "updated_date": "2025-10-11T07:39:31.407Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781984821430"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1984821431?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781984821430?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781984821430"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNINE%2BLIVES%2FDanielle%2BSteel%2F9781984821430"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781984821430"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0525559477?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Matt Haig",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525559474.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/60d0ee2d-3d05-50c9-a484-050d17a2308e",
+        "contributor": "by Matt Haig",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:57:35.581Z",
+        "dagger": 0,
+        "description": "Nora Seed finds a library beyond the edge of the universe that contains books with multiple possibilities of the lives one could have lived.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525559474",
+        "publisher": "Viking",
+        "rank": 8,
+        "rank_last_week": 7,
+        "sunday_review_link": "",
+        "title": "THE MIDNIGHT LIBRARY",
+        "updated_date": "2025-10-11T07:57:35.581Z",
+        "weeks_on_list": 33,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525559474"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0525559477?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525559474?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525559474"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BMIDNIGHT%2BLIBRARY%2FMatt%2BHaig%2F9780525559474"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525559474"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593101537?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Marie Benedict and Victoria Christopher Murray",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593101537.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/6c4cac40-72d8-5d43-a8fe-a1a77603990e",
+        "contributor": "by Marie Benedict and Victoria Christopher Murray",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:40:08.273Z",
+        "dagger": 0,
+        "description": "A Black woman who becomes one of the most powerful people in the art and book world is forced to hide her true identity.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593101537",
+        "publisher": "Berkley",
+        "rank": 9,
+        "rank_last_week": 15,
+        "sunday_review_link": "",
+        "title": "THE PERSONAL LIBRARIAN",
+        "updated_date": "2025-10-11T07:40:08.273Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593101537"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593101537?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593101537?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593101537"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BPERSONAL%2BLIBRARIAN%2FMarie%2BBenedict%2Band%2BVictoria%2BChristopher%2BMurray%2F9780593101537"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593101537"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1982177888?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "T.J. Newman",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781982177881.jpg",
+        "book_image_height": 500,
+        "book_image_width": 327,
+        "book_review_link": "",
+        "book_uri": "nyt://book/e823965f-5505-5834-8e18-4bec26c7f5ee",
+        "contributor": "by T.J. Newman",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:39:34.461Z",
+        "dagger": 0,
+        "description": "A kidnapper demands that a pilot crash his plane with 144 passengers onboard to save his family.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781982177881",
+        "publisher": "Avid Reader",
+        "rank": 10,
+        "rank_last_week": 2,
+        "sunday_review_link": "",
+        "title": "FALLING",
+        "updated_date": "2025-10-11T07:39:34.461Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781982177881"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1982177888?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781982177881?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781982177881"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFALLING%2FT.J.%2BNewman%2F9781982177881"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781982177881"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/059320123X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Grady Hendrix",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593201237.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/58b51295-db50-5a0e-b153-bf632e6afd1c",
+        "contributor": "by Grady Hendrix",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:39:20.144Z",
+        "dagger": 0,
+        "description": "At a gathering that has taken place for more than a decade, women who survived unthinkable ordeals worry about a missing member.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593201237",
+        "publisher": "\u200eBerkley",
+        "rank": 11,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE FINAL GIRL SUPPORT GROUP",
+        "updated_date": "2025-10-11T07:39:20.144Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593201237"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/059320123X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593201237?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593201237"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BFINAL%2BGIRL%2BSUPPORT%2BGROUP%2FGrady%2BHendrix%2F9780593201237"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593201237"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0316420085?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Elin Hilderbrand",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316420082.jpg",
+        "book_image_height": 500,
+        "book_image_width": 322,
+        "book_review_link": "",
+        "book_uri": "nyt://book/b1076a39-891e-5e37-94f2-215d8b0e0236",
+        "contributor": "by Elin Hilderbrand",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:40:13.072Z",
+        "dagger": 0,
+        "description": "A Nantucket novelist gets one final summer to watch what happens from the great beyond.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316420082",
+        "publisher": "Little, Brown",
+        "rank": 12,
+        "rank_last_week": 8,
+        "sunday_review_link": "",
+        "title": "GOLDEN GIRL",
+        "updated_date": "2025-10-11T07:40:13.072Z",
+        "weeks_on_list": 7,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316420082"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0316420085?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316420082?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316420082"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGOLDEN%2BGIRL%2FElin%2BHilderbrand%2F9780316420082"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316420082"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Andy Weir",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593135204.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "https://www.nytimes.com/2021/05/04/books/review/andy-weir-project-hail-mary.html",
+        "book_uri": "nyt://book/36c6314a-7962-511c-b4c8-7927200740af",
+        "contributor": "by Andy Weir",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:44:24.262Z",
+        "dagger": 0,
+        "description": "Ryland Grace awakes from a long sleep alone and far from home, and the fate of humanity rests on his shoulders.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593135204",
+        "publisher": "Ballantine",
+        "rank": 13,
+        "rank_last_week": 12,
+        "sunday_review_link": "",
+        "title": "PROJECT HAIL MARY",
+        "updated_date": "2025-10-11T07:44:24.262Z",
+        "weeks_on_list": 11,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593135204"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593135204?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593135204"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPROJECT%2BHAIL%2BMARY%2FAndy%2BWeir%2F9780593135204"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593135204"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1250304458?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Alex Michaelides",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250304452.jpg",
+        "book_image_height": 500,
+        "book_image_width": 330,
+        "book_review_link": "",
+        "book_uri": "nyt://book/3b173fc8-a162-551a-a56e-b10d39d4dd00",
+        "contributor": "by Alex Michaelides",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:40:07.686Z",
+        "dagger": 0,
+        "description": "A therapist suspects a Greek tragedy professor at Cambridge University of committing murder.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250304452",
+        "publisher": "Celadon",
+        "rank": 14,
+        "rank_last_week": 9,
+        "sunday_review_link": "",
+        "title": "THE MAIDENS",
+        "updated_date": "2025-10-11T07:40:07.686Z",
+        "weeks_on_list": 5,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250304452"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250304458?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250304452?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250304452"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BMAIDENS%2FAlex%2BMichaelides%2F9781250304452"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250304452"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1250178606?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Kristin Hannah",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250178602.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/c34834c6-f957-5b0b-8fd7-abd9c35eebed",
+        "contributor": "by Kristin Hannah",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:40:13.195Z",
+        "dagger": 0,
+        "description": "As dust storms roll during the Great Depression, Elsa must choose between saving the family and farm or heading West.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250178602",
+        "publisher": "St. Martin's",
+        "rank": 15,
+        "rank_last_week": 11,
+        "sunday_review_link": "",
+        "title": "THE FOUR WINDS",
+        "updated_date": "2025-10-11T07:40:13.195Z",
+        "weeks_on_list": 24,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250178602"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250178606?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250178602?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250178602"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BFOUR%2BWINDS%2FKristin%2BHannah%2F9781250178602"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250178602"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  }
+}

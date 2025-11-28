@@ -1,0 +1,862 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+  "num_results": 15,
+  "last_modified": "2025-10-11T07:25:17Z",
+  "results": {
+    "display_name": "Hardcover Fiction",
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "previous_published_date": "2020-05-03",
+    "published_date": "2020-05-10",
+    "next_published_date": "2020-05-17",
+    "bestsellers_date": "2020-04-25",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "list_id": 1,
+    "uri": "nyt://bestsellerslist/a0d15c4a-d5e9-56a9-ba45-f000e3930e58",
+    "books": [
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1982137975?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Stephen King",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781982137977.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/ad212b13-e446-5daf-b5d9-41bef7402b4a",
+        "contributor": "by Stephen King",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:33:14.264Z",
+        "dagger": 0,
+        "description": "Four novellas: \u201cMr. Harrigan\u2019s Phone,\u201d \u201cThe Life of Chuck,\u201d \u201cRat\u201d and \u201cIf It Bleeds.\u201d",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781982137977",
+        "publisher": "Scribner",
+        "rank": 1,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "IF IT BLEEDS",
+        "updated_date": "2025-10-11T07:33:14.264Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781982137977"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1982137975?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781982137977?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781982137977"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FIF%2BIT%2BBLEEDS%2FStephen%2BKing%2F9781982137977"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781982137977"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1538761467?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "David Baldacci",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781538761465.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/2a73eed3-9d66-53bb-8362-3f0a6bf5b03e",
+        "contributor": "by David Baldacci",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:27:14.927Z",
+        "dagger": 0,
+        "description": "The sixth book in the Memory Man series. Decker and Jamison investigate a murder in a North Dakota town in a fracking boom.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781538761465",
+        "publisher": "Grand Central",
+        "rank": 2,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "WALK THE WIRE",
+        "updated_date": "2025-10-11T07:27:14.927Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781538761465"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1538761467?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781538761465?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538761465"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWALK%2BTHE%2BWIRE%2FDavid%2BBaldacci%2F9781538761465"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781538761465"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Where-Crawdads-Sing-Delia-Owens/dp/0735219095?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Delia Owens",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780735219090.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/053b4109-4555-5aa1-9b39-cc40549bcdf0",
+        "contributor": "by Delia Owens",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:50:45.896Z",
+        "dagger": 0,
+        "description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780735219090",
+        "publisher": "Putnam",
+        "rank": 3,
+        "rank_last_week": 1,
+        "sunday_review_link": "",
+        "title": "WHERE THE CRAWDADS SING",
+        "updated_date": "2025-10-11T07:50:45.896Z",
+        "weeks_on_list": 86,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780735219090"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Where-Crawdads-Sing-Delia-Owens/dp/0735219095?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780735219090?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780735219090"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWHERE%2BTHE%2BCRAWDADS%2BSING%2FDelia%2BOwens%2F9780735219090"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780735219090"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0525539522?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "John Sandford",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525539520.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/708dff0d-ca6c-5de4-a4a7-7adbe4fb6056",
+        "contributor": "by John Sandford",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:25:59.132Z",
+        "dagger": 0,
+        "description": "The 30th book in the Prey series. Washington politicians ask Lucas Davenport to look into someone who is targeting their children.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525539520",
+        "publisher": "Putnam",
+        "rank": 4,
+        "rank_last_week": 2,
+        "sunday_review_link": "",
+        "title": "MASKED PREY",
+        "updated_date": "2025-10-11T07:25:59.132Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525539520"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0525539522?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525539520?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525539520"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMASKED%2BPREY%2FJohn%2BSandford%2F9780525539520"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525539520"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/American-Dirt-Oprahs-Book-Club/dp/1250209765?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Jeanine Cummins",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250209764.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "https://www.nytimes.com/2020/01/17/books/review-american-dirt-jeanine-cummins.html",
+        "book_uri": "nyt://book/ea1c7a1f-1743-57a8-b210-0150f87a4b47",
+        "contributor": "by Jeanine Cummins",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:33:52.73Z",
+        "dagger": 0,
+        "description": "A bookseller flees Mexico for the United States with her son while pursued by the head of a drug cartel.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250209764",
+        "publisher": "Flatiron",
+        "rank": 5,
+        "rank_last_week": 3,
+        "sunday_review_link": "",
+        "title": "AMERICAN DIRT",
+        "updated_date": "2025-10-11T07:33:52.73Z",
+        "weeks_on_list": 14,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250209764"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/American-Dirt-Oprahs-Book-Club/dp/1250209765?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250209764?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250209764"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAMERICAN%2BDIRT%2FJeanine%2BCummins%2F9781250209764"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250209764"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/052542976X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Sue Monk Kidd",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525429760.jpg",
+        "book_image_height": 500,
+        "book_image_width": 330,
+        "book_review_link": "",
+        "book_uri": "nyt://book/f2abe3c0-5cb5-570d-be6c-be3ffedd2577",
+        "contributor": "by Sue Monk Kidd",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:26:14.578Z",
+        "dagger": 0,
+        "description": "A scholarly young woman named Ana meets an 18-year-old Jesus and becomes caught up in a confluence of dangers.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525429760",
+        "publisher": "Viking",
+        "rank": 6,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE BOOK OF LONGINGS",
+        "updated_date": "2025-10-11T07:26:14.578Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525429760"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/052542976X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525429760?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525429760"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BBOOK%2BOF%2BLONGINGS%2FSue%2BMonk%2BKidd%2F9780525429760"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525429760"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Silent-Patient-Alex-Michaelides/dp/1250301696?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Alex Michaelides",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250301697.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "",
+        "book_uri": "nyt://book/fe8f9863-f798-55c5-acdf-ceb32b5484ce",
+        "contributor": "by Alex Michaelides",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:29:33.078Z",
+        "dagger": 0,
+        "description": "Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250301697",
+        "publisher": "Celadon",
+        "rank": 7,
+        "rank_last_week": 4,
+        "sunday_review_link": "",
+        "title": "THE SILENT PATIENT",
+        "updated_date": "2025-10-11T07:29:33.078Z",
+        "weeks_on_list": 47,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250301697"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Silent-Patient-Alex-Michaelides/dp/1250301696?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250301697?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250301697"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BSILENT%2BPATIENT%2FAlex%2BMichaelides%2F9781250301697"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250301697"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Giver-Stars-Novel-Jojo-Moyes/dp/0399562486?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Jojo Moyes",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780399562488.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/0365e66e-8090-5ec1-8d8c-2ed89027d374",
+        "contributor": "by Jojo Moyes",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:26:02.928Z",
+        "dagger": 0,
+        "description": "In Depression-era Kentucky, five women refuse to be cowed by men or convention as they deliver books.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780399562488",
+        "publisher": "Pamela Dorman/Viking",
+        "rank": 8,
+        "rank_last_week": 9,
+        "sunday_review_link": "",
+        "title": "THE GIVER OF STARS",
+        "updated_date": "2025-10-11T07:26:02.928Z",
+        "weeks_on_list": 28,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780399562488"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Giver-Stars-Novel-Jojo-Moyes/dp/0399562486?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780399562488?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780399562488"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BGIVER%2BOF%2BSTARS%2FJojo%2BMoyes%2F9780399562488"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780399562488"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1538748142?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Harlan Coben",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781538748145.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/8473849d-638c-5820-9a87-8d1639d1287e",
+        "contributor": "by Harlan Coben",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:25:14.157Z",
+        "dagger": 0,
+        "description": "When a girl goes missing, a private investigator\u2019s feral childhood becomes an asset in the search.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781538748145",
+        "publisher": "Grand Central",
+        "rank": 9,
+        "rank_last_week": 5,
+        "sunday_review_link": "",
+        "title": "THE BOY FROM THE WOODS",
+        "updated_date": "2025-10-11T07:25:14.157Z",
+        "weeks_on_list": 6,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781538748145"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1538748142?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781538748145?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538748145"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BBOY%2BFROM%2BTHE%2BWOODS%2FHarlan%2BCoben%2F9781538748145"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781538748145"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1982137444?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Rebecca Serle",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781982137441.jpg",
+        "book_image_height": 500,
+        "book_image_width": 326,
+        "book_review_link": "",
+        "book_uri": "nyt://book/d35fb88e-69c5-51d9-a2b3-a9524508c282",
+        "contributor": "by Rebecca Serle",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:24:59.648Z",
+        "dagger": 0,
+        "description": "A Manhattan lawyer finds herself confronting a vision she had when elements of it come to life on schedule.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781982137441",
+        "publisher": "Atria",
+        "rank": 10,
+        "rank_last_week": 7,
+        "sunday_review_link": "",
+        "title": "IN FIVE YEARS",
+        "updated_date": "2025-10-11T07:24:59.648Z",
+        "weeks_on_list": 7,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781982137441"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1982137444?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781982137441?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781982137441"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FIN%2BFIVE%2BYEARS%2FRebecca%2BSerle%2F9781982137441"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781982137441"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0525521143?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Emily St",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525521143.jpg",
+        "book_image_height": 500,
+        "book_image_width": 334,
+        "book_review_link": "",
+        "book_uri": "nyt://book/7799bee6-fc4a-5c02-9843-0e51c7725769",
+        "contributor": "by Emily St. John Mandel",
+        "contributor_note": "John Mandel",
+        "created_date": "2025-10-11T07:25:12.296Z",
+        "dagger": 0,
+        "description": "Years after an international Ponzi scheme falls apart, one of its victims investigates the disappearance of a woman from a container ship.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525521143",
+        "publisher": "Knopf",
+        "rank": 11,
+        "rank_last_week": 6,
+        "sunday_review_link": "",
+        "title": "THE GLASS HOTEL",
+        "updated_date": "2025-10-11T07:25:12.296Z",
+        "weeks_on_list": 5,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525521143"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0525521143?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525521143?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525521143"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BGLASS%2BHOTEL%2FEmily%2BSt.%2BJohn%2BMandel%2F9780525521143"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525521143"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1984819887?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Lisa Wingate",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781984819888.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/4098a4d8-0dac-5b39-b428-00a58b28f71a",
+        "contributor": "by Lisa Wingate",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:25:59.447Z",
+        "dagger": 0,
+        "description": "The stories of three women struggling to get from Louisiana to Texas during Reconstruction are discovered by a first-year teacher living a century later.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781984819888",
+        "publisher": "Ballantine",
+        "rank": 12,
+        "rank_last_week": 11,
+        "sunday_review_link": "",
+        "title": "THE BOOK OF LOST FRIENDS",
+        "updated_date": "2025-10-11T07:25:59.447Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781984819888"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1984819887?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781984819888?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781984819888"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BBOOK%2BOF%2BLOST%2BFRIENDS%2FLisa%2BWingate%2F9781984819888"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781984819888"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0525658416?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Anne Tyler",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525658412.jpg",
+        "book_image_height": 500,
+        "book_image_width": 303,
+        "book_review_link": "",
+        "book_uri": "nyt://book/976435e4-a28b-5cae-8d4f-cbe9e9dfd3d8",
+        "contributor": "by Anne Tyler",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:25:01.831Z",
+        "dagger": 0,
+        "description": "Micah Mortimer\u2019s orderly existence is thrown off kilter when his partner faces eviction and a teenager claims to be his son.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525658412",
+        "publisher": "Knopf",
+        "rank": 13,
+        "rank_last_week": 8,
+        "sunday_review_link": "",
+        "title": "REDHEAD BY THE SIDE OF THE ROAD",
+        "updated_date": "2025-10-11T07:25:01.831Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525658412"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0525658416?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525658412?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525658412"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FREDHEAD%2BBY%2BTHE%2BSIDE%2BOF%2BTHE%2BROAD%2FAnne%2BTyler%2F9780525658412"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525658412"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Dutch-House-Novel-Ann-Patchett/dp/0062963678?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Ann Patchett",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780062963673.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "https://www.nytimes.com/2019/09/21/books/review-dutch-house-ann-patchett.html",
+        "book_uri": "nyt://book/0ad5db6c-4d15-5624-bef3-1385f93f78e2",
+        "contributor": "by Ann Patchett",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:25:01.707Z",
+        "dagger": 0,
+        "description": "A sibling relationship is impacted when the family goes from poverty to wealth and back again over the course of many decades.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780062963673",
+        "publisher": "Harper",
+        "rank": 14,
+        "rank_last_week": 12,
+        "sunday_review_link": "",
+        "title": "THE DUTCH HOUSE",
+        "updated_date": "2025-10-11T07:25:01.707Z",
+        "weeks_on_list": 31,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780062963673"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Dutch-House-Novel-Ann-Patchett/dp/0062963678?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780062963673?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062963673"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BDUTCH%2BHOUSE%2FAnn%2BPatchett%2F9780062963673"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780062963673"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0805096604?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Hilary Mantel",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780805096606.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "https://www.nytimes.com/2020/02/25/books/review/mirror-light-hilary-mantel.html",
+        "book_uri": "nyt://book/0fe666d7-9d07-555f-b6ba-d8b9c4b746d4",
+        "contributor": "by Hilary Mantel",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:25:00.256Z",
+        "dagger": 0,
+        "description": "The third book in the Wolf Hall trilogy. After Anne Boleyn\u2019s execution, Thomas Cromwell\u2019s enemies assemble.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780805096606",
+        "publisher": "Holt",
+        "rank": 15,
+        "rank_last_week": 15,
+        "sunday_review_link": "",
+        "title": "THE MIRROR & THE LIGHT",
+        "updated_date": "2025-10-11T07:25:00.256Z",
+        "weeks_on_list": 7,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780805096606"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0805096604?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780805096606?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780805096606"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BMIRROR%2B%2526%2BTHE%2BLIGHT%2FHilary%2BMantel%2F9780805096606"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780805096606"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  }
+}

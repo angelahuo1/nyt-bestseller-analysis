@@ -1,0 +1,862 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+  "num_results": 15,
+  "last_modified": "2025-10-11T07:47:28Z",
+  "results": {
+    "display_name": "Hardcover Fiction",
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "previous_published_date": "2022-04-03",
+    "published_date": "2022-04-10",
+    "next_published_date": "2022-04-17",
+    "bestsellers_date": "2022-03-26",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "list_id": 1,
+    "uri": "nyt://bestsellerslist/89ae1a44-5d79-57bb-9949-3cdff71fa08b",
+    "books": [
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/075955434X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Dolly Parton and James Patterson",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780759554344.jpg",
+        "book_image_height": 500,
+        "book_image_width": 322,
+        "book_review_link": "",
+        "book_uri": "nyt://book/de82c2a0-f17b-526c-a326-c2233f0667b3",
+        "contributor": "by Dolly Parton and James Patterson",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:50:42.922Z",
+        "dagger": 0,
+        "description": "A singer-songwriter goes to Nashville seeking stardom but is followed by her dark past.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780759554344",
+        "publisher": "Little, Brown",
+        "rank": 1,
+        "rank_last_week": 1,
+        "sunday_review_link": "",
+        "title": "RUN, ROSE, RUN",
+        "updated_date": "2025-10-11T07:50:42.922Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780759554344"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/075955434X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780759554344?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780759554344"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRUN%252C%2BROSE%252C%2BRUN%2FDolly%2BParton%2Band%2BJames%2BPatterson%2F9780759554344"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780759554344"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1982154918?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Janet Evanovich",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781982154912.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/3e643e46-b6d1-56f7-bb12-592aae0a1aff",
+        "contributor": "by Janet Evanovich",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:48:10.254Z",
+        "dagger": 0,
+        "description": "When her family\u2019s home is threatened, Gabriela Rose goes with her ex-husband to seek lost treasure in the jungles of Peru.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781982154912",
+        "publisher": "Atria",
+        "rank": 2,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE RECOVERY AGENT",
+        "updated_date": "2025-10-11T07:48:10.254Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781982154912"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1982154918?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781982154912?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781982154912"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BRECOVERY%2BAGENT%2FJanet%2BEvanovich%2F9781982154912"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781982154912"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0063003058?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Lucy Foley",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780063003057.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/ef0030b7-5eca-5278-835a-ade95bfbb1f2",
+        "contributor": "by Lucy Foley",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:51:33.789Z",
+        "dagger": 0,
+        "description": "Jess has suspicions about her half-brother\u2019s neighbors when he goes missing.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780063003057",
+        "publisher": "Morrow",
+        "rank": 3,
+        "rank_last_week": 4,
+        "sunday_review_link": "",
+        "title": "THE PARIS APARTMENT",
+        "updated_date": "2025-10-11T07:51:33.789Z",
+        "weeks_on_list": 5,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780063003057"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0063003058?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780063003057?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780063003057"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BPARIS%2BAPARTMENT%2FLucy%2BFoley%2F9780063003057"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780063003057"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/059332109X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Anne Tyler",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593321096.jpg",
+        "book_image_height": 500,
+        "book_image_width": 336,
+        "book_review_link": "",
+        "book_uri": "nyt://book/37be0337-b53c-5cd8-889a-349405cf421d",
+        "contributor": "by Anne Tyler",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:48:10.159Z",
+        "dagger": 0,
+        "description": "The ups and downs of a Baltimore family from the 1950s to the pandemic present.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593321096",
+        "publisher": "Knopf",
+        "rank": 4,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "FRENCH BRAID",
+        "updated_date": "2025-10-11T07:48:10.159Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593321096"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/059332109X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593321096?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593321096"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFRENCH%2BBRAID%2FAnne%2BTyler%2F9780593321096"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593321096"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1538748282?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Harlan Coben",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781538748282.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/b0fbedf5-fa73-5c1f-8e94-3230e12ca680",
+        "contributor": "by Harlan Coben",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:47:24.522Z",
+        "dagger": 0,
+        "description": "The second book in the Wilde series. Questions surface when Wilde connects with family members who have been out of his life.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781538748282",
+        "publisher": "Grand Central",
+        "rank": 5,
+        "rank_last_week": 2,
+        "sunday_review_link": "",
+        "title": "THE MATCH",
+        "updated_date": "2025-10-11T07:47:24.522Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781538748282"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1538748282?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781538748282?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538748282"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BMATCH%2FHarlan%2BCoben%2F9781538748282"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781538748282"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593331265?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "C.J. Box",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593331262.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/f9efb067-657a-5426-b057-206dbf368d47",
+        "contributor": "by C.J. Box",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:47:24.983Z",
+        "dagger": 0,
+        "description": "The 22nd book in the Joe Pickett series. A fishing guide\u2019s murder, stolen falcons and a Nazi official\u2019s photo album heighten the danger.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593331262",
+        "publisher": "Putnam",
+        "rank": 6,
+        "rank_last_week": 3,
+        "sunday_review_link": "",
+        "title": "SHADOWS REEL",
+        "updated_date": "2025-10-11T07:47:24.983Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593331262"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593331265?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593331262?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593331262"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSHADOWS%2BREEL%2FC.J.%2BBox%2F9780593331262"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593331262"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0063142260?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Jacqueline Winspear",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780063142268.jpg",
+        "book_image_height": 500,
+        "book_image_width": 341,
+        "book_review_link": "",
+        "book_uri": "nyt://book/06e384ac-3103-58f1-b3ba-6431ee9c5b7c",
+        "contributor": "by Jacqueline Winspear",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:47:10.24Z",
+        "dagger": 0,
+        "description": "The 17th book in the Maisie Dobbs series. Dobbs works to uncover a plot that jeopardizes the safety of Eleanor Roosevelt.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780063142268",
+        "publisher": "Harper",
+        "rank": 7,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "A SUNLIT WEAPON",
+        "updated_date": "2025-10-11T07:47:10.24Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780063142268"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0063142260?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780063142268?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780063142268"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FA%2BSUNLIT%2BWEAPON%2FJacqueline%2BWinspear%2F9780063142268"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780063142268"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1982166797?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Rebecca Serle",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781982166793.jpg",
+        "book_image_height": 500,
+        "book_image_width": 324,
+        "book_review_link": "",
+        "book_uri": "nyt://book/5e998df9-4354-56be-9e67-86e560cf8f96",
+        "contributor": "by Rebecca Serle",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:50:44.889Z",
+        "dagger": 0,
+        "description": "During a summer trip in Italy, Katy\u2019s late mother reappears as a 30-year-old woman.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781982166793",
+        "publisher": "Atria",
+        "rank": 8,
+        "rank_last_week": 5,
+        "sunday_review_link": "",
+        "title": "ONE ITALIAN SUMMER",
+        "updated_date": "2025-10-11T07:50:44.889Z",
+        "weeks_on_list": 4,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781982166793"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1982166797?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781982166793?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781982166793"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FONE%2BITALIAN%2BSUMMER%2FRebecca%2BSerle%2F9781982166793"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781982166793"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0525559477?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Matt Haig",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525559474.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/60d0ee2d-3d05-50c9-a484-050d17a2308e",
+        "contributor": "by Matt Haig",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:57:35.581Z",
+        "dagger": 0,
+        "description": "Nora Seed finds a library beyond the edge of the universe that contains books with multiple possibilities of the lives one could have lived.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525559474",
+        "publisher": "Viking",
+        "rank": 9,
+        "rank_last_week": 7,
+        "sunday_review_link": "",
+        "title": "THE MIDNIGHT LIBRARY",
+        "updated_date": "2025-10-11T07:57:35.581Z",
+        "weeks_on_list": 68,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525559474"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0525559477?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525559474?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525559474"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BMIDNIGHT%2BLIBRARY%2FMatt%2BHaig%2F9780525559474"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525559474"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0062892401?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Brad Meltzer",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780062892409.jpg",
+        "book_image_height": 500,
+        "book_image_width": 333,
+        "book_review_link": "",
+        "book_uri": "nyt://book/2ef5de4a-9f38-5bf9-8dbb-c437d5461522",
+        "contributor": "by Brad Meltzer",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:47:22.773Z",
+        "dagger": 0,
+        "description": "The second book in the Escape Artist series. Zig stumbles upon a hidden group that threatens America's safety and security.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780062892409",
+        "publisher": "Morrow",
+        "rank": 10,
+        "rank_last_week": 6,
+        "sunday_review_link": "",
+        "title": "THE LIGHTNING ROD",
+        "updated_date": "2025-10-11T07:47:22.773Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780062892409"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0062892401?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780062892409?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062892409"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BLIGHTNING%2BROD%2FBrad%2BMeltzer%2F9780062892409"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780062892409"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593331753?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Stuart Woods",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593331750.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/2dbbbeea-058b-5ead-84dc-a2099d4b185d",
+        "contributor": "by Stuart Woods",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:47:10.77Z",
+        "dagger": 0,
+        "description": "The 61st book in the Stone Barrington series. Transporting secret cargo sends Stone on an adventure on both sides of the Atlantic.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593331750",
+        "publisher": "Putnam",
+        "rank": 11,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "A SAFE HOUSE",
+        "updated_date": "2025-10-11T07:47:10.77Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593331750"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593331753?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593331750?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593331750"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FA%2BSAFE%2BHOUSE%2FStuart%2BWoods%2F9780593331750"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593331750"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1501171348?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Laura Dave",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781501171345.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/b38ae769-e873-5272-bb5a-c58a35162db1",
+        "contributor": "by Laura Dave",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:56:43.148Z",
+        "dagger": 0,
+        "description": "Hannah Hall discovers truths about her missing husband and bonds with his daughter from a previous relationship.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781501171345",
+        "publisher": "Simon & Schuster",
+        "rank": 12,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE LAST THING HE TOLD ME",
+        "updated_date": "2025-10-11T07:56:43.148Z",
+        "weeks_on_list": 44,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781501171345"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1501171348?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781501171345?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501171345"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BLAST%2BTHING%2BHE%2BTOLD%2BME%2FLaura%2BDave%2F9781501171345"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781501171345"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0735222355?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Amor Towles",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780735222359.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/43839b1f-c8cc-5ef4-8893-bd85582906a4",
+        "contributor": "by Amor Towles",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:48:14.134Z",
+        "dagger": 0,
+        "description": "Two friends who escaped from a juvenile work farm take Emmett Watson on an unexpected journey to New York City in 1954.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780735222359",
+        "publisher": "Viking",
+        "rank": 13,
+        "rank_last_week": 13,
+        "sunday_review_link": "",
+        "title": "THE LINCOLN HIGHWAY",
+        "updated_date": "2025-10-11T07:48:14.134Z",
+        "weeks_on_list": 25,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780735222359"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0735222355?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780735222359?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780735222359"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BLINCOLN%2BHIGHWAY%2FAmor%2BTowles%2F9780735222359"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780735222359"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1635574072?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Sarah J. Maas",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781635574074.jpg",
+        "book_image_height": 500,
+        "book_image_width": 326,
+        "book_review_link": "",
+        "book_uri": "nyt://book/5cf5dc9a-a109-5bfc-ab01-28817324a757",
+        "contributor": "by Sarah J. Maas",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:47:12.654Z",
+        "dagger": 0,
+        "description": "The second book in the Crescent City series. Bryce Quinlan and Hunt Athalar must choose to fight or stay silent.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781635574074",
+        "publisher": "Bloomsbury",
+        "rank": 14,
+        "rank_last_week": 11,
+        "sunday_review_link": "",
+        "title": "HOUSE OF SKY AND BREATH",
+        "updated_date": "2025-10-11T07:47:12.654Z",
+        "weeks_on_list": 6,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781635574074"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1635574072?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781635574074?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781635574074"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHOUSE%2BOF%2BSKY%2BAND%2BBREATH%2FSarah%2BJ.%2BMaas%2F9781635574074"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781635574074"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0062997424?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Ellery Lloyd",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780062997425.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/84a596a9-9c43-58e9-a793-6f8b815d079e",
+        "contributor": "by Ellery Lloyd",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:47:12.749Z",
+        "dagger": 0,
+        "description": "Off the English coast, the body count rises at a celebrity members\u2019 club.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780062997425",
+        "publisher": "Harper",
+        "rank": 15,
+        "rank_last_week": 12,
+        "sunday_review_link": "",
+        "title": "THE CLUB",
+        "updated_date": "2025-10-11T07:47:12.749Z",
+        "weeks_on_list": 4,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780062997425"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0062997424?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780062997425?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062997425"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BCLUB%2FEllery%2BLloyd%2F9780062997425"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780062997425"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  }
+}

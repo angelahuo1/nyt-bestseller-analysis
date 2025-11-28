@@ -1,0 +1,862 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+  "num_results": 15,
+  "last_modified": "2025-10-11T07:29:52Z",
+  "results": {
+    "display_name": "Hardcover Fiction",
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "previous_published_date": "2020-09-13",
+    "published_date": "2020-09-20",
+    "next_published_date": "2020-09-27",
+    "bestsellers_date": "2020-09-05",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "list_id": 1,
+    "uri": "nyt://bestsellerslist/62da295e-5d4e-559b-a0bb-73b7a553a54c",
+    "books": [
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1250145236?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Louise Penny",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250145239.jpg",
+        "book_image_height": 500,
+        "book_image_width": 330,
+        "book_review_link": "",
+        "book_uri": "nyt://book/90d4cf12-96bd-56a2-b629-dac2b46de117",
+        "contributor": "by Louise Penny",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:30:24.748Z",
+        "dagger": 0,
+        "description": "The 16th book in the Chief Inspector Gamache series. When his billionaire godfather is attacked, Gamache uncovers secrets hidden throughout Paris.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250145239",
+        "publisher": "Minotaur",
+        "rank": 1,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "ALL THE DEVILS ARE HERE",
+        "updated_date": "2025-10-11T07:30:24.748Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250145239"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250145236?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250145239?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250145239"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FALL%2BTHE%2BDEVILS%2BARE%2BHERE%2FLouise%2BPenny%2F9781250145239"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250145239"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1609455916?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Elena Ferrante",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781609455910.jpg",
+        "book_image_height": 500,
+        "book_image_width": 344,
+        "book_review_link": "",
+        "book_uri": "nyt://book/69cbf228-6119-58e0-9e1d-e7e650dc746f",
+        "contributor": "by Elena Ferrante",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:29:50.022Z",
+        "dagger": 0,
+        "description": "In this coming-of-age story, Giovanna seeks her true reflection in two kindred cities.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781609455910",
+        "publisher": "Europa Editions",
+        "rank": 2,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE LYING LIFE OF ADULTS",
+        "updated_date": "2025-10-11T07:29:50.022Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781609455910"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1609455916?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781609455910?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781609455910"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BLYING%2BLIFE%2BOF%2BADULTS%2FElena%2BFerrante%2F9781609455910"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781609455910"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0525658181?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Yaa Gyasi",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525658184.jpg",
+        "book_image_height": 500,
+        "book_image_width": 304,
+        "book_review_link": "",
+        "book_uri": "nyt://book/73288c1d-81b5-5ab8-9185-052659ebc7a9",
+        "contributor": "by Yaa Gyasi",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:29:50.319Z",
+        "dagger": 0,
+        "description": "A Ph.D. candidate in neuroscience looks to the hard sciences and her childhood faith to potentially help her grieving Ghanaian immigrant family.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525658184",
+        "publisher": "Knopf",
+        "rank": 3,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "TRANSCENDENT KINGDOM",
+        "updated_date": "2025-10-11T07:29:50.319Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525658184"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0525658181?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525658184?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525658184"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTRANSCENDENT%2BKINGDOM%2FYaa%2BGyasi%2F9780525658184"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525658184"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0525536299?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Brit Bennett",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525536291.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/6db17f1d-4bd0-562a-80ef-efa2a272cf64",
+        "contributor": "by Brit Bennett",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:38:40.367Z",
+        "dagger": 0,
+        "description": "The lives of twin sisters who run away from a Southern Black community at age 16 diverge as one returns and the other takes on a different racial identity but their fates intertwine.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525536291",
+        "publisher": "Riverhead",
+        "rank": 4,
+        "rank_last_week": 2,
+        "sunday_review_link": "",
+        "title": "THE VANISHING HALF",
+        "updated_date": "2025-10-11T07:38:40.367Z",
+        "weeks_on_list": 14,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525536291"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0525536299?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525536291?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525536291"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BVANISHING%2BHALF%2FBrit%2BBennett%2F9780525536291"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525536291"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1629998915?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Jonathan Cahn",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781629998916.jpg",
+        "book_image_height": 500,
+        "book_image_width": 338,
+        "book_review_link": "",
+        "book_uri": "nyt://book/24d1edc5-ba8f-5acb-afa5-20e2c6faa328",
+        "contributor": "by Jonathan Cahn",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:30:39.804Z",
+        "dagger": 0,
+        "description": "Nouriel, Ana Goren and a figure known as \"the prophet\" return as revelations are unlocked.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781629998916",
+        "publisher": "FrontLine",
+        "rank": 5,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE HARBINGER II",
+        "updated_date": "2025-10-11T07:30:39.804Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781629998916"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1629998915?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781629998916?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781629998916"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BHARBINGER%2BII%2FJonathan%2BCahn%2F9781629998916"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781629998916"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Where-Crawdads-Sing-Delia-Owens/dp/0735219095?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Delia Owens",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780735219090.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/053b4109-4555-5aa1-9b39-cc40549bcdf0",
+        "contributor": "by Delia Owens",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:50:45.896Z",
+        "dagger": 0,
+        "description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780735219090",
+        "publisher": "Putnam",
+        "rank": 6,
+        "rank_last_week": 1,
+        "sunday_review_link": "",
+        "title": "WHERE THE CRAWDADS SING",
+        "updated_date": "2025-10-11T07:50:45.896Z",
+        "weeks_on_list": 105,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780735219090"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Where-Crawdads-Sing-Delia-Owens/dp/0735219095?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780735219090?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780735219090"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWHERE%2BTHE%2BCRAWDADS%2BSING%2FDelia%2BOwens%2F9780735219090"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780735219090"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1524733458?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Carl Hiaasen",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781524733452.jpg",
+        "book_image_height": 500,
+        "book_image_width": 342,
+        "book_review_link": "",
+        "book_uri": "nyt://book/b2718b28-1f8c-50d5-a02f-cb20c88c093d",
+        "contributor": "by Carl Hiaasen",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:29:52.406Z",
+        "dagger": 0,
+        "description": "A dead dowager, hungry pythons and occupants of the winter White House shake up the Palm Beach charity ball season.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781524733452",
+        "publisher": "Knopf",
+        "rank": 7,
+        "rank_last_week": 4,
+        "sunday_review_link": "",
+        "title": "SQUEEZE ME",
+        "updated_date": "2025-10-11T07:29:52.406Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781524733452"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1524733458?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781524733452?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781524733452"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSQUEEZE%2BME%2FCarl%2BHiaasen%2F9781524733452"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781524733452"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0062868934?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Lucy Foley",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780062868930.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/dc4d32ce-1fdd-5685-946c-68fabb9dd31f",
+        "contributor": "by Lucy Foley",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:34:40.53Z",
+        "dagger": 0,
+        "description": "A wedding between a TV star and a magazine publisher on an island off the coast of Ireland turns deadly.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780062868930",
+        "publisher": "Morrow",
+        "rank": 8,
+        "rank_last_week": 6,
+        "sunday_review_link": "",
+        "title": "THE GUEST LIST",
+        "updated_date": "2025-10-11T07:34:40.53Z",
+        "weeks_on_list": 14,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780062868930"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0062868934?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780062868930?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062868930"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BGUEST%2BLIST%2FLucy%2BFoley%2F9780062868930"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780062868930"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593157680?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Timothy Zahn",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593157688.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/e9c57ca4-8d50-5636-a0be-6c1925c1fa4b",
+        "contributor": "by Timothy Zahn",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:29:48.621Z",
+        "dagger": 0,
+        "description": "In this Star Wars saga, a young military officer is sent to find the unseen enemies who attacked the Chiss capital.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593157688",
+        "publisher": "Del Rey",
+        "rank": 9,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THRAWN ASCENDANCY: CHAOS RISING",
+        "updated_date": "2025-10-11T07:29:48.621Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593157688"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593157680?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593157688?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593157688"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHRAWN%2BASCENDANCY%253A%2BCHAOS%2BRISING%2FTimothy%2BZahn%2F9780593157688"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593157688"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1538751941?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Sandra Brown",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781538751947.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/d18d25ab-afb2-5710-8af3-44203f3a4587",
+        "contributor": "by Sandra Brown",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:29:50.144Z",
+        "dagger": 0,
+        "description": "Arden Maxwell returns home to uncover the truth about her father\u2019s involvement in a heist that went wrong 20 years ago.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781538751947",
+        "publisher": "Grand Central",
+        "rank": 10,
+        "rank_last_week": 3,
+        "sunday_review_link": "",
+        "title": "THICK AS THIEVES",
+        "updated_date": "2025-10-11T07:29:50.144Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781538751947"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1538751941?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781538751947?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538751947"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHICK%2BAS%2BTHIEVES%2FSandra%2BBrown%2F9781538751947"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781538751947"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0399179658?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Danielle Steel",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780399179655.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/e3c5c1de-13c8-5489-a282-81f062ed8435",
+        "contributor": "by Danielle Steel",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:29:56.55Z",
+        "dagger": 0,
+        "description": "In 1943, the 17-year-old Princess Charlotte assumes a new identity in the country and falls in love.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780399179655",
+        "publisher": "Delacorte",
+        "rank": 11,
+        "rank_last_week": 5,
+        "sunday_review_link": "",
+        "title": "ROYAL",
+        "updated_date": "2025-10-11T07:29:56.55Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780399179655"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0399179658?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780399179655?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780399179655"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FROYAL%2FDanielle%2BSteel%2F9780399179655"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780399179655"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/American-Dirt-Oprahs-Book-Club/dp/1250209765?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Jeanine Cummins",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250209764.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "https://www.nytimes.com/2020/01/17/books/review-american-dirt-jeanine-cummins.html",
+        "book_uri": "nyt://book/ea1c7a1f-1743-57a8-b210-0150f87a4b47",
+        "contributor": "by Jeanine Cummins",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:33:52.73Z",
+        "dagger": 0,
+        "description": "A bookseller flees Mexico for the United States with her son while pursued by the head of a drug cartel.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250209764",
+        "publisher": "Flatiron",
+        "rank": 12,
+        "rank_last_week": 7,
+        "sunday_review_link": "",
+        "title": "AMERICAN DIRT",
+        "updated_date": "2025-10-11T07:33:52.73Z",
+        "weeks_on_list": 33,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250209764"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/American-Dirt-Oprahs-Book-Club/dp/1250209765?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250209764?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250209764"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAMERICAN%2BDIRT%2FJeanine%2BCummins%2F9781250209764"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250209764"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0778310175?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Nancy Jooyoun Kim",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780778310174.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/dc71b0b7-40db-5ac9-a4b4-664ed863b0c6",
+        "contributor": "by Nancy Jooyoun Kim",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:29:34.924Z",
+        "dagger": 0,
+        "description": "Margot Lee pieces together consequential events in her mother's life from being a Korean War orphan to what brought about her suspicious death.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780778310174",
+        "publisher": "Park Row",
+        "rank": 13,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE LAST STORY OF MINA LEE",
+        "updated_date": "2025-10-11T07:29:34.924Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780778310174"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0778310175?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780778310174?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780778310174"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BLAST%2BSTORY%2BOF%2BMINA%2BLEE%2FNancy%2BJooyoun%2BKim%2F9780778310174"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780778310174"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0525620788?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Silvia Moreno-Garcia",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525620785.jpg",
+        "book_image_height": 500,
+        "book_image_width": 337,
+        "book_review_link": "",
+        "book_uri": "nyt://book/9fa22a84-0154-5520-8d7a-9eadc31352ff",
+        "contributor": "by Silvia Moreno-Garcia",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:29:35.041Z",
+        "dagger": 0,
+        "description": "In 1950s Mexico, a debutante travels to a distant mansion where family secrets of a faded mining empire have been kept hidden.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525620785",
+        "publisher": "Del Rey",
+        "rank": 14,
+        "rank_last_week": 12,
+        "sunday_review_link": "",
+        "title": "MEXICAN GOTHIC",
+        "updated_date": "2025-10-11T07:29:35.041Z",
+        "weeks_on_list": 9,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525620785"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0525620788?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525620785?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525620785"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMEXICAN%2BGOTHIC%2FSilvia%2BMoreno-Garcia%2F9780525620785"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525620785"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593099834?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Christine Feehan",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593099834.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/f7e3e7f9-678d-5544-9152-f8fd9ca0c0b1",
+        "contributor": "by Christine Feehan",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:29:35.148Z",
+        "dagger": 0,
+        "description": "The 34th book in the Carpathian series. Will the vampire who held Elisabeta captive get in the way of her bond with Ferro?",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593099834",
+        "publisher": "Berkley",
+        "rank": 15,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "DARK SONG",
+        "updated_date": "2025-10-11T07:29:35.148Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593099834"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593099834?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593099834?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593099834"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDARK%2BSONG%2FChristine%2BFeehan%2F9780593099834"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593099834"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  }
+}

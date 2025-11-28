@@ -1,0 +1,862 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+  "num_results": 15,
+  "last_modified": "2025-10-11T07:16:12Z",
+  "results": {
+    "display_name": "Hardcover Fiction",
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "previous_published_date": "2019-06-23",
+    "published_date": "2019-06-30",
+    "next_published_date": "2019-07-07",
+    "bestsellers_date": "2019-06-15",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "list_id": 1,
+    "uri": "nyt://bestsellerslist/97923f4d-7bc3-5474-99da-017b48d86c6d",
+    "books": [
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Where-Crawdads-Sing-Delia-Owens/dp/0735219095?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Delia Owens",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780735219090.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/053b4109-4555-5aa1-9b39-cc40549bcdf0",
+        "contributor": "by Delia Owens",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:50:45.896Z",
+        "dagger": 0,
+        "description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780735219090",
+        "publisher": "Putnam",
+        "rank": 1,
+        "rank_last_week": 1,
+        "sunday_review_link": "",
+        "title": "WHERE THE CRAWDADS SING",
+        "updated_date": "2025-10-11T07:50:45.896Z",
+        "weeks_on_list": 41,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780735219090"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Where-Crawdads-Sing-Delia-Owens/dp/0735219095?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780735219090?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780735219090"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWHERE%2BTHE%2BCRAWDADS%2BSING%2FDelia%2BOwens%2F9780735219090"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780735219090"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Unsolved-Invisible-James-Patterson/dp/0316419826?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "James Patterson and David Ellis",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316419826.jpg",
+        "book_image_height": 499,
+        "book_image_width": 322,
+        "book_review_link": "",
+        "book_uri": "nyt://book/f0a2cb28-6563-5070-a2ee-b68bf2bb1871",
+        "contributor": "by James Patterson and David Ellis",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:16:45.431Z",
+        "dagger": 0,
+        "description": "A string of seemingly accidental and unrelated deaths confound F.B.I. Agent Emmy Dockery.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316419826",
+        "publisher": "Little, Brown",
+        "rank": 2,
+        "rank_last_week": 3,
+        "sunday_review_link": "",
+        "title": "UNSOLVED",
+        "updated_date": "2025-10-11T07:16:45.431Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316419826"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Unsolved-Invisible-James-Patterson/dp/0316419826?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316419826?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316419826"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUNSOLVED%2FJames%2BPatterson%2Band%2BDavid%2BEllis%2F9780316419826"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316419826"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Mrs-Everything-Novel-Jennifer-Weiner/dp/1501133489?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Jennifer Weiner",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781501133480.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/6c60370d-f5b3-59d2-a7de-a3368d1c41d4",
+        "contributor": "by Jennifer Weiner",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:16:49.336Z",
+        "dagger": 0,
+        "description": "The story of two sisters and how the world around them changes drastically from the 1950s.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781501133480",
+        "publisher": "Atria",
+        "rank": 3,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "MRS. EVERYTHING",
+        "updated_date": "2025-10-11T07:16:49.336Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781501133480"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Mrs-Everything-Novel-Jennifer-Weiner/dp/1501133489?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781501133480?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501133480"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMRS.%2BEVERYTHING%2FJennifer%2BWeiner%2F9781501133480"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781501133480"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/City-Girls-Novel-Elizabeth-Gilbert/dp/1594634734?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Elizabeth Gilbert",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781594634734.jpg",
+        "book_image_height": 499,
+        "book_image_width": 331,
+        "book_review_link": "https://www.nytimes.com/2019/06/01/books/review/elizabeth-gilbert-city-of-girls.html",
+        "book_uri": "nyt://book/f0b6895c-ed25-5928-9bcb-917a0db713df",
+        "contributor": "by Elizabeth Gilbert",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:17:26.988Z",
+        "dagger": 0,
+        "description": "An 89-year-old Vivian Morris looks back at the direction her life took when she entered the 1940s New York theater scene.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781594634734",
+        "publisher": "Riverhead",
+        "rank": 4,
+        "rank_last_week": 2,
+        "sunday_review_link": "",
+        "title": "CITY OF GIRLS",
+        "updated_date": "2025-10-11T07:17:26.988Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781594634734"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/City-Girls-Novel-Elizabeth-Gilbert/dp/1594634734?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781594634734?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781594634734"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCITY%2BOF%2BGIRLS%2FElizabeth%2BGilbert%2F9781594634734"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781594634734"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Clancy-Enemy-Contact-Jack-Novel/dp/0525541691?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Mike Maden",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525541691.jpg",
+        "book_image_height": 491,
+        "book_image_width": 330,
+        "book_review_link": "",
+        "book_uri": "nyt://book/5acace6a-c9a5-5933-a88c-056400858caa",
+        "contributor": "by Mike Maden",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:16:44.595Z",
+        "dagger": 0,
+        "description": "Jack Ryan Jr. must stop an international criminal conspiracy and deal with tragic news.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525541691",
+        "publisher": "Putnam",
+        "rank": 5,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "TOM CLANCY: ENEMY CONTACT",
+        "updated_date": "2025-10-11T07:16:44.595Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525541691"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Clancy-Enemy-Contact-Jack-Novel/dp/0525541691?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525541691?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525541691"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTOM%2BCLANCY%253A%2BENEMY%2BCONTACT%2FMike%2BMaden%2F9780525541691"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525541691"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Oracle-Sam-Remi-Fargo-Adventure/dp/0525539611?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Clive Cussler and Robin Burcell",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525539612.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/fe0742b6-2b1f-5b9a-a41c-1b358ec18bb2",
+        "contributor": "by Clive Cussler and Robin Burcell",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:16:10.472Z",
+        "dagger": 0,
+        "description": "Treasure-hunting couple, Sam and Remi Fargo, embark on a new adventure to find a sacred ancient scroll and lift its curse.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525539612",
+        "publisher": "Putnam",
+        "rank": 6,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE ORACLE",
+        "updated_date": "2025-10-11T07:16:10.472Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525539612"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Oracle-Sam-Remi-Fargo-Adventure/dp/0525539611?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525539612?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525539612"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BORACLE%2FClive%2BCussler%2Band%2BRobin%2BBurcell%2F9780525539612"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525539612"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Recursion-Novel-Blake-Crouch/dp/1524759783?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Blake Crouch",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781524759780.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "https://www.nytimes.com/2019/06/11/books/review/recursion-blake-crouch.html",
+        "book_uri": "nyt://book/ed3a76ac-974e-5ff7-80c8-529e423ea58c",
+        "contributor": "by Blake Crouch",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:16:07.964Z",
+        "dagger": 0,
+        "description": "A dark force alters people's memories so drastically that reality itself starts to shift. Barry and Helena team up to save the city.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781524759780",
+        "publisher": "Crown",
+        "rank": 7,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "RECURSION",
+        "updated_date": "2025-10-11T07:16:07.964Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781524759780"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Recursion-Novel-Blake-Crouch/dp/1524759783?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781524759780?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781524759780"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRECURSION%2FBlake%2BCrouch%2F9781524759780"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781524759780"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Redemption-Memory-Man-Book-5-ebook/dp/B07G76M5LD?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "David Baldacci",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781538761410.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/af622510-18ff-5866-8e8a-ba8de2785443",
+        "contributor": "by David Baldacci",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:16:08.498Z",
+        "dagger": 0,
+        "description": "The fifth book in the Memory Man series. The first man Amos Decker put behind bars asks to have his name cleared.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781538761410",
+        "publisher": "Grand Central",
+        "rank": 8,
+        "rank_last_week": 8,
+        "sunday_review_link": "",
+        "title": "REDEMPTION",
+        "updated_date": "2025-10-11T07:16:08.498Z",
+        "weeks_on_list": 9,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781538761410"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Redemption-Memory-Man-Book-5-ebook/dp/B07G76M5LD?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781538761410?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538761410"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FREDEMPTION%2FDavid%2BBaldacci%2F9781538761410"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781538761410"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Summer-Guests-Mary-Alice-Monroe-ebook/dp/B07H7VH9PQ?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Mary Alice Monroe",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781501193620.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/604c871b-e74b-52e2-ab17-c0f991d64c46",
+        "contributor": "by Mary Alice Monroe",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:15:54.126Z",
+        "dagger": 0,
+        "description": "A hurricane threatening the coasts of Florida and South Carolina leads to a group of strangers sheltering together in a home.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781501193620",
+        "publisher": "Gallery",
+        "rank": 9,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE SUMMER GUESTS",
+        "updated_date": "2025-10-11T07:15:54.126Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781501193620"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Summer-Guests-Mary-Alice-Monroe-ebook/dp/B07H7VH9PQ?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781501193620?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501193620"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BSUMMER%2BGUESTS%2FMary%2BAlice%2BMonroe%2F9781501193620"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781501193620"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Earth-Were-Briefly-Gorgeous-Novel-ebook/dp/B07H72LJ5V?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Ocean Vuong",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525562023.jpg",
+        "book_image_height": 495,
+        "book_image_width": 330,
+        "book_review_link": "https://www.nytimes.com/2019/05/27/books/review-on-earth-were-briefly-gorgeous-ocean-vuong.html",
+        "book_uri": "nyt://book/d7445ae3-7de0-5062-b19d-e65a2bf192d0",
+        "contributor": "by Ocean Vuong",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:16:45.7Z",
+        "dagger": 0,
+        "description": "Little Dog writes a letter to a mother who cannot read, revealing a family history.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525562023",
+        "publisher": "Penguin Press",
+        "rank": 10,
+        "rank_last_week": 6,
+        "sunday_review_link": "",
+        "title": "ON EARTH WE'RE BRIEFLY GORGEOUS",
+        "updated_date": "2025-10-11T07:16:45.7Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525562023"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Earth-Were-Briefly-Gorgeous-Novel-ebook/dp/B07H72LJ5V?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525562023?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525562023"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FON%2BEARTH%2BWE%2527RE%2BBRIEFLY%2BGORGEOUS%2FOcean%2BVuong%2F9780525562023"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525562023"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Queen-Bee-Dorothea-Benton-Frank/dp/0062861212?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Dorothea Benton Frank",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780062861214.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "",
+        "book_uri": "nyt://book/17446841-c8f6-5084-b42a-6befb3302669",
+        "contributor": "by Dorothea Benton Frank",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:16:08.768Z",
+        "dagger": 0,
+        "description": "A beekeeper\u2019s quiet life is unsettled by her demanding mother, outgoing sister and neighboring widower.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780062861214",
+        "publisher": "Morrow",
+        "rank": 11,
+        "rank_last_week": 5,
+        "sunday_review_link": "",
+        "title": "QUEEN BEE",
+        "updated_date": "2025-10-11T07:16:08.768Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780062861214"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Queen-Bee-Dorothea-Benton-Frank/dp/0062861212?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780062861214?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062861214"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FQUEEN%2BBEE%2FDorothea%2BBenton%2BFrank%2F9780062861214"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780062861214"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Guest-Book-Novel-Sarah-Blake/dp/1250110254?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Sarah Blake",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250110251.jpg",
+        "book_image_height": 493,
+        "book_image_width": 330,
+        "book_review_link": "",
+        "book_uri": "nyt://book/5570b64b-b772-5f38-99d2-eb7c1fee8f48",
+        "contributor": "by Sarah Blake",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:15:54.485Z",
+        "dagger": 0,
+        "description": "Evie Milton uncovers a story going back a couple generations that may shatter a family myth.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250110251",
+        "publisher": "Flatiron",
+        "rank": 12,
+        "rank_last_week": 7,
+        "sunday_review_link": "",
+        "title": "THE GUEST BOOK",
+        "updated_date": "2025-10-11T07:15:54.485Z",
+        "weeks_on_list": 6,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250110251"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Guest-Book-Novel-Sarah-Blake/dp/1250110254?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250110251?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250110251"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BGUEST%2BBOOK%2FSarah%2BBlake%2F9781250110251"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250110251"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/18th-Abduction-Womens-Murder-Club-ebook/dp/B07CRJ2H4L?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "James Patterson and Maxine Paetro",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316420266.jpg",
+        "book_image_height": 495,
+        "book_image_width": 320,
+        "book_review_link": "",
+        "book_uri": "nyt://book/4a041127-4280-5c5c-8f94-a00e6a386a20",
+        "contributor": "by James Patterson and Maxine Paetro",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:15:54.625Z",
+        "dagger": 0,
+        "description": "The 18th book in the Women's Murder Club series. Lindsay Boxer investigates the disappearance of three female teachers.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316420266",
+        "publisher": "Little, Brown",
+        "rank": 13,
+        "rank_last_week": 12,
+        "sunday_review_link": "",
+        "title": "THE 18TH ABDUCTION",
+        "updated_date": "2025-10-11T07:15:54.625Z",
+        "weeks_on_list": 7,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316420266"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/18th-Abduction-Womens-Murder-Club-ebook/dp/B07CRJ2H4L?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316420266?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316420266"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2B18TH%2BABDUCTION%2FJames%2BPatterson%2Band%2BMaxine%2BPaetro%2F9780316420266"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316420266"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Fall-Dodge-Hell-Neal-Stephenson/dp/006245871X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Neal Stephenson",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780062458711.jpg",
+        "book_image_height": 499,
+        "book_image_width": 331,
+        "book_review_link": "https://www.nytimes.com/2019/06/14/books/review/fall-or-dodge-in-hell-neal-stephenson.html",
+        "book_uri": "nyt://book/d832f796-8f09-575f-92a2-d295d820d50c",
+        "contributor": "by Neal Stephenson",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:15:56.64Z",
+        "dagger": 0,
+        "description": "A dead multibillionaire\u2019s brain is scanned and turned back on at a time when humans live as digital souls.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780062458711",
+        "publisher": "Morrow",
+        "rank": 14,
+        "rank_last_week": 4,
+        "sunday_review_link": "",
+        "title": "FALL; OR DODGE IN HELL",
+        "updated_date": "2025-10-11T07:15:56.64Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780062458711"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Fall-Dodge-Hell-Neal-Stephenson/dp/006245871X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780062458711?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062458711"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFALL%253B%2BOR%2BDODGE%2BIN%2BHELL%2FNeal%2BStephenson%2F9780062458711"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780062458711"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Silent-Patient-Alex-Michaelides/dp/1250301696?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Alex Michaelides",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250301697.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "",
+        "book_uri": "nyt://book/fe8f9863-f798-55c5-acdf-ceb32b5484ce",
+        "contributor": "by Alex Michaelides",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:29:33.078Z",
+        "dagger": 0,
+        "description": "Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250301697",
+        "publisher": "Celadon",
+        "rank": 15,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE SILENT PATIENT",
+        "updated_date": "2025-10-11T07:29:33.078Z",
+        "weeks_on_list": 18,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250301697"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Silent-Patient-Alex-Michaelides/dp/1250301696?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250301697?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250301697"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BSILENT%2BPATIENT%2FAlex%2BMichaelides%2F9781250301697"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250301697"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  }
+}

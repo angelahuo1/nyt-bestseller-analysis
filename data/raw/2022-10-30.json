@@ -1,0 +1,862 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+  "num_results": 15,
+  "last_modified": "2025-10-11T07:53:37Z",
+  "results": {
+    "display_name": "Hardcover Fiction",
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "previous_published_date": "2022-10-23",
+    "published_date": "2022-10-30",
+    "next_published_date": "2022-11-06",
+    "bestsellers_date": "2022-10-15",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "list_id": 1,
+    "uri": "nyt://bestsellerslist/96f39785-b8b0-569b-898e-234b22ca00c8",
+    "books": [
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1538719827?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "David Baldacci",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781538719824.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/b14c0c7a-c260-5808-b5db-b72e7a45772f",
+        "contributor": "by David Baldacci",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:54:57.975Z",
+        "dagger": 0,
+        "description": "The seventh book in the Memory Man series. Decker works with a new partner to investigate a double homicide.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781538719824",
+        "publisher": "Grand Central",
+        "rank": 1,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "LONG SHADOWS",
+        "updated_date": "2025-10-11T07:54:57.975Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781538719824"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1538719827?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781538719824?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538719824"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLONG%2BSHADOWS%2FDavid%2BBaldacci%2F9781538719824"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781538719824"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1668002175?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Stephen King",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781668002179.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/1c203c2d-147d-5639-8e0c-009ba6f15698",
+        "contributor": "by Stephen King",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:58:22.595Z",
+        "dagger": 0,
+        "description": "A high school kid inherits a shed that is a portal to another world where good and evil are at war.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781668002179",
+        "publisher": "Scribner",
+        "rank": 2,
+        "rank_last_week": 1,
+        "sunday_review_link": "",
+        "title": "FAIRY TALE",
+        "updated_date": "2025-10-11T07:58:22.595Z",
+        "weeks_on_list": 6,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781668002179"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1668002175?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781668002179?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781668002179"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFAIRY%2BTALE%2FStephen%2BKing%2F9781668002179"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781668002179"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1501101781?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Nelson DeMille",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781501101786.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/fb1cb6b6-eda1-5dbb-a053-c39f751edd55",
+        "contributor": "by Nelson DeMille",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:54:20.627Z",
+        "dagger": 0,
+        "description": "The eighth book in the John Corey series. When a former lover offers him a job, Corey comes out of forced retirement to track a serial killer.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781501101786",
+        "publisher": "Scribner",
+        "rank": 3,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE MAZE",
+        "updated_date": "2025-10-11T07:54:20.627Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781501101786"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1501101781?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781501101786?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501101786"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BMAZE%2FNelson%2BDeMille%2F9781501101786"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781501101786"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/059344955X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Nicholas Sparks",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593449554.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/61e3a1f0-08db-5240-9ee0-72308b3b9b9d",
+        "contributor": "by Nicholas Sparks",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:56:04.243Z",
+        "dagger": 0,
+        "description": "Musicians from different backgrounds are attracted to each other and a mother flees with her son from an abusive husband.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593449554",
+        "publisher": "Random House",
+        "rank": 4,
+        "rank_last_week": 4,
+        "sunday_review_link": "",
+        "title": "DREAMLAND",
+        "updated_date": "2025-10-11T07:56:04.243Z",
+        "weeks_on_list": 4,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593449554"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/059344955X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593449554?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593449554"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDREAMLAND%2FNicholas%2BSparks%2F9780593449554"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593449554"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1984818384?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Jodi Picoult and Jennifer Finney Boylan",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781984818386.jpg",
+        "book_image_height": 500,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/8af7bc3e-8c1e-5bb1-820c-06169fac15b1",
+        "contributor": "by Jodi Picoult and Jennifer Finney Boylan",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:58:26.827Z",
+        "dagger": 0,
+        "description": "After returning to her hometown, Olivia McAfee\u2019s son gets accused of killing his crush.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781984818386",
+        "publisher": "Ballantine",
+        "rank": 5,
+        "rank_last_week": 3,
+        "sunday_review_link": "",
+        "title": "MAD HONEY",
+        "updated_date": "2025-10-11T07:58:26.827Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781984818386"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1984818384?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781984818386?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781984818386"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMAD%2BHONEY%2FJodi%2BPicoult%2Band%2BJennifer%2BFinney%2BBoylan%2F9781984818386"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781984818386"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593492544?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Celeste Ng",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593492543.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/2f2fce78-87d5-5355-9891-8abe4d77f407",
+        "contributor": "by Celeste Ng",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:55:00.809Z",
+        "dagger": 0,
+        "description": "Twelve-year-old Bird Gardner goes on a quest to find his mother, a Chinese American poet whose work he was taught to disavow.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593492543",
+        "publisher": "Penguin Press",
+        "rank": 6,
+        "rank_last_week": 5,
+        "sunday_review_link": "",
+        "title": "OUR MISSING HEARTS",
+        "updated_date": "2025-10-11T07:55:00.809Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593492543"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593492544?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593492543?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593492543"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FOUR%2BMISSING%2BHEARTS%2FCeleste%2BNg%2F9780593492543"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593492543"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/White-Royal-Blue-Casey-McQuiston/dp/1250316774?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Casey McQuiston",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250856036.jpg",
+        "book_image_height": 495,
+        "book_image_width": 323,
+        "book_review_link": "",
+        "book_uri": "nyt://book/01e1f41d-81b0-5b38-95bc-d8a6b5432a2c",
+        "contributor": "by Casey McQuiston",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:53:19.359Z",
+        "dagger": 0,
+        "description": "A staged friendship between the son of the president and his rival, the Prince of Wales, evolves into a secret and potentially dangerous romance.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250856036",
+        "publisher": "St. Martin's Griffin",
+        "rank": 7,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "RED, WHITE AND ROYAL BLUE",
+        "updated_date": "2025-10-11T07:53:19.359Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250856036"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/White-Royal-Blue-Casey-McQuiston/dp/1250316774?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250856036?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250856036"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRED%252C%2BWHITE%2BAND%2BROYAL%2BBLUE%2FCasey%2BMcQuiston%2F9781250856036"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250856036"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1984821741?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Danielle Steel",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781984821744.jpg",
+        "book_image_height": 500,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/5284d6f3-ec4d-5cf8-90c3-4cbc2857c1bf",
+        "contributor": "by Danielle Steel",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:53:32.967Z",
+        "dagger": 0,
+        "description": "Beginning at age 12, Iris Cooper endures a number of hardships in hopes of finding success as a singer.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781984821744",
+        "publisher": "Delacorte",
+        "rank": 8,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE HIGH NOTES",
+        "updated_date": "2025-10-11T07:53:32.967Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781984821744"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1984821741?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781984821744?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781984821744"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BHIGH%2BNOTES%2FDanielle%2BSteel%2F9781984821744"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781984821744"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593422473?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "John Sandford",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593422472.jpg",
+        "book_image_height": 500,
+        "book_image_width": 332,
+        "book_review_link": "",
+        "book_uri": "nyt://book/4b6df594-5dfb-57b8-9f78-c40b632a54c6",
+        "contributor": "by John Sandford",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:54:20.993Z",
+        "dagger": 0,
+        "description": "The 32nd book in the Prey series. Virgil Flowers and Lucas Davenport go after a group of vigilante killers.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593422472",
+        "publisher": "Putnam",
+        "rank": 9,
+        "rank_last_week": 2,
+        "sunday_review_link": "",
+        "title": "RIGHTEOUS PREY",
+        "updated_date": "2025-10-11T07:54:20.993Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593422472"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593422473?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593422472?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593422472"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRIGHTEOUS%2BPREY%2FJohn%2BSandford%2F9780593422472"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593422472"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1791392792?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Colleen Hoover",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781538739723.jpg",
+        "book_image_height": 500,
+        "book_image_width": 324,
+        "book_review_link": "",
+        "book_uri": "nyt://book/3604acc2-bfc6-541f-9220-6bd077b283ff",
+        "contributor": "by Colleen Hoover",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:55:51.053Z",
+        "dagger": 0,
+        "description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781538739723",
+        "publisher": "Grand Central",
+        "rank": 10,
+        "rank_last_week": 6,
+        "sunday_review_link": "",
+        "title": "VERITY",
+        "updated_date": "2025-10-11T07:55:51.053Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781538739723"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1791392792?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781538739723?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538739723"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FVERITY%2FColleen%2BHoover%2F9781538739723"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781538739723"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1982112794?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Fredrik Backman",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781982112790.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/6834b325-5cc2-5afb-8c3e-294d198a6ee7",
+        "contributor": "by Fredrik Backman",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:54:07.31Z",
+        "dagger": 0,
+        "description": "The third book in the Beartown series. Rivalries between two hockey-obsessed towns escalate into violence off the ice.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781982112790",
+        "publisher": "Atria",
+        "rank": 11,
+        "rank_last_week": 7,
+        "sunday_review_link": "",
+        "title": "THE WINNERS",
+        "updated_date": "2025-10-11T07:54:07.31Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781982112790"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1982112794?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781982112790?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781982112790"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BWINNERS%2FFredrik%2BBackman%2F9781982112790"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781982112790"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/038554734X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Bonnie Garmus",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780385547345.jpg",
+        "book_image_height": 500,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/717e0ead-9782-567d-af27-d9a6cfb1856f",
+        "contributor": "by Bonnie Garmus",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:09:33.119Z",
+        "dagger": 0,
+        "description": "A scientist and single mother living in California in the 1960s becomes a star on a TV cooking show.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780385547345",
+        "publisher": "Doubleday",
+        "rank": 12,
+        "rank_last_week": 12,
+        "sunday_review_link": "",
+        "title": "LESSONS IN CHEMISTRY",
+        "updated_date": "2025-10-11T08:09:33.119Z",
+        "weeks_on_list": 24,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780385547345"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/038554734X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780385547345?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385547345"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLESSONS%2BIN%2BCHEMISTRY%2FBonnie%2BGarmus%2F9780385547345"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780385547345"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593540034?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Stuart Woods",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593540039.jpg",
+        "book_image_height": 500,
+        "book_image_width": 330,
+        "book_review_link": "",
+        "book_uri": "nyt://book/50ac83e9-c636-5a0f-88e5-74768d923905",
+        "contributor": "by Stuart Woods",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:53:20.063Z",
+        "dagger": 0,
+        "description": "The 63rd book in the Stone Barrington series. Further adventures begin when a dead man turns up on Stone\u2019s doorstep.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593540039",
+        "publisher": "Putnam",
+        "rank": 13,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "DISTANT THUNDER",
+        "updated_date": "2025-10-11T07:53:20.063Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593540039"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593540034?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593540039?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593540039"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDISTANT%2BTHUNDER%2FStuart%2BWoods%2F9780593540039"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593540039"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0316499633?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "James Patterson and Brendan DuBois",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316499637.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/befe7f67-43f1-565e-b59f-6c9e3c22a089",
+        "contributor": "by James Patterson and Brendan DuBois",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:53:40.06Z",
+        "dagger": 0,
+        "description": "President Keegan Barrett\u2019s power grab tests the loyalties of two C.I.A. agents.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316499637",
+        "publisher": "Little, Brown",
+        "rank": 14,
+        "rank_last_week": 10,
+        "sunday_review_link": "",
+        "title": "BLOWBACK",
+        "updated_date": "2025-10-11T07:53:40.06Z",
+        "weeks_on_list": 5,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316499637"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0316499633?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316499637?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316499637"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBLOWBACK%2FJames%2BPatterson%2Band%2BBrendan%2BDuBois%2F9780316499637"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316499637"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593496477?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Ashley Flowers with Alex Kiester",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593496473.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/bcd83101-adb5-5ef7-aa35-9514fbe16961",
+        "contributor": "by Ashley Flowers with Alex Kiester",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:53:20.328Z",
+        "dagger": 0,
+        "description": "A journalist who returns to her hometown vows to find a missing girl and solve a 20-year-old cold case.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593496473",
+        "publisher": "Bantam",
+        "rank": 15,
+        "rank_last_week": 13,
+        "sunday_review_link": "",
+        "title": "ALL GOOD PEOPLE HERE",
+        "updated_date": "2025-10-11T07:53:20.328Z",
+        "weeks_on_list": 9,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593496473"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593496477?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593496473?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593496473"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FALL%2BGOOD%2BPEOPLE%2BHERE%2FAshley%2BFlowers%2Bwith%2BAlex%2BKiester%2F9780593496473"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593496473"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  }
+}

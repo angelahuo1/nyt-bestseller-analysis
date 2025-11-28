@@ -1,0 +1,862 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+  "num_results": 15,
+  "last_modified": "2025-10-11T07:27:20Z",
+  "results": {
+    "display_name": "Hardcover Fiction",
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "previous_published_date": "2020-06-28",
+    "published_date": "2020-07-05",
+    "next_published_date": "2020-07-12",
+    "bestsellers_date": "2020-06-20",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "list_id": 1,
+    "uri": "nyt://bestsellerslist/04485b97-f422-56ae-a60e-f1fbf1636b01",
+    "books": [
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0316420042?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Elin Hilderbrand",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316420044.jpg",
+        "book_image_height": 500,
+        "book_image_width": 322,
+        "book_review_link": "",
+        "book_uri": "nyt://book/10bc4fb8-3279-533a-be20-ef6dd6cfb1be",
+        "contributor": "by Elin Hilderbrand",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:29:57.015Z",
+        "dagger": 0,
+        "description": "A relationship that started in 1993 between Mallory Blessing and Jake McCloud comes to light while she is on her deathbed and his wife runs for president.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316420044",
+        "publisher": "Little, Brown",
+        "rank": 1,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "28 SUMMERS",
+        "updated_date": "2025-10-11T07:29:57.015Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316420044"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0316420042?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316420044?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316420044"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2F28%2BSUMMERS%2FElin%2BHilderbrand%2F9780316420044"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316420044"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Where-Crawdads-Sing-Delia-Owens/dp/0735219095?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Delia Owens",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780735219090.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/053b4109-4555-5aa1-9b39-cc40549bcdf0",
+        "contributor": "by Delia Owens",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:50:45.896Z",
+        "dagger": 0,
+        "description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780735219090",
+        "publisher": "Putnam",
+        "rank": 2,
+        "rank_last_week": 1,
+        "sunday_review_link": "",
+        "title": "WHERE THE CRAWDADS SING",
+        "updated_date": "2025-10-11T07:50:45.896Z",
+        "weeks_on_list": 94,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780735219090"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Where-Crawdads-Sing-Delia-Owens/dp/0735219095?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780735219090?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780735219090"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWHERE%2BTHE%2BCRAWDADS%2BSING%2FDelia%2BOwens%2F9780735219090"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780735219090"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0385545932?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "John Grisham",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780385545938.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/91803cda-e698-5a30-a5cf-df1a16665394",
+        "contributor": "by John Grisham",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:29:06.611Z",
+        "dagger": 0,
+        "description": "The line between fact and fiction becomes blurred when an author of thrillers is found dead after a hurricane hits Camino Island.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780385545938",
+        "publisher": "Doubleday",
+        "rank": 3,
+        "rank_last_week": 2,
+        "sunday_review_link": "",
+        "title": "CAMINO WINDS",
+        "updated_date": "2025-10-11T07:29:06.611Z",
+        "weeks_on_list": 8,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780385545938"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0385545932?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780385545938?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385545938"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCAMINO%2BWINDS%2FJohn%2BGrisham%2F9780385545938"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780385545938"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0525536299?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Brit Bennett",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525536291.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/6db17f1d-4bd0-562a-80ef-efa2a272cf64",
+        "contributor": "by Brit Bennett",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:38:40.367Z",
+        "dagger": 0,
+        "description": "The lives of twin sisters who run away from a Southern Black community at age 16 diverge as one returns and the other takes on a different racial identity but their fates intertwine.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525536291",
+        "publisher": "Riverhead",
+        "rank": 4,
+        "rank_last_week": 3,
+        "sunday_review_link": "",
+        "title": "THE VANISHING HALF",
+        "updated_date": "2025-10-11T07:38:40.367Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525536291"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0525536299?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525536291?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525536291"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BVANISHING%2BHALF%2FBrit%2BBennett%2F9780525536291"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525536291"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0316539554?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "James Patterson and Brendan DuBois",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316539555.jpg",
+        "book_image_height": 500,
+        "book_image_width": 320,
+        "book_review_link": "",
+        "book_uri": "nyt://book/b4180d95-99e6-56a1-8ff6-440e156cd51a",
+        "contributor": "by James Patterson and Brendan DuBois",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:28:18.331Z",
+        "dagger": 0,
+        "description": "Jeremiah Cook, a veteran and former N.Y.P.D. cop, investigates a mass murder near a lake in Georgia.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316539555",
+        "publisher": "Little, Brown",
+        "rank": 5,
+        "rank_last_week": 4,
+        "sunday_review_link": "",
+        "title": "THE SUMMER HOUSE",
+        "updated_date": "2025-10-11T07:28:18.331Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316539555"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0316539554?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316539555?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316539555"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BSUMMER%2BHOUSE%2FJames%2BPatterson%2Band%2BBrendan%2BDuBois%2F9780316539555"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316539555"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1982137975?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Stephen King",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781982137977.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/ad212b13-e446-5daf-b5d9-41bef7402b4a",
+        "contributor": "by Stephen King",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:33:14.264Z",
+        "dagger": 0,
+        "description": "Four novellas: \u201cMr. Harrigan\u2019s Phone,\u201d \u201cThe Life of Chuck,\u201d \u201cRat\u201d and \u201cIf It Bleeds.\u201d",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781982137977",
+        "publisher": "Scribner",
+        "rank": 6,
+        "rank_last_week": 7,
+        "sunday_review_link": "",
+        "title": "IF IT BLEEDS",
+        "updated_date": "2025-10-11T07:33:14.264Z",
+        "weeks_on_list": 9,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781982137977"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1982137975?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781982137977?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781982137977"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FIF%2BIT%2BBLEEDS%2FStephen%2BKing%2F9781982137977"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781982137977"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/073521672X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "James McBride",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780735216723.jpg",
+        "book_image_height": 500,
+        "book_image_width": 336,
+        "book_review_link": "https://www.nytimes.com/2020/02/29/books/review/deacon-king-kong-james-mcbride.html",
+        "book_uri": "nyt://book/ec978683-f109-562a-924c-0c7186db9547",
+        "contributor": "by James McBride",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:27:16.323Z",
+        "dagger": 0,
+        "description": "In 1969, secrets in a South Brooklyn neighborhood are uncovered when a church deacon known as Sportcoat shoots a drug dealer in public.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780735216723",
+        "publisher": "Riverhead",
+        "rank": 7,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "DEACON KING KONG",
+        "updated_date": "2025-10-11T07:27:16.323Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780735216723"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/073521672X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780735216723?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780735216723"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDEACON%2BKING%2BKONG%2FJames%2BMcBride%2F9780735216723"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780735216723"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0316539422?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Michael Connelly",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316539425.jpg",
+        "book_image_height": 500,
+        "book_image_width": 322,
+        "book_review_link": "",
+        "book_uri": "nyt://book/c959a16e-114a-5d98-af1c-7bd5a0ce5878",
+        "contributor": "by Michael Connelly",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:28:02.038Z",
+        "dagger": 0,
+        "description": "The third book in the Jack McEvoy series. A reporter tracks a killer who uses genetic data to pick his victims.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316539425",
+        "publisher": "Little, Brown",
+        "rank": 8,
+        "rank_last_week": 6,
+        "sunday_review_link": "",
+        "title": "FAIR WARNING",
+        "updated_date": "2025-10-11T07:28:02.038Z",
+        "weeks_on_list": 4,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316539425"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0316539422?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316539425?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316539425"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFAIR%2BWARNING%2FMichael%2BConnelly%2F9780316539425"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316539425"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0062868934?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Lucy Foley",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780062868930.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/dc4d32ce-1fdd-5685-946c-68fabb9dd31f",
+        "contributor": "by Lucy Foley",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:34:40.53Z",
+        "dagger": 0,
+        "description": "A wedding between a TV star and a magazine publisher on an island off the coast of Ireland turns deadly.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780062868930",
+        "publisher": "Morrow",
+        "rank": 9,
+        "rank_last_week": 10,
+        "sunday_review_link": "",
+        "title": "THE GUEST LIST",
+        "updated_date": "2025-10-11T07:34:40.53Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780062868930"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0062868934?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780062868930?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062868930"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BGUEST%2BLIST%2FLucy%2BFoley%2F9780062868930"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780062868930"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1984826786?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Max Brooks",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781984826787.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/874a1540-d0ce-5aeb-84e5-56a3b0b45a78",
+        "contributor": "by Max Brooks",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:27:16.43Z",
+        "dagger": 0,
+        "description": "In the aftermath of Mount Rainier erupting, Kate Holland\u2019s newly discovered journals tell the tale of the creature known as Bigfoot.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781984826787",
+        "publisher": "Del Rey",
+        "rank": 10,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "DEVOLUTION",
+        "updated_date": "2025-10-11T07:27:16.43Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781984826787"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1984826786?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781984826787?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781984826787"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDEVOLUTION%2FMax%2BBrooks%2F9781984826787"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781984826787"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593188063?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Mike Maden",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593188064.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/ecd37109-897a-5240-bde9-d5ebf6b5de48",
+        "contributor": "by Mike Maden",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:27:28.197Z",
+        "dagger": 0,
+        "description": "When an old friend is killed during the bombing of a Barcelona cafe, Jack Ryan Jr. searches for those responsible.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593188064",
+        "publisher": "Putnam",
+        "rank": 11,
+        "rank_last_week": 8,
+        "sunday_review_link": "",
+        "title": "TOM CLANCY: FIRING POINT",
+        "updated_date": "2025-10-11T07:27:28.197Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593188064"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593188063?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593188064?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593188064"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTOM%2BCLANCY%253A%2BFIRING%2BPOINT%2FMike%2BMaden%2F9780593188064"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593188064"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0399179623?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Danielle Steel",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780399179624.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/3872e403-8e7a-537f-a170-e4f51dce0ef7",
+        "contributor": "by Danielle Steel",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:28:01.337Z",
+        "dagger": 0,
+        "description": "After a California rancher\u2018s sudden death, his three daughters discover things they did not know about their father.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780399179624",
+        "publisher": "Delacorte",
+        "rank": 12,
+        "rank_last_week": 5,
+        "sunday_review_link": "",
+        "title": "DADDY'S GIRLS",
+        "updated_date": "2025-10-11T07:28:01.337Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780399179624"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0399179623?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780399179624?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780399179624"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDADDY%2527S%2BGIRLS%2FDanielle%2BSteel%2F9780399179624"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780399179624"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/125020710X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Nora Roberts",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250207104.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/73589940-928c-53a0-905f-59a473a5ca4e",
+        "contributor": "by Nora Roberts",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:27:28.092Z",
+        "dagger": 0,
+        "description": "A child star escapes her abductors, gathers herself in western Ireland and returns to Hollywood.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250207104",
+        "publisher": "St. Martin's",
+        "rank": 13,
+        "rank_last_week": 9,
+        "sunday_review_link": "",
+        "title": "HIDEAWAY",
+        "updated_date": "2025-10-11T07:27:28.092Z",
+        "weeks_on_list": 4,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250207104"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/125020710X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250207104?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250207104"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHIDEAWAY%2FNora%2BRoberts%2F9781250207104"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250207104"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1538761467?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "David Baldacci",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781538761465.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/2a73eed3-9d66-53bb-8362-3f0a6bf5b03e",
+        "contributor": "by David Baldacci",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:27:14.927Z",
+        "dagger": 0,
+        "description": "The sixth book in the Memory Man series. Decker and Jamison investigate a murder in a North Dakota town in a fracking boom.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781538761465",
+        "publisher": "Grand Central",
+        "rank": 14,
+        "rank_last_week": 11,
+        "sunday_review_link": "",
+        "title": "WALK THE WIRE",
+        "updated_date": "2025-10-11T07:27:14.927Z",
+        "weeks_on_list": 9,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781538761465"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1538761467?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781538761465?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538761465"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWALK%2BTHE%2BWIRE%2FDavid%2BBaldacci%2F9781538761465"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781538761465"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/American-Dirt-Oprahs-Book-Club/dp/1250209765?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Jeanine Cummins",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250209764.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "https://www.nytimes.com/2020/01/17/books/review-american-dirt-jeanine-cummins.html",
+        "book_uri": "nyt://book/ea1c7a1f-1743-57a8-b210-0150f87a4b47",
+        "contributor": "by Jeanine Cummins",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:33:52.73Z",
+        "dagger": 0,
+        "description": "A bookseller flees Mexico for the United States with her son while pursued by the head of a drug cartel.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250209764",
+        "publisher": "Flatiron",
+        "rank": 15,
+        "rank_last_week": 13,
+        "sunday_review_link": "",
+        "title": "AMERICAN DIRT",
+        "updated_date": "2025-10-11T07:33:52.73Z",
+        "weeks_on_list": 22,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250209764"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/American-Dirt-Oprahs-Book-Club/dp/1250209765?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250209764?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250209764"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAMERICAN%2BDIRT%2FJeanine%2BCummins%2F9781250209764"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250209764"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  }
+}

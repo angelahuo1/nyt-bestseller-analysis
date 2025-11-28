@@ -1,0 +1,862 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+  "num_results": 15,
+  "last_modified": "2025-10-11T08:08:57Z",
+  "results": {
+    "display_name": "Hardcover Fiction",
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "previous_published_date": "2024-03-03",
+    "published_date": "2024-03-10",
+    "next_published_date": "2024-03-17",
+    "bestsellers_date": "2024-02-24",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "list_id": 1,
+    "uri": "nyt://bestsellerslist/8fa89043-2a95-5eac-b67e-25049236ba26",
+    "books": [
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1250178630?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Kristin Hannah",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250178633.jpg",
+        "book_image_height": 500,
+        "book_image_width": 333,
+        "book_review_link": "",
+        "book_uri": "nyt://book/9ce735af-71cf-5ff3-a367-43ee07e3fdd7",
+        "contributor": "by Kristin Hannah",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:22:18.311Z",
+        "dagger": 0,
+        "description": "A nurse follows her brother to serve during the Vietnam War and returns to a divided America.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250178633",
+        "publisher": "St. Martin's",
+        "rank": 1,
+        "rank_last_week": 1,
+        "sunday_review_link": "",
+        "title": "THE WOMEN",
+        "updated_date": "2025-10-11T08:22:18.311Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250178633"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250178630?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250178633?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250178633"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BWOMEN%2FKristin%2BHannah%2F9781250178633"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250178633"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1649374046?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Rebecca Yarros",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781649374042.jpg",
+        "book_image_height": 500,
+        "book_image_width": 309,
+        "book_review_link": "",
+        "book_uri": "nyt://book/106c2cf0-7d20-51b1-bad4-91c3ebcd131a",
+        "contributor": "by Rebecca Yarros",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:21:40.121Z",
+        "dagger": 0,
+        "description": "Violet Sorrengail is urged by the commanding general, who also is her mother, to become a candidate for the elite dragon riders.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781649374042",
+        "publisher": "Red Tower",
+        "rank": 2,
+        "rank_last_week": 2,
+        "sunday_review_link": "",
+        "title": "FOURTH WING",
+        "updated_date": "2025-10-11T08:21:40.121Z",
+        "weeks_on_list": 42,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781649374042"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1649374046?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781649374042?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781649374042"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFOURTH%2BWING%2FRebecca%2BYarros%2F9781649374042"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781649374042"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1649374178?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Rebecca Yarros",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781649374172.jpg",
+        "book_image_height": 500,
+        "book_image_width": 309,
+        "book_review_link": "",
+        "book_uri": "nyt://book/d3c570c9-3c3a-5c8b-a740-85ea5e92bfc9",
+        "contributor": "by Rebecca Yarros",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:22:17.941Z",
+        "dagger": 0,
+        "description": "The second book in the Empyrean series. Violet Sorrengail\u2019s next round of training under the new vice commandant might require her to betray the man she loves.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781649374172",
+        "publisher": "Red Tower",
+        "rank": 3,
+        "rank_last_week": 3,
+        "sunday_review_link": "",
+        "title": "IRON FLAME",
+        "updated_date": "2025-10-11T08:22:17.941Z",
+        "weeks_on_list": 16,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781649374172"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1649374178?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781649374172?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781649374172"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FIRON%2BFLAME%2FRebecca%2BYarros%2F9781649374172"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781649374172"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1635574102?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Sarah J. Maas",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781635574104.jpg",
+        "book_image_height": 500,
+        "book_image_width": 325,
+        "book_review_link": "",
+        "book_uri": "nyt://book/fd8d95af-3496-5a1b-81d2-d3f7a7a54e90",
+        "contributor": "by Sarah J. Maas",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:11:21.529Z",
+        "dagger": 0,
+        "description": "The third book in the Crescent City series. Bryce wants to return home while Hunt is trapped in Asteri's dungeons.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781635574104",
+        "publisher": "Bloomsbury",
+        "rank": 4,
+        "rank_last_week": 4,
+        "sunday_review_link": "",
+        "title": "HOUSE OF FLAME AND SHADOW",
+        "updated_date": "2025-10-11T08:11:21.529Z",
+        "weeks_on_list": 4,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781635574104"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1635574102?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781635574104?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781635574104"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHOUSE%2BOF%2BFLAME%2BAND%2BSHADOW%2FSarah%2BJ.%2BMaas%2F9781635574104"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781635574104"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593422945?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "James McBride",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593422946.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/7d47b076-7ad7-539c-a051-6664384636b9",
+        "contributor": "by James McBride",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:11:21.147Z",
+        "dagger": 0,
+        "description": "Secrets held by the residents of a dilapidated neighborhood come to life when a skeleton is found at the bottom of a well.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593422946",
+        "publisher": "Riverhead",
+        "rank": 5,
+        "rank_last_week": 5,
+        "sunday_review_link": "",
+        "title": "THE HEAVEN & EARTH GROCERY STORE",
+        "updated_date": "2025-10-11T08:11:21.147Z",
+        "weeks_on_list": 27,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593422946"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593422945?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593422946?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593422946"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BHEAVEN%2B%2526%2BEARTH%2BGROCERY%2BSTORE%2FJames%2BMcBride%2F9780593422946"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593422946"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593492919?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Ashley Elston",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593492918.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/d5aa005c-08a5-5bd9-ba0e-6dcd5e7e31f8",
+        "contributor": "by Ashley Elston",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:10:22.732Z",
+        "dagger": 0,
+        "description": "A woman who works for a mysterious boss takes on a new identity to dig up information on someone.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593492918",
+        "publisher": "Pamela Dorman",
+        "rank": 6,
+        "rank_last_week": 6,
+        "sunday_review_link": "",
+        "title": "FIRST LIE WINS",
+        "updated_date": "2025-10-11T08:10:22.732Z",
+        "weeks_on_list": 8,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593492918"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593492919?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593492918?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593492918"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFIRST%2BLIE%2BWINS%2FAshley%2BElston%2F9780593492918"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593492918"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1250334209?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "RuNyx",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250334206.jpg",
+        "book_image_height": 500,
+        "book_image_width": 325,
+        "book_review_link": "",
+        "book_uri": "nyt://book/0501bc11-beef-570b-befd-d551de1006c8",
+        "contributor": "by RuNyx",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:09:33.375Z",
+        "dagger": 0,
+        "description": "A century-old mystery brings Corvina Clemm and Vad Deverell together at a university based in a castle at the top of a mountain with a dark history.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250334206",
+        "publisher": "Bramble",
+        "rank": 7,
+        "rank_last_week": 9,
+        "sunday_review_link": "",
+        "title": "GOTHIKANA",
+        "updated_date": "2025-10-11T08:09:33.375Z",
+        "weeks_on_list": 5,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250334206"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250334209?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250334206?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250334206"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGOTHIKANA%2FRuNyx%2F9781250334206"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250334206"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/038554734X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Bonnie Garmus",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780385547345.jpg",
+        "book_image_height": 500,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/717e0ead-9782-567d-af27-d9a6cfb1856f",
+        "contributor": "by Bonnie Garmus",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:09:33.119Z",
+        "dagger": 0,
+        "description": "A scientist and single mother living in California in the 1960s becomes a star on a TV cooking show.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780385547345",
+        "publisher": "Doubleday",
+        "rank": 8,
+        "rank_last_week": 8,
+        "sunday_review_link": "",
+        "title": "LESSONS IN CHEMISTRY",
+        "updated_date": "2025-10-11T08:09:33.119Z",
+        "weeks_on_list": 94,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780385547345"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/038554734X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780385547345?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385547345"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLESSONS%2BIN%2BCHEMISTRY%2FBonnie%2BGarmus%2F9780385547345"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780385547345"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0316403385?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "James Patterson and James O. Born",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316403382.jpg",
+        "book_image_height": 500,
+        "book_image_width": 323,
+        "book_review_link": "",
+        "book_uri": "nyt://book/c2d18f97-eee5-530a-b0ad-dafd05036fd4",
+        "contributor": "by James Patterson and James O. Born",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:08:41.354Z",
+        "dagger": 0,
+        "description": "The 16th book in the Michael Bennett series. Bennett teams up with a sniper.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316403382",
+        "publisher": "Little, Brown",
+        "rank": 9,
+        "rank_last_week": 7,
+        "sunday_review_link": "",
+        "title": "CROSSHAIRS",
+        "updated_date": "2025-10-11T08:08:41.354Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316403382"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0316403385?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316403382?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316403382"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCROSSHAIRS%2FJames%2BPatterson%2Band%2BJames%2BO.%2BBorn%2F9780316403382"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316403382"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593548140?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Mark Greaney",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593548141.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/db75a5e2-6de5-5408-ac84-54f650b575b6",
+        "contributor": "by Mark Greaney",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:08:39.875Z",
+        "dagger": 0,
+        "description": "The 13th book in the Gray Man series. Assassins disrupt the Gray Man and his lover\u2019s new quiet life.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593548141",
+        "publisher": "Berkley",
+        "rank": 10,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE CHAOS AGENT",
+        "updated_date": "2025-10-11T08:08:39.875Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593548141"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593548140?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593548141?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593548141"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BCHAOS%2BAGENT%2FMark%2BGreaney%2F9780593548141"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593548141"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0063204150?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Shelby Van Pelt",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780063204157.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/206a5e83-12f4-5ea9-8e63-1da5470a6ef5",
+        "contributor": "by Shelby Van Pelt",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:19:46.774Z",
+        "dagger": 0,
+        "description": "A widow working the night shift at the Sowell Bay Aquarium is aided in solving a mystery by a giant Pacific octopus living there.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780063204157",
+        "publisher": "Ecco",
+        "rank": 11,
+        "rank_last_week": 11,
+        "sunday_review_link": "",
+        "title": "REMARKABLY BRIGHT CREATURES",
+        "updated_date": "2025-10-11T08:19:46.774Z",
+        "weeks_on_list": 39,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780063204157"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0063204150?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780063204157?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780063204157"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FREMARKABLY%2BBRIGHT%2BCREATURES%2FShel%2BVan%2BPelt%2F9780063204157"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780063204157"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/125075898X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Alex Michaelides",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250758989.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/3b064e93-0e77-5d37-8ba3-4d32b82a83c5",
+        "contributor": "by Alex Michaelides",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:08:40.145Z",
+        "dagger": 0,
+        "description": "Violence erupts when a former movie star brings a group of her friends to her private Greek island for Easter.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250758989",
+        "publisher": "Celadon",
+        "rank": 12,
+        "rank_last_week": 12,
+        "sunday_review_link": "",
+        "title": "THE FURY",
+        "updated_date": "2025-10-11T08:08:40.145Z",
+        "weeks_on_list": 6,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250758989"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/125075898X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250758989?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250758989"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BFURY%2FAlex%2BMichaelides%2F9781250758989"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250758989"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1538721031?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Steve Berry",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781538721032.jpg",
+        "book_image_height": 500,
+        "book_image_width": 332,
+        "book_review_link": "",
+        "book_uri": "nyt://book/c348dbe0-fb83-53b5-9861-c639880bdfea",
+        "contributor": "by Steve Berry",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:08:40.273Z",
+        "dagger": 0,
+        "description": "The 18th book in the Cotton Malone series. Bitcoin and treasure from World War II are part of a mystery Cotton must solve.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781538721032",
+        "publisher": "Grand Central",
+        "rank": 13,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE ATLAS MANEUVER",
+        "updated_date": "2025-10-11T08:08:40.273Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781538721032"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1538721031?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781538721032?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538721032"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BATLAS%2BMANEUVER%2FSteve%2BBerry%2F9781538721032"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781538721032"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0063251922?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Barbara Kingsolver",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780063251922.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/dd6e4f9d-d082-552d-b888-7276a25b5aca",
+        "contributor": "by Barbara Kingsolver",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:08:41.499Z",
+        "dagger": 0,
+        "description": "Winner of a 2023 Pulitzer Prize for fiction. A reimagining of Charles Dickens\u2019s \u201cDavid Copperfield\u201d set in the mountains of southern Appalachia.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780063251922",
+        "publisher": "Harper",
+        "rank": 14,
+        "rank_last_week": 13,
+        "sunday_review_link": "",
+        "title": "DEMON COPPERHEAD",
+        "updated_date": "2025-10-11T08:08:41.499Z",
+        "weeks_on_list": 69,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780063251922"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0063251922?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780063251922?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780063251922"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDEMON%2BCOPPERHEAD%2FBarbara%2BKingsolver%2F9780063251922"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780063251922"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0802162177?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Abraham Verghese",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780802162175.jpg",
+        "book_image_height": 500,
+        "book_image_width": 320,
+        "book_review_link": "",
+        "book_uri": "nyt://book/5ebf1d34-4c68-560a-8330-7e65bedaaa1a",
+        "contributor": "by Abraham Verghese",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:10:46.788Z",
+        "dagger": 0,
+        "description": "Three generations of a family living on South India\u2019s Malabar Coast suffer the loss of a family member by drowning.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780802162175",
+        "publisher": "Grove",
+        "rank": 15,
+        "rank_last_week": 14,
+        "sunday_review_link": "",
+        "title": "THE COVENANT OF WATER",
+        "updated_date": "2025-10-11T08:10:46.788Z",
+        "weeks_on_list": 38,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780802162175"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0802162177?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780802162175?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780802162175"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BCOVENANT%2BOF%2BWATER%2FAbraham%2BVerghese%2F9780802162175"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780802162175"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  }
+}

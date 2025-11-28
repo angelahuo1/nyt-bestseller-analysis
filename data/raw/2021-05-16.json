@@ -1,0 +1,862 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+  "num_results": 15,
+  "last_modified": "2025-10-11T07:37:07Z",
+  "results": {
+    "display_name": "Hardcover Fiction",
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "previous_published_date": "2021-05-09",
+    "published_date": "2021-05-16",
+    "next_published_date": "2021-05-23",
+    "bestsellers_date": "2021-05-01",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "list_id": 1,
+    "uri": "nyt://bestsellerslist/7a855fdf-533a-5218-8213-7ec9be8ad4a1",
+    "books": [
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0385547684?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "John Grisham",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780385547680.jpg",
+        "book_image_height": 500,
+        "book_image_width": 342,
+        "book_review_link": "",
+        "book_uri": "nyt://book/010af0b7-2a30-598f-97f5-1ed63c3426e1",
+        "contributor": "by John Grisham",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:40:08.039Z",
+        "dagger": 0,
+        "description": "Samuel Sooleymon receives a basketball scholarship to North Carolina Central and determines to bring his family over from a civil war-ravaged South Sudan.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780385547680",
+        "publisher": "Doubleday",
+        "rank": 1,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "SOOLEY",
+        "updated_date": "2025-10-11T07:40:08.039Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780385547680"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0385547684?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780385547680?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385547680"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSOOLEY%2FJohn%2BGrisham%2F9780385547680"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780385547680"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/059346527X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Amanda Gorman",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593465271.jpg",
+        "book_image_height": 500,
+        "book_image_width": 362,
+        "book_review_link": "",
+        "book_uri": "nyt://book/a95afb91-235c-578c-847a-a98d0af7b6a0",
+        "contributor": "by Amanda Gorman",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:00:47.268Z",
+        "dagger": 0,
+        "description": "The poem read on President Joe Biden's Inauguration Day, by the youngest poet to write and perform an inaugural poem.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593465271",
+        "publisher": "Viking",
+        "rank": 2,
+        "rank_last_week": 2,
+        "sunday_review_link": "",
+        "title": "THE HILL WE CLIMB",
+        "updated_date": "2025-10-11T08:00:47.268Z",
+        "weeks_on_list": 5,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593465271"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/059346527X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593465271?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593465271"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BHILL%2BWE%2BCLIMB%2FAmanda%2BGorman%2F9780593465271"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593465271"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1984821466?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Danielle Steel",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781984821461.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/8984e0bc-5551-5f4c-be32-47e41fb5e55f",
+        "contributor": "by Danielle Steel",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:37:48.765Z",
+        "dagger": 0,
+        "description": "Two estranged sisters, one a former best-selling author, the other a nun, reconnect as one searches for the child the other gave up.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781984821461",
+        "publisher": "Delacorte",
+        "rank": 3,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "FINDING ASHLEY",
+        "updated_date": "2025-10-11T07:37:48.765Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781984821461"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1984821466?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781984821461?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781984821461"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFINDING%2BASHLEY%2FDanielle%2BSteel%2F9781984821461"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781984821461"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1538719673?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "David Baldacci",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781538719671.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/011539d9-57f1-5254-81e9-4b8116c7dfde",
+        "contributor": "by David Baldacci",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:38:38.91Z",
+        "dagger": 0,
+        "description": "Aloysius Archer, a World War II veteran, seeks to apprentice with Willie Dash, a private eye, in a corrupt California town.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781538719671",
+        "publisher": "Grand Central",
+        "rank": 4,
+        "rank_last_week": 1,
+        "sunday_review_link": "",
+        "title": "A GAMBLING MAN",
+        "updated_date": "2025-10-11T07:38:38.91Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781538719671"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1538719673?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781538719671?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538719671"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FA%2BGAMBLING%2BMAN%2FDavid%2BBaldacci%2F9781538719671"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781538719671"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1250178606?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Kristin Hannah",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250178602.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/c34834c6-f957-5b0b-8fd7-abd9c35eebed",
+        "contributor": "by Kristin Hannah",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:40:13.195Z",
+        "dagger": 0,
+        "description": "As dust storms roll during the Great Depression, Elsa must choose between saving the family and farm or heading West.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250178602",
+        "publisher": "St. Martin's",
+        "rank": 5,
+        "rank_last_week": 4,
+        "sunday_review_link": "",
+        "title": "THE FOUR WINDS",
+        "updated_date": "2025-10-11T07:40:13.195Z",
+        "weeks_on_list": 13,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250178602"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250178606?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250178602?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250178602"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BFOUR%2BWINDS%2FKristin%2BHannah%2F9781250178602"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250178602"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0525559477?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Matt Haig",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525559474.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/60d0ee2d-3d05-50c9-a484-050d17a2308e",
+        "contributor": "by Matt Haig",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:57:35.581Z",
+        "dagger": 0,
+        "description": "Nora Seed finds a library beyond the edge of the universe that contains books with multiple possibilities of the lives one could have lived.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525559474",
+        "publisher": "Viking",
+        "rank": 6,
+        "rank_last_week": 5,
+        "sunday_review_link": "",
+        "title": "THE MIDNIGHT LIBRARY",
+        "updated_date": "2025-10-11T07:57:35.581Z",
+        "weeks_on_list": 22,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525559474"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0525559477?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525559474?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525559474"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BMIDNIGHT%2BLIBRARY%2FMatt%2BHaig%2F9780525559474"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525559474"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/059308702X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "John Sandford",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593087022.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/76574ff2-fe42-5fea-a3eb-f55f4bf497b6",
+        "contributor": "by John Sandford",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:37:34.988Z",
+        "dagger": 0,
+        "description": "The 31st book in the Prey series. When federal officers are killed, Lucas Davenport and Virgil Flowers team up to investigate matters.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593087022",
+        "publisher": "Putnam",
+        "rank": 7,
+        "rank_last_week": 3,
+        "sunday_review_link": "",
+        "title": "OCEAN PREY",
+        "updated_date": "2025-10-11T07:37:34.988Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593087022"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/059308702X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593087022?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593087022"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FOCEAN%2BPREY%2FJohn%2BSandford%2F9780593087022"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593087022"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593318315?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Jhumpa Lahiri",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593318317.jpg",
+        "book_image_height": 500,
+        "book_image_width": 310,
+        "book_review_link": "",
+        "book_uri": "nyt://book/610a31d5-9e38-5723-8022-d68ec8e80240",
+        "contributor": "by Jhumpa Lahiri",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:37:02.295Z",
+        "dagger": 0,
+        "description": "A woman who feels lost in life finds solace in the city she calls home and gets a new outlook while visiting the sea.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593318317",
+        "publisher": "Knopf",
+        "rank": 8,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "WHEREABOUTS",
+        "updated_date": "2025-10-11T07:37:02.295Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593318317"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593318315?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593318317?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593318317"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWHEREABOUTS%2FJhumpa%2BLahiri%2F9780593318317"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593318317"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0765387565?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "V.E. Schwab",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780765387561.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/c9bf2d03-7b78-58d8-a9d7-a9b897d08427",
+        "contributor": "by V.E. Schwab",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:41:00.875Z",
+        "dagger": 0,
+        "description": "A Faustian bargain comes with a curse that affects the adventure Addie LaRue has across centuries.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780765387561",
+        "publisher": "Tor/Forge",
+        "rank": 9,
+        "rank_last_week": 6,
+        "sunday_review_link": "",
+        "title": "THE INVISIBLE LIFE OF ADDIE LARUE",
+        "updated_date": "2025-10-11T07:41:00.875Z",
+        "weeks_on_list": 27,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780765387561"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0765387565?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780765387561?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780765387561"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BINVISIBLE%2BLIFE%2BOF%2BADDIE%2BLARUE%2FV.E.%2BSchwab%2F9780765387561"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780765387561"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593158296?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Timothy Zahn",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593158296.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/c4394182-e0a6-524a-b601-a6a28ee5d70e",
+        "contributor": "by Timothy Zahn",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:36:37.677Z",
+        "dagger": 0,
+        "description": "In this Star Wars saga, Thrawn and the Expansionary Defense Fleet discover how their enemy truly operates.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593158296",
+        "publisher": "Del Rey",
+        "rank": 10,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THRAWN ASCENDANCY: GREATER GOOD",
+        "updated_date": "2025-10-11T07:36:37.677Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593158296"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593158296?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593158296?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593158296"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHRAWN%2BASCENDANCY%253A%2BGREATER%2BGOOD%2FTimothy%2BZahn%2F9780593158296"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593158296"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/198210435X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Karen Kingsbury",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781982104351.jpg",
+        "book_image_height": 500,
+        "book_image_width": 327,
+        "book_review_link": "",
+        "book_uri": "nyt://book/121b179b-d29e-5c0e-90e7-c876e81b34f7",
+        "contributor": "by Karen Kingsbury",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:36:37.785Z",
+        "dagger": 0,
+        "description": "A secret agent with the F.B.I. and a young woman betrothed by her father to a drug lord pretend to be in love for a mission.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781982104351",
+        "publisher": "Atria",
+        "rank": 11,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "A DISTANT SHORE",
+        "updated_date": "2025-10-11T07:36:37.785Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781982104351"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/198210435X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781982104351?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781982104351"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FA%2BDISTANT%2BSHORE%2FKaren%2BKingsbury%2F9781982104351"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781982104351"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0525536299?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Brit Bennett",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525536291.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/6db17f1d-4bd0-562a-80ef-efa2a272cf64",
+        "contributor": "by Brit Bennett",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:38:40.367Z",
+        "dagger": 0,
+        "description": "The lives of twin sisters who run away from a Southern Black community at age 16 diverge as one returns and the other takes on a different racial identity but their fates intertwine.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525536291",
+        "publisher": "Riverhead",
+        "rank": 12,
+        "rank_last_week": 10,
+        "sunday_review_link": "",
+        "title": "THE VANISHING HALF",
+        "updated_date": "2025-10-11T07:38:40.367Z",
+        "weeks_on_list": 48,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525536291"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0525536299?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525536291?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525536291"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BVANISHING%2BHALF%2FBrit%2BBennett%2F9780525536291"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525536291"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/059331817X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Kazuo Ishiguro",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593318171.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/00b20581-7c4c-54f0-accf-dae466275b6a",
+        "contributor": "by Kazuo Ishiguro",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:36:38.039Z",
+        "dagger": 0,
+        "description": "An \u201cArtificial Friend\u201d named Klara is purchased to serve as a companion to an ailing 14-year-old girl.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593318171",
+        "publisher": "Knopf",
+        "rank": 13,
+        "rank_last_week": 7,
+        "sunday_review_link": "",
+        "title": "KLARA AND THE SUN",
+        "updated_date": "2025-10-11T07:36:38.039Z",
+        "weeks_on_list": 9,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593318171"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/059331817X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593318171?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593318171"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FKLARA%2BAND%2BTHE%2BSUN%2FKazuo%2BIshiguro%2F9780593318171"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593318171"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1250765374?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Martha Wells",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250765376.jpg",
+        "book_image_height": 500,
+        "book_image_width": 313,
+        "book_review_link": "",
+        "book_uri": "nyt://book/f2a343b5-0d43-5755-bf37-3aa9c37800fc",
+        "contributor": "by Martha Wells",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:36:38.169Z",
+        "dagger": 0,
+        "description": "The sixth book in the Murderbot Diaries series. When a dead body turns up on Preservation Station, Murderbot must speak to humans.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250765376",
+        "publisher": "Tor.com",
+        "rank": 14,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "FUGITIVE TELEMETRY",
+        "updated_date": "2025-10-11T07:36:38.169Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250765376"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250765374?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250765376?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250765376"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFUGITIVE%2BTELEMETRY%2FMartha%2BWells%2F9781250765376"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250765376"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0063048930?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Elin Hilderbrand et al",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780063048935.jpg",
+        "book_image_height": 500,
+        "book_image_width": 333,
+        "book_review_link": "",
+        "book_uri": "nyt://book/0137c12e-f24d-539a-a0d9-54a23fa06c3d",
+        "contributor": "by Elin Hilderbrand et al",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:36:38.3Z",
+        "dagger": 0,
+        "description": "A collection of stories and other writing inspired by the work of the late author Dorothea Benton Frank.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780063048935",
+        "publisher": "Morrow",
+        "rank": 15,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "REUNION BEACH",
+        "updated_date": "2025-10-11T07:36:38.3Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780063048935"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0063048930?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780063048935?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780063048935"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FREUNION%2BBEACH%2FElin%2BHilderbrand%2Bet%2Bal%2F9780063048935"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780063048935"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  }
+}

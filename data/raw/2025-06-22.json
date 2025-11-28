@@ -1,0 +1,862 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+  "num_results": 15,
+  "last_modified": "2025-06-26T15:35:03Z",
+  "results": {
+    "display_name": "Hardcover Fiction",
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "previous_published_date": "2025-06-15",
+    "published_date": "2025-06-22",
+    "next_published_date": "2025-06-29",
+    "bestsellers_date": "2025-06-07",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "list_id": 1,
+    "uri": "nyt://bestsellerslist/ade19e4e-044a-54e3-9dec-e7eca37f335b",
+    "books": [
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593158717?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Taylor Jenkins Reid",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593158715.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/ea3a72b1-7898-565c-90fc-dafffda12a5c",
+        "contributor": "by Taylor Jenkins Reid",
+        "contributor_note": "",
+        "created_date": "2025-07-24T03:00:44.554Z",
+        "dagger": 0,
+        "description": "In the summer of 1980, Joan Goodwin begins training with a group of candidates for NASA\u2019s space shuttle program.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593158715",
+        "publisher": "Ballantine",
+        "rank": 1,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "ATMOSPHERE",
+        "updated_date": "2025-07-24T03:00:44.554Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593158715"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593158717?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593158715?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593158715"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FATMOSPHERE%2FTaylor%2BJenkins%2BReid%2F9780593158715"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593158715"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0316565105?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Bill Clinton and James Patterson",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316565103.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/d65dbdbc-0b4e-50c6-b23f-94e7a82b6fc8",
+        "contributor": "by Bill Clinton and James Patterson",
+        "contributor_note": "",
+        "created_date": "2025-06-26T15:34:59.999Z",
+        "dagger": 0,
+        "description": "When President Wright\u2019s husband goes on trial for murder, a pair of journalists search for answers.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316565103",
+        "publisher": "Little, Brown and Knopf",
+        "rank": 2,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE FIRST GENTLEMAN",
+        "updated_date": "2025-06-26T15:34:59.999Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316565103"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0316565105?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316565103?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316565103"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BFIRST%2BGENTLEMAN%2FBill%2BClinton%2Band%2BJames%2BPatterson%2F9780316565103"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316565103"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1668089335?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Stephen King",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781668089330.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/7ebabb25-4ddf-5a99-8ecd-82f644626e07",
+        "contributor": "by Stephen King",
+        "contributor_note": "",
+        "created_date": "2025-07-24T03:00:31.078Z",
+        "dagger": 0,
+        "description": "Holly Gibney does double duty by helping head off acts of retribution and protecting a women\u2019s rights activist.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781668089330",
+        "publisher": "Scribner",
+        "rank": 3,
+        "rank_last_week": 1,
+        "sunday_review_link": "",
+        "title": "NEVER FLINCH",
+        "updated_date": "2025-07-24T03:00:31.078Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781668089330"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1668089335?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781668089330?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781668089330"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNEVER%2BFLINCH%2FStephen%2BKing%2F9781668089330"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781668089330"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/059344129X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Emily Henry",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593441299.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/9acef644-540c-598c-8d0b-abe49ecc78c0",
+        "contributor": "by Emily Henry",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:22:38.714Z",
+        "dagger": 0,
+        "description": "A writer looking for her big break competes against a Pulitzer winner to tell the story of an octogenarian with a storied past.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593441299",
+        "publisher": "Berkley",
+        "rank": 4,
+        "rank_last_week": 4,
+        "sunday_review_link": "",
+        "title": "GREAT BIG BEAUTIFUL LIFE",
+        "updated_date": "2025-10-11T08:22:38.714Z",
+        "weeks_on_list": 7,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593441299"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/059344129X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593441299?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593441299"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGREAT%2BBIG%2BBEAUTIFUL%2BLIFE%2FEmily%2BHenry%2F9780593441299"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593441299"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0316588482?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Michael Connelly",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316588485.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/65738422-1df4-56b1-8c97-151d92025ec6",
+        "contributor": "by Michael Connelly",
+        "contributor_note": "",
+        "created_date": "2025-07-18T07:37:29.198Z",
+        "dagger": 0,
+        "description": "The Los Angeles County sheriff's detective Stilwell gets reassigned to Catalina Island, where he investigates a poaching case and a Jane Doe found in the harbor.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316588485",
+        "publisher": "Little, Brown",
+        "rank": 5,
+        "rank_last_week": 5,
+        "sunday_review_link": "",
+        "title": "NIGHTSHADE",
+        "updated_date": "2025-07-18T07:37:29.198Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316588485"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0316588482?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316588485?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316588485"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNIGHTSHADE%2FMichael%2BConnelly%2F9780316588485"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316588485"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1538765829?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Douglas Preston and Lincoln Child",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781538765821.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/761a1e19-8ffe-5b21-944c-0a95589b011e",
+        "contributor": "by Douglas Preston and Lincoln Child",
+        "contributor_note": "",
+        "created_date": "2025-06-26T15:34:52.06Z",
+        "dagger": 0,
+        "description": "The fifth book in the Nora Kelly series. The discovery of a pair of skeletons sparks an investigation that runs into a dark power.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781538765821",
+        "publisher": "Grand Central",
+        "rank": 6,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "BADLANDS",
+        "updated_date": "2025-06-26T15:34:52.06Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781538765821"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1538765829?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781538765821?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538765821"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBADLANDS%2FDouglas%2BPreston%2Band%2BLincoln%2BChild%2F9781538765821"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781538765821"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0316582700?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Rachel Gillig",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316582704.jpg",
+        "book_image_height": 500,
+        "book_image_width": 327,
+        "book_review_link": "",
+        "book_uri": "nyt://book/c59b3a29-2f22-55cb-bf3e-bac4d46480a5",
+        "contributor": "by Rachel Gillig",
+        "contributor_note": "",
+        "created_date": "2025-06-26T15:34:52.134Z",
+        "dagger": 0,
+        "description": "Sybil Delling, who is gifted with the power of foresight, forms an alliance with a heretical knight when her sister Diviners disappear.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316582704",
+        "publisher": "Orbit",
+        "rank": 7,
+        "rank_last_week": 3,
+        "sunday_review_link": "",
+        "title": "THE KNIGHT AND THE MOTH",
+        "updated_date": "2025-06-26T15:34:52.134Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316582704"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0316582700?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316582704?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316582704"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BKNIGHT%2BAND%2BTHE%2BMOTH%2FRachel%2BGillig%2F9780316582704"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316582704"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/125037085X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Nora Roberts",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250370853.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/e19b0655-cb79-57c0-8d6a-9dfc780ce57d",
+        "contributor": "by Nora Roberts",
+        "contributor_note": "",
+        "created_date": "2025-07-18T07:37:14.648Z",
+        "dagger": 0,
+        "description": "After recovering from a gunshot, a Natural Resources police officer investigates a woman\u2019s disappearance.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250370853",
+        "publisher": "St. Martin's",
+        "rank": 8,
+        "rank_last_week": 2,
+        "sunday_review_link": "",
+        "title": "HIDDEN NATURE",
+        "updated_date": "2025-07-18T07:37:14.648Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250370853"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/125037085X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250370853?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250370853"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHIDDEN%2BNATURE%2FNora%2BRoberts%2F9781250370853"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250370853"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1982112824?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Fredrik Backman",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781982112820.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/4129c15e-98d1-5301-b6ac-304f9bd76d18",
+        "contributor": "by Fredrik Backman",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:22:33.437Z",
+        "dagger": 0,
+        "description": "A young woman looks into the story behind a painting that was made 25 years ago and a small group of teens depicted in it; translated by Neil Smith.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781982112820",
+        "publisher": "Atria",
+        "rank": 9,
+        "rank_last_week": 6,
+        "sunday_review_link": "",
+        "title": "MY FRIENDS",
+        "updated_date": "2025-10-11T08:22:33.437Z",
+        "weeks_on_list": 5,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781982112820"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1982112824?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781982112820?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781982112820"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMY%2BFRIENDS%2FFredrik%2BBackman%2F9781982112820"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781982112820"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/059383187X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Ocean Vuong",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593831878.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/c1fe7b35-1906-5d8e-a823-516be8c60e26",
+        "contributor": "by Ocean Vuong",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:22:32.412Z",
+        "dagger": 0,
+        "description": "A young man becomes the caretaker of an elderly widow and they form a bond over the course of a year.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593831878",
+        "publisher": "Penguin Press",
+        "rank": 10,
+        "rank_last_week": 7,
+        "sunday_review_link": "",
+        "title": "THE EMPEROR OF GLADNESS",
+        "updated_date": "2025-10-11T08:22:32.412Z",
+        "weeks_on_list": 4,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593831878"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/059383187X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593831878?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593831878"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BEMPEROR%2BOF%2BGLADNESS%2FOcean%2BVuong%2F9780593831878"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593831878"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1649374186?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Rebecca Yarros",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781649377159.jpg",
+        "book_image_height": 500,
+        "book_image_width": 310,
+        "book_review_link": "",
+        "book_uri": "nyt://book/8aa689f7-187e-5292-bfd4-e7fc7c2c535f",
+        "contributor": "by Rebecca Yarros",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:22:19.248Z",
+        "dagger": 0,
+        "description": "The third book in the Empyrean series. As enemies gain traction, Violet Sorrengail goes beyond the Aretian wards in search of allies.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781649377159",
+        "publisher": "Red Tower",
+        "rank": 11,
+        "rank_last_week": 9,
+        "sunday_review_link": "",
+        "title": "ONYX STORM",
+        "updated_date": "2025-10-11T08:22:19.248Z",
+        "weeks_on_list": 20,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781649377159"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1649374186?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781649377159?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781649377159"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FONYX%2BSTORM%2FRebecca%2BYarros%2F9781649377159"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781649377159"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/B0DGY5F5JX?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Jeneva Rose",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9798874620936.jpg",
+        "book_image_height": 500,
+        "book_image_width": 437,
+        "book_review_link": "",
+        "book_uri": "nyt://book/0957dbf1-919e-5282-b184-4872a7e06b3a",
+        "contributor": "by Jeneva Rose",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:22:39.549Z",
+        "dagger": 0,
+        "description": "Around the time of the disappearance of a woman who had a one-night stand with the attorney Sarah Morgan\u2019s new husband, police reopen the investigation into the murder of her first husband\u2019s mistress.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9798874620936",
+        "publisher": "Blackstone",
+        "rank": 12,
+        "rank_last_week": 10,
+        "sunday_review_link": "",
+        "title": "THE PERFECT DIVORCE",
+        "updated_date": "2025-10-11T08:22:39.549Z",
+        "weeks_on_list": 8,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9798874620936"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/B0DGY5F5JX?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9798874620936?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9798874620936"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BPERFECT%2BDIVORCE%2FJeneva%2BRose%2F9798874620936"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9798874620936"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1464221286?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Julie Clark",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781464221286.jpg",
+        "book_image_height": 500,
+        "book_image_width": 394,
+        "book_review_link": "",
+        "book_uri": "nyt://book/f6fa1ffd-02ba-509c-bb47-739c52c810da",
+        "contributor": "by Julie Clark",
+        "contributor_note": "",
+        "created_date": "2025-06-26T15:34:52.582Z",
+        "dagger": 0,
+        "description": "The daughter of a horror novelist, who was rumored to have killed his siblings when he was a teen, ghostwrites his last book.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781464221286",
+        "publisher": "Sourcebooks Landmark",
+        "rank": 13,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE GHOSTWRITER",
+        "updated_date": "2025-06-26T15:34:52.582Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781464221286"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1464221286?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781464221286?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781464221286"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BGHOSTWRITER%2FJulie%2BClark%2F9781464221286"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781464221286"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0385550367?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Percival Everett",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780385550369.jpg",
+        "book_image_height": 500,
+        "book_image_width": 333,
+        "book_review_link": "",
+        "book_uri": "nyt://book/5788b098-426a-5f2c-a318-475692df69ee",
+        "contributor": "by Percival Everett",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:22:19.505Z",
+        "dagger": 0,
+        "description": "A reimagining of \u201cAdventures of Huckleberry Finn\u201d shines a different light on Mark Twain's classic, revealing new facets of the character of Jim.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780385550369",
+        "publisher": "Doubleday",
+        "rank": 14,
+        "rank_last_week": 11,
+        "sunday_review_link": "",
+        "title": "JAMES",
+        "updated_date": "2025-10-11T08:22:19.505Z",
+        "weeks_on_list": 49,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780385550369"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0385550367?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780385550369?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385550369"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FJAMES%2FPercival%2BEverett%2F9780385550369"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780385550369"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/166807818X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Clare Leslie Hall",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781668078181.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/bd78d61b-82fb-58ec-8990-46ca43146f2b",
+        "contributor": "by Clare Leslie Hall",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:22:18.033Z",
+        "dagger": 0,
+        "description": "Beth must confront her past when the man she once loved as a teenager returns to the village with his son.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781668078181",
+        "publisher": "Simon & Schuster",
+        "rank": 15,
+        "rank_last_week": 13,
+        "sunday_review_link": "",
+        "title": "BROKEN COUNTRY",
+        "updated_date": "2025-10-11T08:22:18.033Z",
+        "weeks_on_list": 13,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781668078181"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/166807818X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781668078181?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781668078181"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBROKEN%2BCOUNTRY%2FClare%2BLeslie%2BHall%2F9781668078181"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781668078181"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  }
+}

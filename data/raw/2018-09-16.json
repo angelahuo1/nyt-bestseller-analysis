@@ -1,0 +1,862 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+  "num_results": 15,
+  "last_modified": "2025-10-11T07:07:46Z",
+  "results": {
+    "display_name": "Hardcover Fiction",
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "previous_published_date": "2018-09-09",
+    "published_date": "2018-09-16",
+    "next_published_date": "2018-09-23",
+    "bestsellers_date": "2018-09-01",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "list_id": 1,
+    "uri": "nyt://bestsellerslist/e2787192-43c2-52b7-8992-c6ec535475d1",
+    "books": [
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Fall-Gondolin-J-R-R-Tolkien/dp/1328613046?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "J.R.R. Tolkien",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781328613042.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/130e14d9-8099-5a8b-b30a-2412eaa02752",
+        "contributor": "by J.R.R. Tolkien",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:07:41.613Z",
+        "dagger": 0,
+        "description": "Thousands of years before the events of \u201cThe Lord of the Rings,\u201d a hero named Tuor visits a secret city. Edited by Christopher Tolkien.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781328613042",
+        "publisher": "Houghton Mifflin Harcourt",
+        "rank": 1,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE FALL OF GONDOLIN",
+        "updated_date": "2025-10-11T07:07:41.613Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781328613042"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Fall-Gondolin-J-R-R-Tolkien/dp/1328613046?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781328613042?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781328613042"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BFALL%2BOF%2BGONDOLIN%2FJRR%2BTolkien%2F9781328613042"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781328613042"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Texas-Ranger-James-Patterson-ebook/dp/B078LXGP4B?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "James Patterson and Andrew Bourelle",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316556668.jpg",
+        "book_image_height": 495,
+        "book_image_width": 320,
+        "book_review_link": "",
+        "book_uri": "nyt://book/725f48fe-61bb-5772-839f-c97d1f933901",
+        "contributor": "by James Patterson and Andrew Bourelle",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:07:41.366Z",
+        "dagger": 0,
+        "description": "Rory Yates's job and reputation are at risk when he is accused of killing his ex-wife.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316556668",
+        "publisher": "Little, Brown",
+        "rank": 2,
+        "rank_last_week": 1,
+        "sunday_review_link": "",
+        "title": "TEXAS RANGER",
+        "updated_date": "2025-10-11T07:07:41.366Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316556668"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Texas-Ranger-James-Patterson-ebook/dp/B078LXGP4B?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316556668?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316556668"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTEXAS%2BRANGER%2FJames%2BPatterson%2Band%2BAndrew%2BBourelle%2F9780316556668"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316556668"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/President-Missing-Novel-James-Patterson/dp/0316412694?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "James Patterson and Bill Clinton",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316412698.jpg",
+        "book_image_height": 495,
+        "book_image_width": 322,
+        "book_review_link": "https://www.nytimes.com/2018/06/05/books/review/president-is-missing-clinton-patterson.html",
+        "book_uri": "nyt://book/ebf8a1c4-4ea7-5dcb-bfaa-e7cfd6a2c623",
+        "contributor": "by James Patterson and Bill Clinton",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:10:45.435Z",
+        "dagger": 0,
+        "description": "President Jonathan Duncan takes on adversaries at home and abroad.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316412698",
+        "publisher": "Little, Brown and Knopf",
+        "rank": 3,
+        "rank_last_week": 2,
+        "sunday_review_link": "",
+        "title": "THE PRESIDENT IS MISSING",
+        "updated_date": "2025-10-11T07:10:45.435Z",
+        "weeks_on_list": 13,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316412698"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/President-Missing-Novel-James-Patterson/dp/0316412694?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316412698?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316412698"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BPRESIDENT%2BIS%2BMISSING%2FJames%2BPatterson%2Band%2BBill%2BClinton%2F9780316412698"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316412698"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Outsider-Novel-Stephen-King/dp/1501180983?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Stephen King",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781501180989.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "https://www.nytimes.com/2018/05/22/books/review/outsider-stephen-king.html",
+        "book_uri": "nyt://book/c4475f07-424a-5194-b68a-c94ff845cb08",
+        "contributor": "by Stephen King",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:10:45.197Z",
+        "dagger": 0,
+        "description": "A detective investigates a seemingly wholesome member of the community when an 11-year-old boy\u2019s body is found.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781501180989",
+        "publisher": "Scribner",
+        "rank": 4,
+        "rank_last_week": 5,
+        "sunday_review_link": "",
+        "title": "THE OUTSIDER",
+        "updated_date": "2025-10-11T07:10:45.197Z",
+        "weeks_on_list": 15,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781501180989"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Outsider-Novel-Stephen-King/dp/1501180983?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781501180989?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501180989"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BOUTSIDER%2FStephen%2BKing%2F9781501180989"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781501180989"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Tailspin-Sandra-Brown/dp/1455572160?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Sandra Brown",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781455572168.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/b5fdff8e-e9d7-59bb-8356-8348f0aa9692",
+        "contributor": "by Sandra Brown",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:07:21.454Z",
+        "dagger": 0,
+        "description": "A pilot navigates treacherous situations when he attempts to deliver a mysterious black box to a doctor in Georgia.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781455572168",
+        "publisher": "Grand Central",
+        "rank": 5,
+        "rank_last_week": 4,
+        "sunday_review_link": "",
+        "title": "TAILSPIN",
+        "updated_date": "2025-10-11T07:07:21.454Z",
+        "weeks_on_list": 4,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781455572168"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Tailspin-Sandra-Brown/dp/1455572160?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781455572168?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781455572168"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTAILSPIN%2FSandra%2BBrown%2F9781455572168"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781455572168"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Pieces-Her-Novel-Karin-Slaughter-ebook/dp/B074DTKCR3?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Karin Slaughter",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780062430274.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/34615055-257f-54a6-9188-e7a9d64bd114",
+        "contributor": "by Karin Slaughter",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:07:21.584Z",
+        "dagger": 0,
+        "description": "When a violent incident reveals her mother\u2019s secret past, Andrea Oliver searches for clues to save her.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780062430274",
+        "publisher": "Morrow",
+        "rank": 6,
+        "rank_last_week": 3,
+        "sunday_review_link": "",
+        "title": "PIECES OF HER",
+        "updated_date": "2025-10-11T07:07:21.584Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780062430274"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Pieces-Her-Novel-Karin-Slaughter-ebook/dp/B074DTKCR3?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780062430274?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062430274"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPIECES%2BOF%2BHER%2FKarin%2BSlaughter%2F9780062430274"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780062430274"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Circe-Madeline-Miller/dp/0316556343?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Madeline Miller",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316556347.jpg",
+        "book_image_height": 495,
+        "book_image_width": 319,
+        "book_review_link": "https://www.nytimes.com/2018/05/28/books/review/circe-madeline-miller.html",
+        "book_uri": "nyt://book/0d6987e8-edf4-5edb-bb2f-94213e6757af",
+        "contributor": "by Madeline Miller",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:14:14.885Z",
+        "dagger": 0,
+        "description": "Zeus banishes Helios' daughter to an island, where she must choose between living with gods or mortals.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316556347",
+        "publisher": "Little, Brown",
+        "rank": 7,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "CIRCE",
+        "updated_date": "2025-10-11T07:14:14.885Z",
+        "weeks_on_list": 5,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316556347"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Circe-Madeline-Miller/dp/0316556343?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316556347?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316556347"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCIRCE%2FMadeline%2BMiller%2F9780316556347"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316556347"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Stygian-Dark-Hunter-Novel-Novels-ebook/dp/B075DH24T8?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Sherrilyn Kenyon",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250102683.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "",
+        "book_uri": "nyt://book/7289d9b8-6799-532c-a6b8-6e6c02559d35",
+        "contributor": "by Sherrilyn Kenyon",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:07:19.338Z",
+        "dagger": 0,
+        "description": "The 29th book in the Dark-Hunter series. A trained slayer forms alliances with enemies.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250102683",
+        "publisher": "Tor",
+        "rank": 8,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "STYGIAN",
+        "updated_date": "2025-10-11T07:07:19.338Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250102683"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Stygian-Dark-Hunter-Novel-Novels-ebook/dp/B075DH24T8?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250102683?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250102683"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSTYGIAN%2FSherrilyn%2BKenyon%2F9781250102683"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250102683"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Before-We-Were-Yours-Novel/dp/0425284689?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Lisa Wingate",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780425284681.jpg",
+        "book_image_height": 495,
+        "book_image_width": 330,
+        "book_review_link": "",
+        "book_uri": "nyt://book/cab69ca4-234d-567d-bf8f-e64631b26c4b",
+        "contributor": "by Lisa Wingate",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:08:11.041Z",
+        "dagger": 0,
+        "description": "A South Carolina lawyer learns about the questionable practices of a Tennessee orphanage.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780425284681",
+        "publisher": "Ballantine",
+        "rank": 9,
+        "rank_last_week": 7,
+        "sunday_review_link": "",
+        "title": "BEFORE WE WERE YOURS",
+        "updated_date": "2025-10-11T07:08:11.041Z",
+        "weeks_on_list": 50,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780425284681"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Before-We-Were-Yours-Novel/dp/0425284689?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780425284681?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780425284681"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBEFORE%2BWE%2BWERE%2BYOURS%2FLisa%2BWingate%2F9780425284681"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780425284681"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/There-novel-Tommy-Orange/dp/0525520376?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Tommy Orange",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525520375.jpg",
+        "book_image_height": 495,
+        "book_image_width": 327,
+        "book_review_link": "https://www.nytimes.com/2018/06/19/books/review/tommy-orange-there-there.html",
+        "book_uri": "nyt://book/616f2bbc-97ed-59d9-a86a-c39e7af50c64",
+        "contributor": "by Tommy Orange",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:11:37.958Z",
+        "dagger": 0,
+        "description": "A multigenerational story exploring the plight of the urban Native American.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525520375",
+        "publisher": "Knopf",
+        "rank": 10,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THERE THERE",
+        "updated_date": "2025-10-11T07:11:37.958Z",
+        "weeks_on_list": 10,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525520375"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/There-novel-Tommy-Orange/dp/0525520376?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525520375?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525520375"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHERE%2BTHERE%2FTommy%2BOrange%2F9780525520375"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525520375"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Magic-Triumphs-Daniels-Ilona-Andrews-ebook/dp/B074S38GG1?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Ilona Andrews",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780425270714.jpg",
+        "book_image_height": 495,
+        "book_image_width": 307,
+        "book_review_link": "",
+        "book_uri": "nyt://book/8c5e9ee0-920e-5d3e-809b-becc1ee67e11",
+        "contributor": "by Ilona Andrews",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:07:19.762Z",
+        "dagger": 0,
+        "description": "The 10th book in the Kate Daniels series. After starting a family with a former Beast Lord, Kate faces the threat of war from an ancient enemy.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780425270714",
+        "publisher": "Ace",
+        "rank": 11,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "MAGIC TRIUMPHS",
+        "updated_date": "2025-10-11T07:07:19.762Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780425270714"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Magic-Triumphs-Daniels-Ilona-Andrews-ebook/dp/B074S38GG1?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780425270714?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780425270714"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMAGIC%2BTRIUMPHS%2FIlona%2BAndrews%2F9780425270714"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780425270714"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Woman-Window-Novel-J-Finn/dp/0062678418?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "A.J. Finn",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780062678416.jpg",
+        "book_image_height": 495,
+        "book_image_width": 330,
+        "book_review_link": "",
+        "book_uri": "nyt://book/31eb1c8b-ecb9-57af-ac3c-c3caf9ca690b",
+        "contributor": "by A.J. Finn",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:07:23.578Z",
+        "dagger": 0,
+        "description": "A recluse who drinks heavily and takes prescription drugs may have witnessed a crime across from her Harlem townhouse.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780062678416",
+        "publisher": "Morrow",
+        "rank": 12,
+        "rank_last_week": 11,
+        "sunday_review_link": "",
+        "title": "THE WOMAN IN THE WINDOW",
+        "updated_date": "2025-10-11T07:07:23.578Z",
+        "weeks_on_list": 30,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780062678416"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Woman-Window-Novel-J-Finn/dp/0062678418?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780062678416?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062678416"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BWOMAN%2BIN%2BTHE%2BWINDOW%2FA.J.%2BFinn%2F9780062678416"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780062678416"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Little-Fires-Everywhere-Celeste-Ng-ebook/dp/B01N4VW75U?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Celeste Ng",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780735224292.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "https://www.nytimes.com/2017/09/25/books/review/little-fires-everywhere-celeste-ng.html",
+        "book_uri": "nyt://book/ef20f58d-a533-5fee-a639-a23aa9bfc69a",
+        "contributor": "by Celeste Ng",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:07:23.451Z",
+        "dagger": 0,
+        "description": "An artist upends a quiet town outside Cleveland.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780735224292",
+        "publisher": "Penguin Press",
+        "rank": 13,
+        "rank_last_week": 9,
+        "sunday_review_link": "",
+        "title": "LITTLE FIRES EVERYWHERE",
+        "updated_date": "2025-10-11T07:07:23.451Z",
+        "weeks_on_list": 47,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780735224292"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Little-Fires-Everywhere-Celeste-Ng-ebook/dp/B01N4VW75U?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780735224292?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780735224292"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLITTLE%2BFIRES%2BEVERYWHERE%2FCeleste%2BNg%2F9780735224292"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780735224292"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Other-Woman-Novel-Daniel-Silva-ebook/dp/B0739Z4XJ9?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Daniel Silva",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780062834829.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/e9d4fe8d-18a6-50b6-ae50-85d5d49eab57",
+        "contributor": "by Daniel Silva",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:07:20.161Z",
+        "dagger": 0,
+        "description": "Gabriel Allon, the art restorer and assassin, fights the Russians to decide the fate of postwar global order.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780062834829",
+        "publisher": "Harper",
+        "rank": 14,
+        "rank_last_week": 8,
+        "sunday_review_link": "",
+        "title": "THE OTHER WOMAN",
+        "updated_date": "2025-10-11T07:07:20.161Z",
+        "weeks_on_list": 7,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780062834829"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Other-Woman-Novel-Daniel-Silva-ebook/dp/B0739Z4XJ9?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780062834829?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062834829"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BOTHER%2BWOMAN%2FDaniel%2BSilva%2F9780062834829"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780062834829"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Feared-Rosato-DiNunzio-Lisa-Scottoline-ebook/dp/B0796XQBPY?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Lisa Scottoline",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250099594.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "",
+        "book_uri": "nyt://book/db5441ce-3455-508b-b1c2-2be4201bea0a",
+        "contributor": "by Lisa Scottoline",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:07:20.319Z",
+        "dagger": 0,
+        "description": "Mary DiNunzio and Bennie Rosato must solve a murder and handle a reverse sex discrimination suit against their firm.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250099594",
+        "publisher": "St. Martin's",
+        "rank": 15,
+        "rank_last_week": 12,
+        "sunday_review_link": "",
+        "title": "FEARED",
+        "updated_date": "2025-10-11T07:07:20.319Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250099594"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Feared-Rosato-DiNunzio-Lisa-Scottoline-ebook/dp/B0796XQBPY?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250099594?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250099594"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFEARED%2FLisa%2BScottoline%2F9781250099594"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250099594"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  }
+}

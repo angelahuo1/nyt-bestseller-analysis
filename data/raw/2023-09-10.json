@@ -1,0 +1,862 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+  "num_results": 15,
+  "last_modified": "2025-10-11T08:03:36Z",
+  "results": {
+    "display_name": "Hardcover Fiction",
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "previous_published_date": "2023-09-03",
+    "published_date": "2023-09-10",
+    "next_published_date": "2023-09-17",
+    "bestsellers_date": "2023-08-26",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "list_id": 1,
+    "uri": "nyt://bestsellerslist/c87750de-7a80-503d-8e16-298e839e52ff",
+    "books": [
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1649374046?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Rebecca Yarros",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781649374042.jpg",
+        "book_image_height": 500,
+        "book_image_width": 309,
+        "book_review_link": "",
+        "book_uri": "nyt://book/106c2cf0-7d20-51b1-bad4-91c3ebcd131a",
+        "contributor": "by Rebecca Yarros",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:21:40.121Z",
+        "dagger": 0,
+        "description": "Violet Sorrengail is urged by the commanding general, who also is her mother, to become a candidate for the elite dragon riders.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781649374042",
+        "publisher": "Red Tower",
+        "rank": 1,
+        "rank_last_week": 2,
+        "sunday_review_link": "",
+        "title": "FOURTH WING",
+        "updated_date": "2025-10-11T08:21:40.121Z",
+        "weeks_on_list": 16,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781649374042"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1649374046?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781649374042?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781649374042"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFOURTH%2BWING%2FRebecca%2BYarros%2F9781649374042"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781649374042"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/006332752X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Ann Patchett",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780063327528.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/2430a2de-ff8f-5a25-88f8-50bd8137fa92",
+        "contributor": "by Ann Patchett",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:08:38.854Z",
+        "dagger": 0,
+        "description": "Three daughters, who return to their family orchard in the spring of 2020, learn about their mother\u2019s relationship with a famous actor.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780063327528",
+        "publisher": "Harper",
+        "rank": 2,
+        "rank_last_week": 1,
+        "sunday_review_link": "",
+        "title": "TOM LAKE",
+        "updated_date": "2025-10-11T08:08:38.854Z",
+        "weeks_on_list": 4,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780063327528"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/006332752X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780063327528?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780063327528"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTOM%2BLAKE%2FAnn%2BPatchett%2F9780063327528"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780063327528"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1538736829?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Douglas Preston and Lincoln Child",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781538736821.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/34d795e7-0dd7-568e-9b1f-35ba71a2b529",
+        "contributor": "by Douglas Preston and Lincoln Child",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:03:18.311Z",
+        "dagger": 0,
+        "description": "The fourth book in the Nora Kelly series. Kelly and Swanson search for the ninth victim of a gruesome and bizarre incident that occurred in 2008.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781538736821",
+        "publisher": "Grand Central",
+        "rank": 3,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "DEAD MOUNTAIN",
+        "updated_date": "2025-10-11T08:03:18.311Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781538736821"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1538736829?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781538736821?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538736821"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDEAD%2BMOUNTAIN%2FDouglas%2BPreston%2Band%2BLincoln%2BChild%2F9781538736821"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781538736821"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/038554734X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Bonnie Garmus",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780385547345.jpg",
+        "book_image_height": 500,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/717e0ead-9782-567d-af27-d9a6cfb1856f",
+        "contributor": "by Bonnie Garmus",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:09:33.119Z",
+        "dagger": 0,
+        "description": "A scientist and single mother living in California in the 1960s becomes a star on a TV cooking show.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780385547345",
+        "publisher": "Doubleday",
+        "rank": 4,
+        "rank_last_week": 3,
+        "sunday_review_link": "",
+        "title": "LESSONS IN CHEMISTRY",
+        "updated_date": "2025-10-11T08:09:33.119Z",
+        "weeks_on_list": 68,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780385547345"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/038554734X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780385547345?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385547345"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLESSONS%2BIN%2BCHEMISTRY%2FBonnie%2BGarmus%2F9780385547345"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780385547345"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0063251922?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Barbara Kingsolver",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780063251922.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/dd6e4f9d-d082-552d-b888-7276a25b5aca",
+        "contributor": "by Barbara Kingsolver",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:08:41.499Z",
+        "dagger": 0,
+        "description": "Winner of a 2023 Pulitzer Prize for fiction. A reimagining of Charles Dickens\u2019s \u201cDavid Copperfield\u201d set in the mountains of southern Appalachia.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780063251922",
+        "publisher": "Harper",
+        "rank": 5,
+        "rank_last_week": 5,
+        "sunday_review_link": "",
+        "title": "DEMON COPPERHEAD",
+        "updated_date": "2025-10-11T08:08:41.499Z",
+        "weeks_on_list": 43,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780063251922"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0063251922?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780063251922?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780063251922"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDEMON%2BCOPPERHEAD%2FBarbara%2BKingsolver%2F9780063251922"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780063251922"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0063157780?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Karin Slaughter",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780063157781.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/1e9b35af-f8a9-54af-b787-a49b2057c1c7",
+        "contributor": "by Karin Slaughter",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:03:18.693Z",
+        "dagger": 0,
+        "description": "The 11th book in the Will Trent series. Trent\u2019s investigation of a young woman\u2019s assault reveals a link to an attack 15 years ago.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780063157781",
+        "publisher": "Morrow",
+        "rank": 6,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "AFTER THAT NIGHT",
+        "updated_date": "2025-10-11T08:03:18.693Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780063157781"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0063157780?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780063157781?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780063157781"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAFTER%2BTHAT%2BNIGHT%2FKarin%2BSlaughter%2F9780063157781"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780063157781"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0802162177?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Abraham Verghese",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780802162175.jpg",
+        "book_image_height": 500,
+        "book_image_width": 320,
+        "book_review_link": "",
+        "book_uri": "nyt://book/5ebf1d34-4c68-560a-8330-7e65bedaaa1a",
+        "contributor": "by Abraham Verghese",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:10:46.788Z",
+        "dagger": 0,
+        "description": "Three generations of a family living on South India\u2019s Malabar Coast suffer the loss of a family member by drowning.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780802162175",
+        "publisher": "Grove",
+        "rank": 7,
+        "rank_last_week": 6,
+        "sunday_review_link": "",
+        "title": "THE COVENANT OF WATER",
+        "updated_date": "2025-10-11T08:10:46.788Z",
+        "weeks_on_list": 17,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780802162175"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0802162177?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780802162175?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780802162175"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BCOVENANT%2BOF%2BWATER%2FAbraham%2BVerghese%2F9780802162175"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780802162175"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1982179007?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Lisa Jewell",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781982179007.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/f0840066-0941-51e8-9487-1ecf6a62d99e",
+        "contributor": "by Lisa Jewell",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:06:48.898Z",
+        "dagger": 0,
+        "description": "After meeting a woman who shares the same birthday, Alix Summer becomes the subject of her own true crime podcast.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781982179007",
+        "publisher": "Atria",
+        "rank": 8,
+        "rank_last_week": 7,
+        "sunday_review_link": "",
+        "title": "NONE OF THIS IS TRUE",
+        "updated_date": "2025-10-11T08:06:48.898Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781982179007"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1982179007?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781982179007?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781982179007"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNONE%2BOF%2BTHIS%2BIS%2BTRUE%2FLisa%2BJewell%2F9781982179007"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781982179007"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0316404896?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "James Patterson and Duane Swierczynski",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316404891.jpg",
+        "book_image_height": 500,
+        "book_image_width": 322,
+        "book_review_link": "",
+        "book_uri": "nyt://book/abaeff13-c919-5345-9608-3df8831cef98",
+        "contributor": "by James Patterson and Duane Swierczynski",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:03:20.73Z",
+        "dagger": 0,
+        "description": "The Eagles\u2019 starting quarterback is murdered and his wife, a Grammy-winning singer, is the prime suspect.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316404891",
+        "publisher": "Little, Brown",
+        "rank": 9,
+        "rank_last_week": 4,
+        "sunday_review_link": "",
+        "title": "LION & LAMB",
+        "updated_date": "2025-10-11T08:03:20.73Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316404891"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0316404896?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316404891?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316404891"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLION%2B%2526%2BLAMB%2FJames%2BPatterson%2Band%2BDuane%2BSwierczynski%2F9780316404891"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316404891"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593422945?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "James McBride",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593422946.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/7d47b076-7ad7-539c-a051-6664384636b9",
+        "contributor": "by James McBride",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:11:21.147Z",
+        "dagger": 0,
+        "description": "Secrets held by the residents of a dilapidated neighborhood come to life when a skeleton is found at the bottom of a well.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593422946",
+        "publisher": "Riverhead",
+        "rank": 10,
+        "rank_last_week": 8,
+        "sunday_review_link": "",
+        "title": "THE HEAVEN & EARTH GROCERY STORE",
+        "updated_date": "2025-10-11T08:11:21.147Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593422946"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593422945?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593422946?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593422946"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BHEAVEN%2B%2526%2BEARTH%2BGROCERY%2BSTORE%2FJames%2BMcBride%2F9780593422946"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593422946"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593441273?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Emily Henry",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593441275.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/9ab3a59a-e572-5452-ae0c-eedeadb05831",
+        "contributor": "by Emily Henry",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:03:21.084Z",
+        "dagger": 0,
+        "description": "A former couple pretend to be together for the sake of their friends during their annual getaway in Maine.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593441275",
+        "publisher": "Berkley",
+        "rank": 11,
+        "rank_last_week": 9,
+        "sunday_review_link": "",
+        "title": "HAPPY PLACE",
+        "updated_date": "2025-10-11T08:03:21.084Z",
+        "weeks_on_list": 18,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593441275"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593441273?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593441275?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593441275"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHAPPY%2BPLACE%2FEmily%2BHenry%2F9780593441275"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593441275"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1250892465?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Olivie Blake",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250892461.jpg",
+        "book_image_height": 500,
+        "book_image_width": 324,
+        "book_review_link": "",
+        "book_uri": "nyt://book/f87c3311-04cd-547c-91cf-b240fa74d3fe",
+        "contributor": "by Olivie Blake",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:03:21.211Z",
+        "dagger": 0,
+        "description": "A real estate agent who also is a vampire seeks the help of a medium to extricate the ghost who is haunting the house she needs to sell.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250892461",
+        "publisher": "Tor",
+        "rank": 12,
+        "rank_last_week": 10,
+        "sunday_review_link": "",
+        "title": "MASTERS OF DEATH",
+        "updated_date": "2025-10-11T08:03:21.211Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250892461"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250892465?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250892461?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250892461"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMASTERS%2BOF%2BDEATH%2FOlivie%2BBlake%2F9781250892461"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250892461"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593321200?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Gabrielle Zevin",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593321201.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/bc07e3e3-e917-50bb-9439-70118335f40c",
+        "contributor": "by Gabrielle Zevin",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:07:35.866Z",
+        "dagger": 0,
+        "description": "Two friends find their partnership challenged in the world of video game design.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593321201",
+        "publisher": "Knopf",
+        "rank": 13,
+        "rank_last_week": 11,
+        "sunday_review_link": "",
+        "title": "TOMORROW, AND TOMORROW, AND TOMORROW",
+        "updated_date": "2025-10-11T08:07:35.866Z",
+        "weeks_on_list": 47,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593321201"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593321200?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593321201?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593321201"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTOMORROW%252C%2BAND%2BTOMORROW%252C%2BAND%2BTOMORROW%2FGabrielle%2BZevin%2F9780593321201"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593321201"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0316258776?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Elin Hilderbrand",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316258777.jpg",
+        "book_image_height": 500,
+        "book_image_width": 323,
+        "book_review_link": "",
+        "book_uri": "nyt://book/8c779b4e-ab10-5946-a522-e8dd1167b1db",
+        "contributor": "by Elin Hilderbrand",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:03:19.725Z",
+        "dagger": 0,
+        "description": "After a tragedy, a popular food blogger brings friends from distinct times in her life to spend a weekend in Nantucket.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316258777",
+        "publisher": "Little, Brown",
+        "rank": 14,
+        "rank_last_week": 14,
+        "sunday_review_link": "",
+        "title": "THE FIVE-STAR WEEKEND",
+        "updated_date": "2025-10-11T08:03:19.725Z",
+        "weeks_on_list": 11,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316258777"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0316258776?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316258777?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316258777"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BFIVE-STAR%2BWEEKEND%2FElin%2BHilderbrand%2F9780316258777"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316258777"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0063204150?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Shelby Van Pelt",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780063204157.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/206a5e83-12f4-5ea9-8e63-1da5470a6ef5",
+        "contributor": "by Shelby Van Pelt",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:19:46.774Z",
+        "dagger": 0,
+        "description": "A widow working the night shift at the Sowell Bay Aquarium is aided in solving a mystery by a giant Pacific octopus living there.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780063204157",
+        "publisher": "Ecco",
+        "rank": 15,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "REMARKABLY BRIGHT CREATURES",
+        "updated_date": "2025-10-11T08:19:46.774Z",
+        "weeks_on_list": 23,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780063204157"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0063204150?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780063204157?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780063204157"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FREMARKABLY%2BBRIGHT%2BCREATURES%2FShel%2BVan%2BPelt%2F9780063204157"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780063204157"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  }
+}

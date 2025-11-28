@@ -1,0 +1,846 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+  "num_results": 15,
+  "last_modified": "2025-06-21T00:32:43Z",
+  "results": {
+    "display_name": "Hardcover Fiction",
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "previous_published_date": "2025-06-22",
+    "published_date": "2025-06-29",
+    "next_published_date": "2025-07-06",
+    "bestsellers_date": "2025-06-14",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "list_id": 1,
+    "uri": "nyt://bestsellerslist/1665db28-c37e-59e3-98c3-117045ae9dc4",
+    "books": [
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1250320526?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "V.E. Schwab",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250320520.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/9564d053-36d7-5b7e-884f-735b9532dfa2",
+        "contributor": "by V.E. Schwab",
+        "contributor_note": "",
+        "created_date": "2025-06-20T23:07:01.646Z",
+        "dagger": 0,
+        "description": "Stories set in Santo Domingo de la Calzada in 1532, London in 1827 and Boston in 2019 explore hunger, love and rage.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250320520",
+        "publisher": "Tor",
+        "rank": 1,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "BURY OUR BONES IN THE MIDNIGHT SOIL",
+        "updated_date": "2025-06-20T23:07:01.646Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250320520"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250320526?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://books.apple.com/us/book/bury-our-bones-in-the-midnight-soil/id6502915130?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbury-our-bones-in-the-midnight-soil-v-e-schwab%2F1145782127%3Fean%3D9781250320520"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBury-Our-Bones-Midnight-Soil%2FVE-Schwab%2F9781250320520"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250320520"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593158717?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Taylor Jenkins Reid",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593158715.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/ea3a72b1-7898-565c-90fc-dafffda12a5c",
+        "contributor": "by Taylor Jenkins Reid",
+        "contributor_note": "",
+        "created_date": "2025-07-24T03:00:44.554Z",
+        "dagger": 0,
+        "description": "In the summer of 1980, Joan Goodwin begins training with a group of candidates for NASA\u2019s space shuttle program.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593158715",
+        "publisher": "Ballantine",
+        "rank": 2,
+        "rank_last_week": 1,
+        "sunday_review_link": "",
+        "title": "ATMOSPHERE",
+        "updated_date": "2025-07-24T03:00:44.554Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593158715"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593158717?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593158715?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593158715"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FATMOSPHERE%2FTaylor%2BJenkins%2BReid%2F9780593158715"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593158715"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1668089335?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Stephen King",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781668089330.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/7ebabb25-4ddf-5a99-8ecd-82f644626e07",
+        "contributor": "by Stephen King",
+        "contributor_note": "",
+        "created_date": "2025-07-24T03:00:31.078Z",
+        "dagger": 0,
+        "description": "Holly Gibney does double duty by helping head off acts of retribution and protecting a women\u2019s rights activist.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781668089330",
+        "publisher": "Scribner",
+        "rank": 3,
+        "rank_last_week": 3,
+        "sunday_review_link": "",
+        "title": "NEVER FLINCH",
+        "updated_date": "2025-07-24T03:00:31.078Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781668089330"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1668089335?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781668089330?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781668089330"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNEVER%2BFLINCH%2FStephen%2BKing%2F9781668089330"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781668089330"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0316565105?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Bill Clinton and James Patterson",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316565103.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/d65dbdbc-0b4e-50c6-b23f-94e7a82b6fc8",
+        "contributor": "by Bill Clinton and James Patterson",
+        "contributor_note": "",
+        "created_date": "2025-06-26T15:34:59.999Z",
+        "dagger": 0,
+        "description": "When President Wright\u2019s husband goes on trial for murder, a pair of journalists search for answers.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316565103",
+        "publisher": "Little, Brown and Knopf",
+        "rank": 4,
+        "rank_last_week": 2,
+        "sunday_review_link": "",
+        "title": "THE FIRST GENTLEMAN",
+        "updated_date": "2025-06-26T15:34:59.999Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316565103"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0316565105?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316565103?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316565103"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BFIRST%2BGENTLEMAN%2FBill%2BClinton%2Band%2BJames%2BPatterson%2F9780316565103"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316565103"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593472403?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Riley Sager",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593472408.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/b8f830cc-fc08-5151-8573-f88ef0543fd7",
+        "contributor": "by Riley Sager",
+        "contributor_note": "",
+        "created_date": "2025-06-20T23:07:01.871Z",
+        "dagger": 0,
+        "description": "The murder of a passenger on a luxury train disrupts Anna Matheson\u2019s plan to get retribution for her family\u2019s downfall.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593472408",
+        "publisher": "Dutton",
+        "rank": 5,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "WITH A VENGEANCE",
+        "updated_date": "2025-06-20T23:07:01.871Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593472408"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593472403?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwith-a-vengeance-riley-sager%2F1146341800%3Fean%3D9780593472408"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FVengeance%2FRiley-Sager%2F9780593472408"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593472408"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1668006391?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Wally Lamb",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781668006399.jpg",
+        "book_image_height": 500,
+        "book_image_width": 333,
+        "book_review_link": "",
+        "book_uri": "nyt://book/cee4c3b1-9560-595e-871b-b279d9262de8",
+        "contributor": "by Wally Lamb",
+        "contributor_note": "",
+        "created_date": "2025-06-20T23:07:01.795Z",
+        "dagger": 0,
+        "description": "A man struggling in several areas of his life is sentenced to prison, where he encounters acts of kindness and brutality.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781668006399",
+        "publisher": "Marysue Rucci",
+        "rank": 6,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE RIVER IS WAITING",
+        "updated_date": "2025-06-20T23:07:01.795Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781668006399"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1668006391?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781668006399?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-river-is-waiting-wally-lamb%2F1146307960%3Fean%3D9781668006399"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRiver-Waiting-Oprahs-Book-Club%2FWally-Lamb%2F9781668006399"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781668006399"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/059344129X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Emily Henry",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593441299.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/9acef644-540c-598c-8d0b-abe49ecc78c0",
+        "contributor": "by Emily Henry",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:22:38.714Z",
+        "dagger": 0,
+        "description": "A writer looking for her big break competes against a Pulitzer winner to tell the story of an octogenarian with a storied past.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593441299",
+        "publisher": "Berkley",
+        "rank": 7,
+        "rank_last_week": 4,
+        "sunday_review_link": "",
+        "title": "GREAT BIG BEAUTIFUL LIFE",
+        "updated_date": "2025-10-11T08:22:38.714Z",
+        "weeks_on_list": 8,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593441299"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/059344129X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593441299?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593441299"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGREAT%2BBIG%2BBEAUTIFUL%2BLIFE%2FEmily%2BHenry%2F9780593441299"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593441299"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0316588482?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Michael Connelly",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316588485.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/65738422-1df4-56b1-8c97-151d92025ec6",
+        "contributor": "by Michael Connelly",
+        "contributor_note": "",
+        "created_date": "2025-07-18T07:37:29.198Z",
+        "dagger": 0,
+        "description": "The Los Angeles County sheriff's detective Stilwell gets reassigned to Catalina Island, where he investigates a poaching case and a Jane Doe found in the harbor.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316588485",
+        "publisher": "Little, Brown",
+        "rank": 8,
+        "rank_last_week": 5,
+        "sunday_review_link": "",
+        "title": "NIGHTSHADE",
+        "updated_date": "2025-07-18T07:37:29.198Z",
+        "weeks_on_list": 4,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316588485"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0316588482?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316588485?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316588485"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNIGHTSHADE%2FMichael%2BConnelly%2F9780316588485"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316588485"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1250832063?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "S.A. Cosby",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250832061.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/8c45494c-b484-50cf-b8d7-8c6ec96d874a",
+        "contributor": "by S.A. Cosby",
+        "contributor_note": "",
+        "created_date": "2025-06-20T23:07:01.946Z",
+        "dagger": 0,
+        "description": "Roman Carruthers uses his finance skills to deal with criminals and try to hold his family together.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250832061",
+        "publisher": "Pine & Cedar",
+        "rank": 9,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "KING OF ASHES",
+        "updated_date": "2025-06-20T23:07:01.946Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250832061"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250832063?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fking-of-ashes-s-a-cosby%2F1146356932%3Fean%3D9781250832061"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FKing-Ashes%2FS-A-Cosby%2F9781250832061"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250832061"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1982112824?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Fredrik Backman",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781982112820.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/4129c15e-98d1-5301-b6ac-304f9bd76d18",
+        "contributor": "by Fredrik Backman",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:22:33.437Z",
+        "dagger": 0,
+        "description": "A young woman looks into the story behind a painting that was made 25 years ago and a small group of teens depicted in it; translated by Neil Smith.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781982112820",
+        "publisher": "Atria",
+        "rank": 10,
+        "rank_last_week": 9,
+        "sunday_review_link": "",
+        "title": "MY FRIENDS",
+        "updated_date": "2025-10-11T08:22:33.437Z",
+        "weeks_on_list": 6,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781982112820"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1982112824?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781982112820?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781982112820"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMY%2BFRIENDS%2FFredrik%2BBackman%2F9781982112820"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781982112820"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1649374186?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Rebecca Yarros",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781649377159.jpg",
+        "book_image_height": 500,
+        "book_image_width": 310,
+        "book_review_link": "",
+        "book_uri": "nyt://book/8aa689f7-187e-5292-bfd4-e7fc7c2c535f",
+        "contributor": "by Rebecca Yarros",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:22:19.248Z",
+        "dagger": 0,
+        "description": "The third book in the Empyrean series. As enemies gain traction, Violet Sorrengail goes beyond the Aretian wards in search of allies.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781649377159",
+        "publisher": "Red Tower",
+        "rank": 11,
+        "rank_last_week": 11,
+        "sunday_review_link": "",
+        "title": "ONYX STORM",
+        "updated_date": "2025-10-11T08:22:19.248Z",
+        "weeks_on_list": 21,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781649377159"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1649374186?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781649377159?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781649377159"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FONYX%2BSTORM%2FRebecca%2BYarros%2F9781649377159"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781649377159"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593953819?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Ali Hazelwood",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593953815.jpg",
+        "book_image_height": 500,
+        "book_image_width": 360,
+        "book_review_link": "",
+        "book_uri": "nyt://book/76f30ee6-0d94-534f-bce4-e6933faa35e9",
+        "contributor": "by Ali Hazelwood",
+        "contributor_note": "",
+        "created_date": "2025-06-20T23:07:00.562Z",
+        "dagger": 0,
+        "description": "A young professor agrees to pretend to be a third-year Ph.D. candidate\u2019s boyfriend.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593953815",
+        "publisher": "Berkley",
+        "rank": 12,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE LOVE HYPOTHESIS",
+        "updated_date": "2025-06-20T23:07:00.562Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593953815"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593953819?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-love-hypothesis-ali-hazelwood%2F1146607400%3Fean%3D9780593953815"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLove-Hypothesis%2FAli-Hazelwood%2F9780593953815"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593953815"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0316582700?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Rachel Gillig",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316582704.jpg",
+        "book_image_height": 500,
+        "book_image_width": 327,
+        "book_review_link": "",
+        "book_uri": "nyt://book/c59b3a29-2f22-55cb-bf3e-bac4d46480a5",
+        "contributor": "by Rachel Gillig",
+        "contributor_note": "",
+        "created_date": "2025-06-26T15:34:52.134Z",
+        "dagger": 0,
+        "description": "Sybil Delling, who is gifted with the power of foresight, forms an alliance with a heretical knight when her sister Diviners disappear.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316582704",
+        "publisher": "Orbit",
+        "rank": 13,
+        "rank_last_week": 7,
+        "sunday_review_link": "",
+        "title": "THE KNIGHT AND THE MOTH",
+        "updated_date": "2025-06-26T15:34:52.134Z",
+        "weeks_on_list": 4,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316582704"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0316582700?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316582704?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316582704"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BKNIGHT%2BAND%2BTHE%2BMOTH%2FRachel%2BGillig%2F9780316582704"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316582704"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1668208784?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Stephen King",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781668208786.jpg",
+        "book_image_height": 500,
+        "book_image_width": 351,
+        "book_review_link": "",
+        "book_uri": "nyt://book/bf38dc1f-0a66-55e0-8783-846cbfbac6ac",
+        "contributor": "by Stephen King",
+        "contributor_note": "",
+        "created_date": "2025-06-20T23:07:00.641Z",
+        "dagger": 0,
+        "description": "The story of Charles \u201cChuck\u201d Krantz\u2019s life is told in reverse order; the basis of the film.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781668208786",
+        "publisher": "Scribner",
+        "rank": 14,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE LIFE OF CHUCK",
+        "updated_date": "2025-06-20T23:07:00.641Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781668208786"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1668208784?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-life-of-chuck-stephen-king%2F1147146351%3Fean%3D9781668208786"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLife-Chuck%2FStephen-King%2F9781668208786"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781668208786"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/059383187X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Ocean Vuong",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593831878.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/c1fe7b35-1906-5d8e-a823-516be8c60e26",
+        "contributor": "by Ocean Vuong",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:22:32.412Z",
+        "dagger": 0,
+        "description": "A young man becomes the caretaker of an elderly widow and they form a bond over the course of a year.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593831878",
+        "publisher": "Penguin Press",
+        "rank": 15,
+        "rank_last_week": 10,
+        "sunday_review_link": "",
+        "title": "THE EMPEROR OF GLADNESS",
+        "updated_date": "2025-10-11T08:22:32.412Z",
+        "weeks_on_list": 5,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593831878"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/059383187X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593831878?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593831878"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BEMPEROR%2BOF%2BGLADNESS%2FOcean%2BVuong%2F9780593831878"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593831878"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  }
+}

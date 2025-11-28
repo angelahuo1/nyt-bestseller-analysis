@@ -1,0 +1,862 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+  "num_results": 15,
+  "last_modified": "2025-10-11T07:17:48Z",
+  "results": {
+    "display_name": "Hardcover Fiction",
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "previous_published_date": "2019-09-01",
+    "published_date": "2019-09-08",
+    "next_published_date": "2019-09-15",
+    "bestsellers_date": "2019-08-24",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "list_id": 1,
+    "uri": "nyt://bestsellerslist/728460f0-70da-56fc-ab9a-841268857125",
+    "books": [
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Where-Crawdads-Sing-Delia-Owens/dp/0735219095?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Delia Owens",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780735219090.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/053b4109-4555-5aa1-9b39-cc40549bcdf0",
+        "contributor": "by Delia Owens",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:50:45.896Z",
+        "dagger": 0,
+        "description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780735219090",
+        "publisher": "Putnam",
+        "rank": 1,
+        "rank_last_week": 1,
+        "sunday_review_link": "",
+        "title": "WHERE THE CRAWDADS SING",
+        "updated_date": "2025-10-11T07:50:45.896Z",
+        "weeks_on_list": 51,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780735219090"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Where-Crawdads-Sing-Delia-Owens/dp/0735219095?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780735219090?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780735219090"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWHERE%2BTHE%2BCRAWDADS%2BSING%2FDelia%2BOwens%2F9780735219090"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780735219090"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Bones-Nora-Kelly-Douglas-Preston/dp/1538747227?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Douglas Preston and Lincoln Child",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781538747223.jpg",
+        "book_image_height": 495,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/dad93f39-2513-59b4-8d14-9ea9d61d1149",
+        "contributor": "by Douglas Preston and Lincoln Child",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:18:18.619Z",
+        "dagger": 0,
+        "description": "An expedition into the Sierra Nevada uncovers new twists to the events involving the Donner party during the 1840s.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781538747223",
+        "publisher": "Grand Central",
+        "rank": 2,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "OLD BONES",
+        "updated_date": "2025-10-11T07:18:18.619Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781538747223"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Bones-Nora-Kelly-Douglas-Preston/dp/1538747227?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781538747223?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538747223"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FOLD%2BBONES%2FDouglas%2BPreston%2Band%2BLincoln%2BChild%2F9781538747223"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781538747223"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Inn-James-Patterson-ebook/dp/B07L2VQBG6?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "James Patterson with Candice Fox",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316527583.jpg",
+        "book_image_height": 495,
+        "book_image_width": 320,
+        "book_review_link": "",
+        "book_uri": "nyt://book/64c56178-705c-52e1-87f2-b914946c8748",
+        "contributor": "by James Patterson with Candice Fox",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:18:38.719Z",
+        "dagger": 0,
+        "description": "A former Boston police detective who is now an innkeeper must shield a seaside town from a crew of criminals.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316527583",
+        "publisher": "Little, Brown",
+        "rank": 3,
+        "rank_last_week": 2,
+        "sunday_review_link": "",
+        "title": "THE INN",
+        "updated_date": "2025-10-11T07:18:38.719Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316527583"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Inn-James-Patterson-ebook/dp/B07L2VQBG6?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316527583?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316527583"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BINN%2FJames%2BPatterson%2Bwith%2BCandice%2BFox%2F9780316527583"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316527583"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/One-Good-Deed-David-Baldacci/dp/1538750562?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "David Baldacci",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781538750568.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/4b97780e-24db-5f2b-a944-af107d586812",
+        "contributor": "by David Baldacci",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:18:38.845Z",
+        "dagger": 0,
+        "description": "A World War II veteran on parole must find the real killer in a small town or face going back to jail.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781538750568",
+        "publisher": "Grand Central",
+        "rank": 4,
+        "rank_last_week": 4,
+        "sunday_review_link": "",
+        "title": "ONE GOOD DEED",
+        "updated_date": "2025-10-11T07:18:38.845Z",
+        "weeks_on_list": 5,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781538750568"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/One-Good-Deed-David-Baldacci/dp/1538750562?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781538750568?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538750568"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FONE%2BGOOD%2BDEED%2FDavid%2BBaldacci%2F9781538750568"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781538750568"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Nickel-Boys-Novel-Colson-Whitehead/dp/0385537077?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Colson Whitehead",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780385537070.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "https://www.nytimes.com/2019/07/11/books/review-nickel-boys-colson-whitehead.html",
+        "book_uri": "nyt://book/b9c84bf7-ad1c-56a3-9b42-e9b37e488f42",
+        "contributor": "by Colson Whitehead",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:19:08.494Z",
+        "dagger": 0,
+        "description": "Two boys respond to horrors at a Jim Crow-era reform school in ways that impact them decades later.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780385537070",
+        "publisher": "Doubleday",
+        "rank": 5,
+        "rank_last_week": 5,
+        "sunday_review_link": "",
+        "title": "THE NICKEL BOYS",
+        "updated_date": "2025-10-11T07:19:08.494Z",
+        "weeks_on_list": 6,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780385537070"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Nickel-Boys-Novel-Colson-Whitehead/dp/0385537077?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780385537070?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385537070"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BNICKEL%2BBOYS%2FColson%2BWhitehead%2F9780385537070"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780385537070"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Turn-Key-Ruth-Ware/dp/1501188771?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Ruth Ware",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781501188770.jpg",
+        "book_image_height": 495,
+        "book_image_width": 330,
+        "book_review_link": "",
+        "book_uri": "nyt://book/5339fc59-ef00-5470-a01f-5dbc5f30e46a",
+        "contributor": "by Ruth Ware",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:18:18.138Z",
+        "dagger": 0,
+        "description": "A nanny working in a technology-laden house in Scotland goes to jail when one of the children dies.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781501188770",
+        "publisher": "Scout",
+        "rank": 6,
+        "rank_last_week": 6,
+        "sunday_review_link": "",
+        "title": "THE TURN OF THE KEY",
+        "updated_date": "2025-10-11T07:18:18.138Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781501188770"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Turn-Key-Ruth-Ware/dp/1501188771?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781501188770?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501188770"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BTURN%2BOF%2BTHE%2BKEY%2FRuth%2BWare%2F9781501188770"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781501188770"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Last-Widow-Novel-Will-Trent/dp/0062858084?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Karin Slaughter",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780062858085.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/3e0b7dcb-5153-5c73-9d60-52dec63ab543",
+        "contributor": "by Karin Slaughter",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:17:28.884Z",
+        "dagger": 0,
+        "description": "The abduction of a Centers for Disease Control scientist and explosions in an Atlanta neighborhood portend a massacre.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780062858085",
+        "publisher": "Morrow",
+        "rank": 7,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE LAST WIDOW",
+        "updated_date": "2025-10-11T07:17:28.884Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780062858085"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Last-Widow-Novel-Will-Trent/dp/0062858084?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780062858085?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062858085"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BLAST%2BWIDOW%2FKarin%2BSlaughter%2F9780062858085"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780062858085"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Bitterroots-Novel-Cassie-Dewell/dp/1250051053?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "C.J. Box",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250051059.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "",
+        "book_uri": "nyt://book/b1993bc3-51bd-59d3-a196-a21f943d93da",
+        "contributor": "by C.J. Box",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:18:17.601Z",
+        "dagger": 0,
+        "description": "The fourth book in the Cassie Dewell series. The black sheep of an influential family is accused of assault.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250051059",
+        "publisher": "Minotaur",
+        "rank": 8,
+        "rank_last_week": 3,
+        "sunday_review_link": "",
+        "title": "THE BITTERROOTS",
+        "updated_date": "2025-10-11T07:18:17.601Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250051059"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Bitterroots-Novel-Cassie-Dewell/dp/1250051053?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250051059?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250051059"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BBITTERROOTS%2FCJ%2BBox%2F9781250051059"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250051059"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Inland-Novel-T\u00e9a-Obreht/dp/0812992865?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "T\u00e9a Obreht",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780812992861.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "https://www.nytimes.com/2019/08/09/books/review-inland-tea-obreht.html",
+        "book_uri": "nyt://book/a698e1e9-b7f4-5602-9d14-6ed0b58d460f",
+        "contributor": "by T\u00e9a Obreht",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:18:17.695Z",
+        "dagger": 0,
+        "description": "The lives of a frontierswoman and a former outlaw intersect in the unforgiving climate of the Arizona Territory in 1893.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780812992861",
+        "publisher": "Random House",
+        "rank": 9,
+        "rank_last_week": 12,
+        "sunday_review_link": "",
+        "title": "INLAND",
+        "updated_date": "2025-10-11T07:18:17.695Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780812992861"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Inland-Novel-T\u00e9a-Obreht/dp/0812992865?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780812992861?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780812992861"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FINLAND%2FT%25C3%25A9a%2BObreht%2F9780812992861"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780812992861"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Whisper-Man-Novel-Alex-North/dp/1250317991?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Alex North",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250317995.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/1aad5ece-ed7b-5e50-8de0-caaefde8a487",
+        "contributor": "by Alex North",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:17:29.282Z",
+        "dagger": 0,
+        "description": "A serial killer\u2019s methods from 20 years ago resonate in the town of Featherbank when a young boy goes missing.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250317995",
+        "publisher": "Celadon",
+        "rank": 10,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE WHISPER MAN",
+        "updated_date": "2025-10-11T07:17:29.282Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250317995"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Whisper-Man-Novel-Alex-North/dp/1250317991?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250317995?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250317995"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BWHISPER%2BMAN%2FAlex%2BNorth%2F9781250317995"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250317995"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Outfox-Sandra-Brown/dp/1455572195?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Sandra Brown",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781455572199.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/8c39c7ad-36e9-5bb7-846b-78e9f642dfa3",
+        "contributor": "by Sandra Brown",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:18:17.842Z",
+        "dagger": 0,
+        "description": "F.B.I. Agent Drex Easton has a hunch that the conman Weston Graham is also a serial killer.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781455572199",
+        "publisher": "Grand Central",
+        "rank": 11,
+        "rank_last_week": 8,
+        "sunday_review_link": "",
+        "title": "OUTFOX",
+        "updated_date": "2025-10-11T07:18:17.842Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781455572199"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Outfox-Sandra-Brown/dp/1455572195?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781455572199?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781455572199"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FOUTFOX%2FSandra%2BBrown%2F9781455572199"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781455572199"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Silent-Patient-Alex-Michaelides/dp/1250301696?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Alex Michaelides",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250301697.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "",
+        "book_uri": "nyt://book/fe8f9863-f798-55c5-acdf-ceb32b5484ce",
+        "contributor": "by Alex Michaelides",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:29:33.078Z",
+        "dagger": 0,
+        "description": "Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250301697",
+        "publisher": "Celadon",
+        "rank": 12,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE SILENT PATIENT",
+        "updated_date": "2025-10-11T07:29:33.078Z",
+        "weeks_on_list": 25,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250301697"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Silent-Patient-Alex-Michaelides/dp/1250301696?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250301697?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250301697"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BSILENT%2BPATIENT%2FAlex%2BMichaelides%2F9781250301697"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250301697"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Tidelands-1-Fairmile-Philippa-Gregory/dp/1501187155?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Philippa Gregory",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781501187155.jpg",
+        "book_image_height": 488,
+        "book_image_width": 330,
+        "book_review_link": "",
+        "book_uri": "nyt://book/6f227abc-284b-5c6c-9e31-f4b478d7d30c",
+        "contributor": "by Philippa Gregory",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:17:29.622Z",
+        "dagger": 0,
+        "description": "Suspicions surround Alinor, a widow who is skilled with herbs, during the English Civil War in 1648.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781501187155",
+        "publisher": "Atria",
+        "rank": 13,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "TIDELANDS",
+        "updated_date": "2025-10-11T07:17:29.622Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781501187155"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Tidelands-1-Fairmile-Philippa-Gregory/dp/1501187155?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781501187155?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501187155"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTIDELANDS%2FPhilippa%2BGregory%2F9781501187155"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781501187155"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Evvie-Drake-Starts-Over-Novel/dp/0525619240?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Linda Holmes",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525619246.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "",
+        "book_uri": "nyt://book/68a81825-91db-5542-a260-152ffb88fdab",
+        "contributor": "by Linda Holmes",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:17:29.723Z",
+        "dagger": 0,
+        "description": "In a seaside town in Maine, a former Major League pitcher and a grieving widow assess their pasts.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525619246",
+        "publisher": "Ballantine",
+        "rank": 14,
+        "rank_last_week": 11,
+        "sunday_review_link": "",
+        "title": "EVVIE DRAKE STARTS OVER",
+        "updated_date": "2025-10-11T07:17:29.723Z",
+        "weeks_on_list": 7,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525619246"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Evvie-Drake-Starts-Over-Novel/dp/0525619240?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525619246?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525619246"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEVVIE%2BDRAKE%2BSTARTS%2BOVER%2FLinda%2BHolmes%2F9780525619246"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525619246"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Ask-Again-Mary-Beth-Keane/dp/1982106980?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Mary Beth Keane",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781982106980.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/d17c7692-21df-5994-a978-9e48f8cfd693",
+        "contributor": "by Mary Beth Keane",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:18:17.455Z",
+        "dagger": 0,
+        "description": "The lives of neighboring families in a New York City suburb intertwine over four decades.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781982106980",
+        "publisher": "Scribner",
+        "rank": 15,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "ASK AGAIN, YES",
+        "updated_date": "2025-10-11T07:18:17.455Z",
+        "weeks_on_list": 6,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781982106980"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Ask-Again-Mary-Beth-Keane/dp/1982106980?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781982106980?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781982106980"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FASK%2BAGAIN%252C%2BYES%2FMary%2BBeth%2BKeane%2F9781982106980"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781982106980"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  }
+}

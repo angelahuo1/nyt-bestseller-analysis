@@ -1,0 +1,838 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+  "num_results": 15,
+  "last_modified": "2025-10-01T22:40:38Z",
+  "results": {
+    "display_name": "Hardcover Fiction",
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "previous_published_date": "2025-10-05",
+    "published_date": "2025-10-12",
+    "next_published_date": "2025-10-19",
+    "bestsellers_date": "2025-09-27",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "list_id": 1,
+    "uri": "nyt://bestsellerslist/4dc1055d-b9ed-5fc2-8152-76d47f356cfc",
+    "books": [
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593972708?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "SenLinYu",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593972700.jpg",
+        "book_image_height": 500,
+        "book_image_width": 330,
+        "book_review_link": "",
+        "book_uri": "nyt://book/e9c567d8-7c38-5cb8-88e5-ba46078e2144",
+        "contributor": "by SenLinYu",
+        "contributor_note": "",
+        "created_date": "2025-10-01T22:40:32.788Z",
+        "dagger": 0,
+        "description": "After the war, an imprisoned alchemist is sent to a necromancer to recover her lost memories.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593972700",
+        "publisher": "Del Rey",
+        "rank": 1,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "ALCHEMISED",
+        "updated_date": "2025-10-01T22:40:32.788Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593972700"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593972708?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593972700?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Falchemised-senlinyu%2F1146838848%3Fean%3D9780593972700"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAlchemised%2FSenLinYu%2F9780593972700"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593972700"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0385546890?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Dan Brown",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780385546898.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "https://www.nytimes.com/2025/09/09/books/review/the-secret-of-secrets-dan-brown.html",
+        "book_uri": "nyt://book/49cff1bb-35bc-554b-a7d4-dbc946230c00",
+        "contributor": "by Dan Brown",
+        "contributor_note": "",
+        "created_date": "2025-09-17T22:38:11.49Z",
+        "dagger": 0,
+        "description": "As he searches for the missing noetic scientist he has been seeing, Robert Langdon discovers something regarding a secret project.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780385546898",
+        "publisher": "Doubleday",
+        "rank": 2,
+        "rank_last_week": 1,
+        "sunday_review_link": "",
+        "title": "THE SECRET OF SECRETS",
+        "updated_date": "2025-09-17T22:38:11.49Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780385546898"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0385546890?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-secret-of-secrets-dan-brown%2F1146902400%3Fean%3D9780385546898"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSecret-Secrets%2FDan-Brown%2F9780385546898"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780385546898"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1638932107?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Brynne Weaver",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781638932109.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/d36e2658-306f-57bb-b69b-1cd5188f645e",
+        "contributor": "by Brynne Weaver",
+        "contributor_note": "",
+        "created_date": "2025-10-01T22:40:33.255Z",
+        "dagger": 0,
+        "description": "When a true crime investigator comes to Cape Carnage in search of a serial killer, a local gardener and a handsome tourist pause their deadly ways.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781638932109",
+        "publisher": "Slowburn",
+        "rank": 3,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "TOURIST SEASON",
+        "updated_date": "2025-10-01T22:40:33.255Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781638932109"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1638932107?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781638932109?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ftourist-season-brynne-weaver%2F1147291861%3Fean%3D9781638932109"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTourist-Season%2FBrynne-Weaver%2F9781638932109"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781638932109"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1963135415?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Jennifer L. Armentrout",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781963135411.jpg",
+        "book_image_height": 500,
+        "book_image_width": 333,
+        "book_review_link": "",
+        "book_uri": "nyt://book/c5077cf3-8383-58ac-8cc6-4d1154f11157",
+        "contributor": "by Jennifer L. Armentrout",
+        "contributor_note": "",
+        "created_date": "2025-10-01T22:40:23.976Z",
+        "dagger": 0,
+        "description": "The sixth book in the Blood and Ash series. The Blood Crown has fallen and the Primal of Death must be stopped.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781963135411",
+        "publisher": "Blue Box",
+        "rank": 4,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE PRIMAL OF BLOOD AND BONE",
+        "updated_date": "2025-10-01T22:40:23.976Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781963135411"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1963135415?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781963135411?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-primal-of-blood-and-bone-jennifer-l-armentrout%2F1146491693%3Fean%3D9781963135411"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPrimal-Blood-Bone%2FJennifer-L-Armentrout%2F9781963135411"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781963135411"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0316597236?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Rachel Gillig",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316597234.jpg",
+        "book_image_height": 500,
+        "book_image_width": 340,
+        "book_review_link": "",
+        "book_uri": "nyt://book/f98f193b-0359-5848-a4ef-b230545f01d6",
+        "contributor": "by Rachel Gillig",
+        "contributor_note": "",
+        "created_date": "2025-10-01T22:40:33.351Z",
+        "dagger": 0,
+        "description": "Elspeth Spindle and the treasonous nephew to the king seek to gather 12 Providence Cards before solstice.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316597234",
+        "publisher": "Orbit",
+        "rank": 5,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "ONE DARK WINDOW",
+        "updated_date": "2025-10-01T22:40:33.351Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316597234"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0316597236?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316597234?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fone-dark-window-rachel-gillig%2F1139653639%3Fean%3D9780316597234"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FOne-Dark-Window-Deluxe-Limited%2FRachel-Gillig%2F9780316597234"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316597234"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0316597228?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Rachel Gillig",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316597227.jpg",
+        "book_image_height": 500,
+        "book_image_width": 340,
+        "book_review_link": "",
+        "book_uri": "nyt://book/fc681f9f-ea55-5ae1-934b-4dd11cadd244",
+        "contributor": "by Rachel Gillig",
+        "contributor_note": "",
+        "created_date": "2025-10-01T22:40:33.488Z",
+        "dagger": 0,
+        "description": "The second book in the Shepherd King series. Elspeth and Ravyn go on a quest to save the kingdom.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316597227",
+        "publisher": "Orbit",
+        "rank": 6,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "TWO TWISTED CROWNS",
+        "updated_date": "2025-10-01T22:40:33.488Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316597227"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0316597228?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316597227?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ftwo-twisted-crowns-rachel-gillig%2F1143031728%3Fean%3D9780316597227"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTwo-Twisted-Crowns-Deluxe-Limited%2FRachel-Gillig%2F9780316597227"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316597227"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/B0F74CH248?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Matt Dinniman",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9798217190041.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/60824b38-4a0a-53b0-b080-6d90d8058aa6",
+        "contributor": "by Matt Dinniman",
+        "contributor_note": "",
+        "created_date": "2025-10-01T22:40:33.683Z",
+        "dagger": 0,
+        "description": "The seventh book in the Dungeon Crawler Carl series. After becoming fully self-aware, the NPCs join the Faction Wars.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9798217190041",
+        "publisher": "Ace",
+        "rank": 7,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THIS INEVITABLE RUIN",
+        "updated_date": "2025-10-01T22:40:33.683Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9798217190041"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/B0F74CH248?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9798217190041?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthis-inevitable-ruin-matt-dinniman%2F1147317211%3Fean%3D9798217190041"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FThis-Inevitable-Ruin%2FMatt-Dinniman%2F9798217190041"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9798217190041"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1538772779?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Ken Follett",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781538772775.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/55e9bb83-9ab4-5c89-97f5-969166b546b9",
+        "contributor": "by Ken Follett",
+        "contributor_note": "",
+        "created_date": "2025-10-01T22:40:24.573Z",
+        "dagger": 0,
+        "description": "A priestess envisions a great stone circle put together by divided tribes, but drought and violence may impede its creation.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781538772775",
+        "publisher": "Grand Central",
+        "rank": 8,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "CIRCLE OF DAYS",
+        "updated_date": "2025-10-01T22:40:24.573Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781538772775"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1538772779?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781538772775?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcircle-of-days-ken-follett%2F1146420136%3Fean%3D9781538772775"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCircle-Days%2FKen-Follett%2F9781538772775"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781538772775"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/031656785X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Elin Hilderbrand and Shelby Cunningham",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316567855.jpg",
+        "book_image_height": 500,
+        "book_image_width": 323,
+        "book_review_link": "",
+        "book_uri": "nyt://book/7d3d0ce9-71f1-54f7-80f2-a1953a12af8f",
+        "contributor": "by Elin Hilderbrand and Shelby Cunningham",
+        "contributor_note": "",
+        "created_date": "2025-09-24T22:37:49.026Z",
+        "dagger": 0,
+        "description": "Harmful rumors cause trouble for the students and staff at a New England boarding school.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316567855",
+        "publisher": "Little, Brown",
+        "rank": 9,
+        "rank_last_week": 2,
+        "sunday_review_link": "",
+        "title": "THE ACADEMY",
+        "updated_date": "2025-09-24T22:37:49.026Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316567855"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/031656785X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-academy-elin-hilderbrand%2F1146823022%3Fean%3D9780316567855"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAcademy%2FElin-Hilderbrand%2F9780316567855"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316567855"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1464261164?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Keri Lake",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781464261169.jpg",
+        "book_image_height": 500,
+        "book_image_width": 390,
+        "book_review_link": "",
+        "book_uri": "nyt://book/3479b99a-f795-5bdb-bfcd-8bf44b515a31",
+        "contributor": "by Keri Lake",
+        "contributor_note": "",
+        "created_date": "2025-10-01T22:40:24.709Z",
+        "dagger": 0,
+        "description": "An assassin who dwells in Witch Knell is obsessed with Maevyth Bronwick, whose blood might help to break his curse.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781464261169",
+        "publisher": "Bloom",
+        "rank": 10,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "ANATHEMA",
+        "updated_date": "2025-10-01T22:40:24.709Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781464261169"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1464261164?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781464261169?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fanathema-keri-lake%2F1146338173%3Fean%3D9781464261169"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAnathema-Deluxe%2FKeri-Lake%2F9781464261169"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781464261169"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593804724?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Ian McEwan",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593804728.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "https://www.nytimes.com/2025/09/22/books/review/ian-mcewan-what-we-can-know.html",
+        "book_uri": "nyt://book/5cde1dd0-9f3c-5538-b967-7bbe5cbe568c",
+        "contributor": "by Ian McEwan",
+        "contributor_note": "",
+        "created_date": "2025-10-01T22:40:33.815Z",
+        "dagger": 0,
+        "description": "In 2119, a scholar living in a world of rising seas after a nuclear catastrophe seeks clues about a missing poem written in 2014.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593804728",
+        "publisher": "Knopf",
+        "rank": 11,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "WHAT WE CAN KNOW",
+        "updated_date": "2025-10-01T22:40:33.815Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593804728"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593804724?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwhat-we-can-know-ian-mcewan%2F1146954932%3Fean%3D9780593804728"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWhat-We-Can-Know%2FIan-McEwan%2F9780593804728"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593804728"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0307700151?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Kiran Desai",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780307700155.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "https://www.nytimes.com/2025/09/14/books/review/kiran-desai-the-loneliness-of-sonia-and-sunny.html",
+        "book_uri": "nyt://book/89cb84ef-b44f-580d-bf53-a77f6e391fb5",
+        "contributor": "by Kiran Desai",
+        "contributor_note": "",
+        "created_date": "2025-10-01T22:40:34.146Z",
+        "dagger": 0,
+        "description": "A novelist and a journalist, whose grandparents once tried to arrange their union, go on a search for happiness together.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780307700155",
+        "publisher": "Hogarth",
+        "rank": 12,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE LONELINESS OF SONIA AND SUNNY",
+        "updated_date": "2025-10-01T22:40:34.146Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780307700155"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0307700151?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-loneliness-of-sonia-and-sunny-kiran-desai%2F1146708410%3Fean%3D9780307700155"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLoneliness-Sonia-Sunny%2FKiran-Desai%2F9780307700155"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780307700155"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0063021471?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "R.F. Kuang",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780063021471.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/37f45d54-7f67-5549-a425-b6de636d6d0c",
+        "contributor": "by R.F. Kuang",
+        "contributor_note": "",
+        "created_date": "2025-09-03T22:39:27.74Z",
+        "dagger": 0,
+        "description": "A pair of rival graduate students descend into the underworld to save their late professor and secure his recommendation.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780063021471",
+        "publisher": "Harper Voyager",
+        "rank": 13,
+        "rank_last_week": 5,
+        "sunday_review_link": "",
+        "title": "KATABASIS",
+        "updated_date": "2025-09-03T22:39:27.74Z",
+        "weeks_on_list": 5,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780063021471"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0063021471?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://books.apple.com/us/book/katabasis/id6479694621?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fkatabasis-r-f-kuang%2F1145125207%3Fean%3D9780063021471"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FKatabasis-Deluxe-Limited%2FR-F-Kuang%2F9780063021471"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780063021471"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593595033?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Patrick Ryan",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593595039.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "https://www.nytimes.com/2025/09/02/books/review/buckeye-patrick-ryan.html",
+        "book_uri": "nyt://book/7338c994-e759-546a-b50b-18f09f1438a2",
+        "contributor": "by Patrick Ryan",
+        "contributor_note": "",
+        "created_date": "2025-09-10T22:38:15.386Z",
+        "dagger": 0,
+        "description": "Consequences created by a secret forged between members of two families in a small Ohio town affect a new generation.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593595039",
+        "publisher": "Random House",
+        "rank": 14,
+        "rank_last_week": 7,
+        "sunday_review_link": "",
+        "title": "BUCKEYE",
+        "updated_date": "2025-09-10T22:38:15.386Z",
+        "weeks_on_list": 4,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593595039"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593595033?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbuckeye-patrick-ryan%2F1146518591%3Fean%3D9780593595039"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBuckeye%2FPatrick-Ryan%2F9780593595039"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593595039"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/166805986X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Mona Awad",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781668059869.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "https://www.nytimes.com/2025/09/24/books/review/mona-awad-we-love-you-bunny.html",
+        "book_uri": "nyt://book/5990f2c8-dfe1-5c99-b3e3-18dbdc7c9270",
+        "contributor": "by Mona Awad",
+        "contributor_note": "",
+        "created_date": "2025-10-01T22:40:25.117Z",
+        "dagger": 0,
+        "description": "A debut novelist is kidnapped by her former frenemies, who recount their dark adventures.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781668059869",
+        "publisher": "Marysue Rucci",
+        "rank": 15,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "WE LOVE YOU, BUNNY",
+        "updated_date": "2025-10-01T22:40:25.117Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781668059869"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/166805986X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwe-love-you-bunny-mona-awad%2F1146821562%3Fean%3D9781668059869"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWe-Love-Bunny%2FMona-Awad%2F9781668059869"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781668059869"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  }
+}

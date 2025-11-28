@@ -1,0 +1,862 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+  "num_results": 15,
+  "last_modified": "2025-10-11T07:15:21Z",
+  "results": {
+    "display_name": "Hardcover Fiction",
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "previous_published_date": "2019-05-26",
+    "published_date": "2019-06-02",
+    "next_published_date": "2019-06-09",
+    "bestsellers_date": "2019-05-18",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "list_id": 1,
+    "uri": "nyt://bestsellerslist/29bea8be-f69b-5235-bdd5-49ffce398d45",
+    "books": [
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Where-Crawdads-Sing-Delia-Owens/dp/0735219095?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Delia Owens",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780735219090.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/053b4109-4555-5aa1-9b39-cc40549bcdf0",
+        "contributor": "by Delia Owens",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:50:45.896Z",
+        "dagger": 0,
+        "description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780735219090",
+        "publisher": "Putnam",
+        "rank": 1,
+        "rank_last_week": 1,
+        "sunday_review_link": "",
+        "title": "WHERE THE CRAWDADS SING",
+        "updated_date": "2025-10-11T07:50:45.896Z",
+        "weeks_on_list": 37,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780735219090"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Where-Crawdads-Sing-Delia-Owens/dp/0735219095?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780735219090?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780735219090"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWHERE%2BTHE%2BCRAWDADS%2BSING%2FDelia%2BOwens%2F9780735219090"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780735219090"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/18th-Abduction-Womens-Murder-Club-ebook/dp/B07CRJ2H4L?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "James Patterson and Maxine Paetro",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316420266.jpg",
+        "book_image_height": 495,
+        "book_image_width": 320,
+        "book_review_link": "",
+        "book_uri": "nyt://book/4a041127-4280-5c5c-8f94-a00e6a386a20",
+        "contributor": "by James Patterson and Maxine Paetro",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:15:54.625Z",
+        "dagger": 0,
+        "description": "The 18th book in the Women's Murder Club series. Lindsay Boxer investigates the disappearance of three female teachers.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316420266",
+        "publisher": "Little, Brown",
+        "rank": 2,
+        "rank_last_week": 2,
+        "sunday_review_link": "",
+        "title": "THE 18TH ABDUCTION",
+        "updated_date": "2025-10-11T07:15:54.625Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316420266"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/18th-Abduction-Womens-Murder-Club-ebook/dp/B07CRJ2H4L?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316420266?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316420266"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2B18TH%2BABDUCTION%2FJames%2BPatterson%2Band%2BMaxine%2BPaetro%2F9780316420266"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316420266"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Night-Window-Jane-Hawk-Novel-ebook/dp/B07GMS9JXT?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Dean Koontz",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525484707.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "",
+        "book_uri": "nyt://book/1162cc6a-4140-52bf-875b-d47a9cdc7bf0",
+        "contributor": "by Dean Koontz",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:15:04.884Z",
+        "dagger": 0,
+        "description": "The fifth book in the Jane Hawk series. The former F.B.I. agent pursues a slew of bad guys, including a Vegas mob boss.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525484707",
+        "publisher": "Bantam",
+        "rank": 3,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE NIGHT WINDOW",
+        "updated_date": "2025-10-11T07:15:04.884Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525484707"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Night-Window-Jane-Hawk-Novel-ebook/dp/B07GMS9JXT?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525484707?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525484707"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BNIGHT%2BWINDOW%2FDean%2BKoontz%2F9780525484707"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525484707"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Redemption-Memory-Man-Book-5-ebook/dp/B07G76M5LD?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "David Baldacci",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781538761410.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/af622510-18ff-5866-8e8a-ba8de2785443",
+        "contributor": "by David Baldacci",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:16:08.498Z",
+        "dagger": 0,
+        "description": "The fifth book in the Memory Man series. The first man Amos Decker put behind bars asks to have his name cleared.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781538761410",
+        "publisher": "Grand Central",
+        "rank": 4,
+        "rank_last_week": 4,
+        "sunday_review_link": "",
+        "title": "REDEMPTION",
+        "updated_date": "2025-10-11T07:16:08.498Z",
+        "weeks_on_list": 5,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781538761410"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Redemption-Memory-Man-Book-5-ebook/dp/B07G76M5LD?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781538761410?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538761410"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FREDEMPTION%2FDavid%2BBaldacci%2F9781538761410"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781538761410"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Blessing-Disguise-Novel-Danielle-Steel-ebook/dp/B07GD52248?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Danielle Steel",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780399179327.jpg",
+        "book_image_height": 495,
+        "book_image_width": 325,
+        "book_review_link": "",
+        "book_uri": "nyt://book/385158ae-ce53-5980-9525-55694835a909",
+        "contributor": "by Danielle Steel",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:15:17.525Z",
+        "dagger": 0,
+        "description": "Isabelle McAvoy faces challenges as she raises three daughters from three separate fathers on her own.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780399179327",
+        "publisher": "Delacorte",
+        "rank": 5,
+        "rank_last_week": 3,
+        "sunday_review_link": "",
+        "title": "BLESSING IN DISGUISE",
+        "updated_date": "2025-10-11T07:15:17.525Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780399179327"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Blessing-Disguise-Novel-Danielle-Steel-ebook/dp/B07GD52248?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780399179327?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780399179327"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBLESSING%2BIN%2BDISGUISE%2FDanielle%2BSteel%2F9780399179327"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780399179327"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Guest-Book-Novel-Sarah-Blake/dp/1250110254?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Sarah Blake",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250110251.jpg",
+        "book_image_height": 493,
+        "book_image_width": 330,
+        "book_review_link": "",
+        "book_uri": "nyt://book/5570b64b-b772-5f38-99d2-eb7c1fee8f48",
+        "contributor": "by Sarah Blake",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:15:54.485Z",
+        "dagger": 0,
+        "description": "Evie Milton uncovers a story going back a couple generations that may shatter a family myth.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250110251",
+        "publisher": "Flatiron",
+        "rank": 6,
+        "rank_last_week": 10,
+        "sunday_review_link": "",
+        "title": "THE GUEST BOOK",
+        "updated_date": "2025-10-11T07:15:54.485Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250110251"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Guest-Book-Novel-Sarah-Blake/dp/1250110254?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250110251?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250110251"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BGUEST%2BBOOK%2FSarah%2BBlake%2F9781250110251"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250110251"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Sunset-Beach-Mary-Kay-Andrews/dp/125012610X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Mary Kay Andrews",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250126108.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "",
+        "book_uri": "nyt://book/51c82147-4f01-5d25-bd82-c9510dc1f4ef",
+        "contributor": "by Mary Kay Andrews",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:15:53.313Z",
+        "dagger": 0,
+        "description": "Drue Campbell inherits a run-down beach bungalow and takes a job at her estranged father\u2019s personal injury attorney office.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250126108",
+        "publisher": "St. Martin's",
+        "rank": 7,
+        "rank_last_week": 5,
+        "sunday_review_link": "",
+        "title": "SUNSET BEACH",
+        "updated_date": "2025-10-11T07:15:53.313Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250126108"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Sunset-Beach-Mary-Kay-Andrews/dp/125012610X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250126108?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250126108"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSUNSET%2BBEACH%2FMary%2BKay%2BAndrews%2F9781250126108"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250126108"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Neon-Prey-Novel-Book-29-ebook/dp/B07FZN9DY5?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "John Sandford",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525536581.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/83944f4b-2bd7-5ce9-8a11-c62deab48906",
+        "contributor": "by John Sandford",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:15:15.99Z",
+        "dagger": 0,
+        "description": "The 29th book in the Prey series. Lucas Davenport goes after a serial killer.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525536581",
+        "publisher": "Putnam",
+        "rank": 8,
+        "rank_last_week": 9,
+        "sunday_review_link": "",
+        "title": "NEON PREY",
+        "updated_date": "2025-10-11T07:15:15.99Z",
+        "weeks_on_list": 4,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525536581"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Neon-Prey-Novel-Book-29-ebook/dp/B07FZN9DY5?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525536581?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525536581"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNEON%2BPREY%2FJohn%2BSandford%2F9780525536581"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525536581"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Fire-Blood-Thrones-Targaryen-History/dp/152479628X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "George R.R. Martin",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781524796280.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "",
+        "book_uri": "nyt://book/afc6c8b8-532c-559e-a0d1-2eb6cd094f7d",
+        "contributor": "by George R.R. Martin",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:15:19.519Z",
+        "dagger": 0,
+        "description": "Set 300 years before the events of \u201cA Game of Thrones,\u201d this is the first volume of the two-part history of the Targaryens in Westeros.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781524796280",
+        "publisher": "Bantam",
+        "rank": 9,
+        "rank_last_week": 14,
+        "sunday_review_link": "",
+        "title": "FIRE AND BLOOD",
+        "updated_date": "2025-10-11T07:15:19.519Z",
+        "weeks_on_list": 21,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781524796280"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Fire-Blood-Thrones-Targaryen-History/dp/152479628X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781524796280?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781524796280"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFIRE%2BAND%2BBLOOD%2FGeorge%2BR.R.%2BMartin%2F9781524796280"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781524796280"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Normal-People-Novel-Sally-Rooney/dp/1984822179?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Sally Rooney",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781984822178.jpg",
+        "book_image_height": 495,
+        "book_image_width": 330,
+        "book_review_link": "https://www.nytimes.com/2019/04/08/books/review-normal-people-sally-rooney.html",
+        "book_uri": "nyt://book/0f2ff02d-89ae-5518-a4b9-7041e336e648",
+        "contributor": "by Sally Rooney",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:15:56.516Z",
+        "dagger": 0,
+        "description": "The connection between a high school star athlete and a loner ebbs and flows when they go to Trinity College in Dublin.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781984822178",
+        "publisher": "Hogarth",
+        "rank": 10,
+        "rank_last_week": 12,
+        "sunday_review_link": "",
+        "title": "NORMAL PEOPLE",
+        "updated_date": "2025-10-11T07:15:56.516Z",
+        "weeks_on_list": 5,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781984822178"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Normal-People-Novel-Sally-Rooney/dp/1984822179?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781984822178?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781984822178"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNORMAL%2BPEOPLE%2FSally%2BRooney%2F9781984822178"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781984822178"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Never-Game-Colter-Shaw-Novel-ebook/dp/B07HDSGVMQ?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Jeffery Deaver",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525535942.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/1e5c9e25-4187-5f03-a852-e002920fd41d",
+        "contributor": "by Jeffery Deaver",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:15:03.524Z",
+        "dagger": 0,
+        "description": "Colter Shaw, the son of a survivalist family, probes the underbelly of Silicon Valley to go after a kidnapper.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525535942",
+        "publisher": "Putnam",
+        "rank": 11,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE NEVER GAME",
+        "updated_date": "2025-10-11T07:15:03.524Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525535942"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Never-Game-Colter-Shaw-Novel-ebook/dp/B07HDSGVMQ?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525535942?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525535942"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BNEVER%2BGAME%2FJeffery%2BDeaver%2F9780525535942"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525535942"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Silent-Patient-Alex-Michaelides/dp/1250301696?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Alex Michaelides",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250301697.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "",
+        "book_uri": "nyt://book/fe8f9863-f798-55c5-acdf-ceb32b5484ce",
+        "contributor": "by Alex Michaelides",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:29:33.078Z",
+        "dagger": 0,
+        "description": "Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250301697",
+        "publisher": "Celadon",
+        "rank": 12,
+        "rank_last_week": 13,
+        "sunday_review_link": "",
+        "title": "THE SILENT PATIENT",
+        "updated_date": "2025-10-11T07:29:33.078Z",
+        "weeks_on_list": 15,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250301697"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Silent-Patient-Alex-Michaelides/dp/1250301696?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250301697?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250301697"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BSILENT%2BPATIENT%2FAlex%2BMichaelides%2F9781250301697"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250301697"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Lost-Roses-Martha-Hall-Kelly/dp/1524796379?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Martha Hall Kelly",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781524796372.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/954a3918-ea88-5338-b86d-bc446ef512ee",
+        "contributor": "by Martha Hall Kelly",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:15:05.374Z",
+        "dagger": 0,
+        "description": "In 1914, the New York socialite Eliza Ferriday works to help White Russian families escape from the revolution.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781524796372",
+        "publisher": "Ballantine",
+        "rank": 13,
+        "rank_last_week": 11,
+        "sunday_review_link": "",
+        "title": "LOST ROSES",
+        "updated_date": "2025-10-11T07:15:05.374Z",
+        "weeks_on_list": 6,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781524796372"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Lost-Roses-Martha-Hall-Kelly/dp/1524796379?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781524796372?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781524796372"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLOST%2BROSES%2FMartha%2BHall%2BKelly%2F9781524796372"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781524796372"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Big-Kahuna-Fox-OHare-Book-ebook/dp/B078GCBH3R?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Janet Evanovich and Peter Evanovich",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525536642.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/332694d0-e7b7-525b-aef6-d9393f58584d",
+        "contributor": "by Janet Evanovich and Peter Evanovich",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:15:05.25Z",
+        "dagger": 0,
+        "description": "The sixth book in the Fox and O\u2019Hare series. An F.B.I. agent teams up with a con man to search for a Silicon Valley billionaire.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525536642",
+        "publisher": "Putnam",
+        "rank": 14,
+        "rank_last_week": 8,
+        "sunday_review_link": "",
+        "title": "THE BIG KAHUNA",
+        "updated_date": "2025-10-11T07:15:05.25Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525536642"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Big-Kahuna-Fox-OHare-Book-ebook/dp/B078GCBH3R?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525536642?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525536642"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BBIG%2BKAHUNA%2FJanet%2BEvanovich%2Band%2BPeter%2BEvanovich%2F9780525536642"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525536642"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Exhalation-Stories-Ted-Chiang/dp/1101947888?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Ted Chiang",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781101947883.jpg",
+        "book_image_height": 488,
+        "book_image_width": 330,
+        "book_review_link": "",
+        "book_uri": "nyt://book/4b8e00ed-3ee9-5ad2-b790-700e71e4c1f4",
+        "contributor": "by Ted Chiang",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:15:05.505Z",
+        "dagger": 0,
+        "description": "Nine short stories including \u201cThe Lifecycle of Software Objects\u201d and \u201cAnxiety Is the Dizziness of Freedom.\u201d",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781101947883",
+        "publisher": "Knopf",
+        "rank": 15,
+        "rank_last_week": 15,
+        "sunday_review_link": "",
+        "title": "EXHALATION",
+        "updated_date": "2025-10-11T07:15:05.505Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781101947883"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Exhalation-Stories-Ted-Chiang/dp/1101947888?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781101947883?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781101947883"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEXHALATION%2FTed%2BChiang%2F9781101947883"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781101947883"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  }
+}

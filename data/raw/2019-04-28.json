@@ -1,0 +1,871 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+  "num_results": 15,
+  "last_modified": "2025-10-11T07:14:28Z",
+  "results": {
+    "display_name": "Hardcover Fiction",
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "previous_published_date": "2019-04-21",
+    "published_date": "2019-04-28",
+    "next_published_date": "2019-05-05",
+    "bestsellers_date": "2019-04-13",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "list_id": 1,
+    "uri": "nyt://bestsellerslist/720faa95-c1e3-52fd-88d6-7cd308a7f37e",
+    "books": [
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Where-Crawdads-Sing-Delia-Owens/dp/0735219095?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Delia Owens",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780735219090.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/053b4109-4555-5aa1-9b39-cc40549bcdf0",
+        "contributor": "by Delia Owens",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:50:45.896Z",
+        "dagger": 0,
+        "description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780735219090",
+        "publisher": "Putnam",
+        "rank": 1,
+        "rank_last_week": 1,
+        "sunday_review_link": "",
+        "title": "WHERE THE CRAWDADS SING",
+        "updated_date": "2025-10-11T07:50:45.896Z",
+        "weeks_on_list": 32,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780735219090"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Where-Crawdads-Sing-Delia-Owens/dp/0735219095?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780735219090?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780735219090"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWHERE%2BTHE%2BCRAWDADS%2BSING%2FDelia%2BOwens%2F9780735219090"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780735219090"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Someone-Knows-Lisa-Scottoline/dp/0525539646?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Lisa Scottoline",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525539643.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/f05afd4b-2b81-50f1-bd13-9218a15d391a",
+        "contributor": "by Lisa Scottoline",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:14:34.392Z",
+        "dagger": 0,
+        "description": "A dark secret emerges when Allie Garvey returns home to attend a childhood friend\u2019s funeral.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525539643",
+        "publisher": "Putnam",
+        "rank": 2,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "SOMEONE KNOWS",
+        "updated_date": "2025-10-11T07:14:34.392Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525539643"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Someone-Knows-Lisa-Scottoline/dp/0525539646?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525539643?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525539643"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSOMEONE%2BKNOWS%2FLisa%2BScottoline%2F9780525539643"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525539643"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Lost-Roses-Martha-Hall-Kelly/dp/1524796379?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Martha Hall Kelly",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781524796372.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/954a3918-ea88-5338-b86d-bc446ef512ee",
+        "contributor": "by Martha Hall Kelly",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:15:05.374Z",
+        "dagger": 0,
+        "description": "In 1914, the New York socialite Eliza Ferriday works to help White Russian families escape from the revolution.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781524796372",
+        "publisher": "Ballantine",
+        "rank": 3,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "LOST ROSES",
+        "updated_date": "2025-10-11T07:15:05.374Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781524796372"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Lost-Roses-Martha-Hall-Kelly/dp/1524796379?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781524796372?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781524796372"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLOST%2BROSES%2FMartha%2BHall%2BKelly%2F9781524796372"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781524796372"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Cornwalls-Are-Gone-James-Patterson/dp/0316485551?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "James Patterson and Brendan DuBois",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316485555.jpg",
+        "book_image_height": 495,
+        "book_image_width": 319,
+        "book_review_link": "",
+        "book_uri": "nyt://book/2bb4710b-1166-5c4c-8d55-f9c524c4becb",
+        "contributor": "by James Patterson and Brendan DuBois",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:14:25.126Z",
+        "dagger": 0,
+        "description": "An Army intelligence officer must commit a crime or lose her kidnapped husband and daughter.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316485555",
+        "publisher": "Little, Brown",
+        "rank": 4,
+        "rank_last_week": 2,
+        "sunday_review_link": "",
+        "title": "THE CORNWALLS ARE GONE",
+        "updated_date": "2025-10-11T07:14:25.126Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316485555"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Cornwalls-Are-Gone-James-Patterson/dp/0316485551?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316485555?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316485555"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BCORNWALLS%2BARE%2BGONE%2FJames%2BPatterson%2Band%2BBrendan%2BDuBois%2F9780316485555"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316485555"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Two-Weeks-Novel-Baxter-Family/dp/147670743X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Karen Kingsbury",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781476707433.jpg",
+        "book_image_height": 495,
+        "book_image_width": 321,
+        "book_review_link": "",
+        "book_uri": "nyt://book/120877e6-6755-5709-b762-3916ef7237eb",
+        "contributor": "by Karen Kingsbury",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:14:25.348Z",
+        "dagger": 0,
+        "description": "A pregnant 18-year-old has limited time to change her mind about giving her baby up for adoption.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781476707433",
+        "publisher": "Howard",
+        "rank": 5,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "TWO WEEKS",
+        "updated_date": "2025-10-11T07:14:25.348Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781476707433"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Two-Weeks-Novel-Baxter-Family/dp/147670743X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781476707433?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781476707433"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTWO%2BWEEKS%2FKaren%2BKingsbury%2F9781476707433"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781476707433"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Run-Away-Harlan-Coben/dp/1538748460?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Harlan Coben",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781538748466.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/1efc9e47-e26a-5008-bc7f-0254707e4fc5",
+        "contributor": "by Harlan Coben",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:14:15.151Z",
+        "dagger": 0,
+        "description": "A family is torn apart when the daughter becomes addicted to drugs and goes missing.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781538748466",
+        "publisher": "Grand Central",
+        "rank": 6,
+        "rank_last_week": 4,
+        "sunday_review_link": "",
+        "title": "RUN AWAY",
+        "updated_date": "2025-10-11T07:14:15.151Z",
+        "weeks_on_list": 4,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781538748466"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Run-Away-Harlan-Coben/dp/1538748460?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781538748466?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538748466"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRUN%2BAWAY%2FHarlan%2BCoben%2F9781538748466"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781538748466"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Tale-Teller-Leaphorn-Manuelito-Novel-ebook/dp/B078QY1QVV?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Anne Hillerman",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780062391957.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/af14d9de-df0d-542c-81e5-534ade4da727",
+        "contributor": "by Anne Hillerman",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:14:10.028Z",
+        "dagger": 0,
+        "description": "Investigations by Leaphorn, Chee and Manuelito overlap in the desert Southwest.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780062391957",
+        "publisher": "Harper",
+        "rank": 7,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE TALE TELLER",
+        "updated_date": "2025-10-11T07:14:10.028Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780062391957"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Tale-Teller-Leaphorn-Manuelito-Novel-ebook/dp/B078QY1QVV?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780062391957?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062391957"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BTALE%2BTELLER%2FAnne%2BHillerman%2F9780062391957"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780062391957"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Celtic-Empire-Dirk-Pitt-Adventure-ebook/dp/B079R3KT4X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Clive Cussler and Dirk Cussler",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780735218994.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/db72cf2b-181b-53d7-9632-4813e18c14d7",
+        "contributor": "by Clive Cussler and Dirk Cussler",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:14:15.275Z",
+        "dagger": 0,
+        "description": "The 25th book in the Dirk Pitt series.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780735218994",
+        "publisher": "Putnam",
+        "rank": 8,
+        "rank_last_week": 5,
+        "sunday_review_link": "",
+        "title": "CELTIC EMPIRE",
+        "updated_date": "2025-10-11T07:14:15.275Z",
+        "weeks_on_list": 4,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780735218994"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Celtic-Empire-Dirk-Pitt-Adventure-ebook/dp/B079R3KT4X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780735218994?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780735218994"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCELTIC%2BEMPIRE%2FClive%2BCussler%2Band%2BDirk%2BCussler%2F9780735218994"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780735218994"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Silent-Patient-Alex-Michaelides/dp/1250301696?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Alex Michaelides",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250301697.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "",
+        "book_uri": "nyt://book/fe8f9863-f798-55c5-acdf-ceb32b5484ce",
+        "contributor": "by Alex Michaelides",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:29:33.078Z",
+        "dagger": 0,
+        "description": "Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250301697",
+        "publisher": "Celadon",
+        "rank": 9,
+        "rank_last_week": 6,
+        "sunday_review_link": "",
+        "title": "THE SILENT PATIENT",
+        "updated_date": "2025-10-11T07:29:33.078Z",
+        "weeks_on_list": 10,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250301697"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Silent-Patient-Alex-Michaelides/dp/1250301696?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250301697?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250301697"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BSILENT%2BPATIENT%2FAlex%2BMichaelides%2F9781250301697"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250301697"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Metropolis-Bernie-Gunther-Novel-Book-ebook/dp/B07FS7B6P2?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Philip Kerr",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780735218895.jpg",
+        "book_image_height": 495,
+        "book_image_width": 330,
+        "book_review_link": "",
+        "book_uri": "nyt://book/7a0047cd-59be-5310-bc3d-cee9e289a896",
+        "contributor": "by Philip Kerr",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:14:10.537Z",
+        "dagger": 0,
+        "description": "Bernie Gunther joins the Murder Commission in Berlin in 1928. The final Bernie Gunther novel completed before the author\u2019s death.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780735218895",
+        "publisher": "Putnam",
+        "rank": 10,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "METROPOLIS",
+        "updated_date": "2025-10-11T07:14:10.537Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780735218895"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Metropolis-Bernie-Gunther-Novel-Book-ebook/dp/B07FS7B6P2?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780735218895?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780735218895"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMETROPOLIS%2FPhilip%2BKerr%2F9780735218895"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780735218895"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Daisy-Jones-Taylor-Jenkins-Reid/dp/1524798622?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Taylor Jenkins Reid",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781524798628.jpg",
+        "book_image_height": 495,
+        "book_image_width": 325,
+        "book_review_link": "https://www.nytimes.com/2019/03/04/books/review/daisy-jones-six-taylor-jenkins-reid.html",
+        "book_uri": "nyt://book/205d89e0-aac2-5ce4-b843-6470ec165bf4",
+        "contributor": "by Taylor Jenkins Reid",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:14:15.015Z",
+        "dagger": 0,
+        "description": "A fictional oral history charting the rise and fall of a \u201970s rock \u2019n\u2019 roll band.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781524798628",
+        "publisher": "Ballantine",
+        "rank": 11,
+        "rank_last_week": 7,
+        "sunday_review_link": "",
+        "title": "DAISY JONES & THE SIX",
+        "updated_date": "2025-10-11T07:14:15.015Z",
+        "weeks_on_list": 6,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781524798628"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Daisy-Jones-Taylor-Jenkins-Reid/dp/1524798622?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781524798628?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781524798628"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDAISY%2BJONES%2B%2526%2BTHE%2BSIX%2FTaylor%2BJenkins%2BReid%2F9781524798628"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781524798628"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Wolf-Pack-Pickett-Novel-Book-ebook/dp/B07FLZYJD8?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "C.J. Box",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525538196.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/f82343f1-50b2-5ac2-ae7e-b8e31dc41bb4",
+        "contributor": "by C.J. Box",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:14:10.862Z",
+        "dagger": 0,
+        "description": "The Wyoming game wardens Joe Pickett and Katelyn Hamm take on killers working for the Sinaloa cartel.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525538196",
+        "publisher": "Putnam",
+        "rank": 12,
+        "rank_last_week": 9,
+        "sunday_review_link": "",
+        "title": "WOLF PACK",
+        "updated_date": "2025-10-11T07:14:10.862Z",
+        "weeks_on_list": 5,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525538196"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Wolf-Pack-Pickett-Novel-Book-ebook/dp/B07FLZYJD8?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525538196?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525538196"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWOLF%2BPACK%2FCJ%2BBox%2F9780525538196"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525538196"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Miracle-at-St-Andrews-Novel/dp/0316519103?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "James Patterson and Peter de Jonge",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316519106.jpg",
+        "book_image_height": 495,
+        "book_image_width": 330,
+        "book_review_link": "",
+        "book_uri": "nyt://book/1f594777-1dc5-5563-9429-3112684a81d6",
+        "contributor": "by James Patterson and Peter de Jonge",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:14:15.44Z",
+        "dagger": 0,
+        "description": "A former professional golfer visits the course in Scotland.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316519106",
+        "publisher": "Little, Brown",
+        "rank": 13,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "MIRACLE AT ST. ANDREWS",
+        "updated_date": "2025-10-11T07:14:15.44Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316519106"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Miracle-at-St-Andrews-Novel/dp/0316519103?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316519106?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316519106"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMIRACLE%2BAT%2BST.%2BANDREWS%2FJames%2BPatterson%2Band%2BPeter%2Bde%2BJonge%2F9780316519106"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316519106"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Lost-Wanted-novel-Nell-Freudenberger/dp/0385352689?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Nell Freudenberger",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780385352680.jpg",
+        "book_image_height": 488,
+        "book_image_width": 330,
+        "book_review_link": "https://www.nytimes.com/2019/04/01/books/review/nell-freudenberger-lost-and-wanted.html",
+        "book_uri": "nyt://book/2f3c002a-911c-5c58-9ed9-3322adb949f0",
+        "contributor": "by Nell Freudenberger",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:14:11.202Z",
+        "dagger": 0,
+        "description": "An M.I.T. professor receives a phone call from her recently deceased screenwriter friend.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780385352680",
+        "publisher": "Knopf",
+        "rank": 14,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "LOST AND WANTED",
+        "updated_date": "2025-10-11T07:14:11.202Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780385352680"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Lost-Wanted-novel-Nell-Freudenberger/dp/0385352689?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780385352680?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385352680"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLOST%2BAND%2BWANTED%2FNell%2BFreudenberger%2F9780385352680"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780385352680"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Island-Sea-Women-Novel/dp/1501154850?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Lisa See",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781501154850.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "https://www.nytimes.com/2019/04/05/books/review/island-of-sea-women-lisa-see.html",
+        "book_uri": "nyt://book/8c0d56f8-48e3-595e-9ac6-da03f408de05",
+        "contributor": "by Lisa See",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:14:11.356Z",
+        "dagger": 0,
+        "description": "The friendship over many decades of two female divers from the Korean Island of Jeju is pushed to a breaking point.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781501154850",
+        "publisher": "Scribner",
+        "rank": 15,
+        "rank_last_week": 15,
+        "sunday_review_link": "",
+        "title": "THE ISLAND OF SEA WOMEN",
+        "updated_date": "2025-10-11T07:14:11.356Z",
+        "weeks_on_list": 6,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781501154850"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Island-Sea-Women-Novel/dp/1501154850?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781501154850?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501154850"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BISLAND%2BOF%2BSEA%2BWOMEN%2FLisa%2BSee%2F9781501154850"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781501154850"
+          }
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "text": "An earlier version of this article misspelled the surname of a character in Anne Hillerman's novel \"The Tale Teller.\" She is Bernie Manuelito, not Mauelito.\n",
+        "correctionDate": "2019-04-21T16:06:10Z"
+      },
+      {
+        "text": "An earlier version of this article misspelled the surname of a character in Anne Hillerman's novel \"The Tale Teller.\" She is Bernie Manuelito, not Mauelito.",
+        "correctionDate": "2019-04-21T16:56:57Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,862 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+  "num_results": 15,
+  "last_modified": "2025-10-11T07:17:02Z",
+  "results": {
+    "display_name": "Hardcover Fiction",
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "previous_published_date": "2019-07-14",
+    "published_date": "2019-07-21",
+    "next_published_date": "2019-07-28",
+    "bestsellers_date": "2019-07-06",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "list_id": 1,
+    "uri": "nyt://bestsellerslist/61783dd2-b622-5257-85f0-f403925c30e9",
+    "books": [
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Where-Crawdads-Sing-Delia-Owens/dp/0735219095?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Delia Owens",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780735219090.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/053b4109-4555-5aa1-9b39-cc40549bcdf0",
+        "contributor": "by Delia Owens",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:50:45.896Z",
+        "dagger": 0,
+        "description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780735219090",
+        "publisher": "Putnam",
+        "rank": 1,
+        "rank_last_week": 1,
+        "sunday_review_link": "",
+        "title": "WHERE THE CRAWDADS SING",
+        "updated_date": "2025-10-11T07:50:45.896Z",
+        "weeks_on_list": 44,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780735219090"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Where-Crawdads-Sing-Delia-Owens/dp/0735219095?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780735219090?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780735219090"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWHERE%2BTHE%2BCRAWDADS%2BSING%2FDelia%2BOwens%2F9780735219090"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780735219090"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Summer-69-Elin-Hilderbrand/dp/0316420018?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Elin Hilderbrand",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316420013.jpg",
+        "book_image_height": 495,
+        "book_image_width": 320,
+        "book_review_link": "",
+        "book_uri": "nyt://book/3d357104-ed40-5e87-aa7f-58d471af18cd",
+        "contributor": "by Elin Hilderbrand",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:17:46.64Z",
+        "dagger": 0,
+        "description": "The Levin family undergoes dramatic events with a son in Vietnam, a daughter in protests and dark secrets hiding beneath the surface.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316420013",
+        "publisher": "Little, Brown",
+        "rank": 2,
+        "rank_last_week": 3,
+        "sunday_review_link": "",
+        "title": "SUMMER OF '69",
+        "updated_date": "2025-10-11T07:17:46.64Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316420013"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Summer-69-Elin-Hilderbrand/dp/0316420018?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316420013?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316420013"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSUMMER%2BOF%2B%252769%2FElin%2BHilderbrand%2F9780316420013"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316420013"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Evvie-Drake-Starts-Over-Novel/dp/0525619240?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Linda Holmes",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525619246.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "",
+        "book_uri": "nyt://book/68a81825-91db-5542-a260-152ffb88fdab",
+        "contributor": "by Linda Holmes",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:17:29.723Z",
+        "dagger": 0,
+        "description": "In a seaside town in Maine, a former Major League pitcher and a grieving widow assess their pasts.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525619246",
+        "publisher": "Ballantine",
+        "rank": 3,
+        "rank_last_week": 15,
+        "sunday_review_link": "",
+        "title": "EVVIE DRAKE STARTS OVER",
+        "updated_date": "2025-10-11T07:17:29.723Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525619246"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Evvie-Drake-Starts-Over-Novel/dp/0525619240?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525619246?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525619246"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEVVIE%2BDRAKE%2BSTARTS%2BOVER%2FLinda%2BHolmes%2F9780525619246"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525619246"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Backlash-Thriller-19-Scot-Harvath/dp/1982104031?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Brad Thor",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781982104030.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "",
+        "book_uri": "nyt://book/b87393d7-4562-5c19-adee-eb97589d3c12",
+        "contributor": "by Brad Thor",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:16:49.076Z",
+        "dagger": 0,
+        "description": "Cut off from any support, Scot Harvath fights to get his revenge.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781982104030",
+        "publisher": "Emily Bestler/Atria",
+        "rank": 4,
+        "rank_last_week": 2,
+        "sunday_review_link": "",
+        "title": "BACKLASH",
+        "updated_date": "2025-10-11T07:16:49.076Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781982104030"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Backlash-Thriller-19-Scot-Harvath/dp/1982104031?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781982104030?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781982104030"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBACKLASH%2FBrad%2BThor%2F9781982104030"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781982104030"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/City-Girls-Novel-Elizabeth-Gilbert/dp/1594634734?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Elizabeth Gilbert",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781594634734.jpg",
+        "book_image_height": 499,
+        "book_image_width": 331,
+        "book_review_link": "https://www.nytimes.com/2019/06/01/books/review/elizabeth-gilbert-city-of-girls.html",
+        "book_uri": "nyt://book/f0b6895c-ed25-5928-9bcb-917a0db713df",
+        "contributor": "by Elizabeth Gilbert",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:17:26.988Z",
+        "dagger": 0,
+        "description": "An 89-year-old Vivian Morris looks back at the direction her life took when she entered the 1940s New York theater scene.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781594634734",
+        "publisher": "Riverhead",
+        "rank": 5,
+        "rank_last_week": 5,
+        "sunday_review_link": "",
+        "title": "CITY OF GIRLS",
+        "updated_date": "2025-10-11T07:17:26.988Z",
+        "weeks_on_list": 5,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781594634734"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/City-Girls-Novel-Elizabeth-Gilbert/dp/1594634734?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781594634734?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781594634734"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCITY%2BOF%2BGIRLS%2FElizabeth%2BGilbert%2F9781594634734"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781594634734"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Lost-Found-Novel-Danielle-Steel/dp/039917947X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Danielle Steel",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780399179471.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "",
+        "book_uri": "nyt://book/b66b63db-d623-5178-ae8c-81110b6c0141",
+        "contributor": "by Danielle Steel",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:16:58.722Z",
+        "dagger": 0,
+        "description": "A photographer embarks on a road trip to reconnect with three men she might have married.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780399179471",
+        "publisher": "Delacorte",
+        "rank": 6,
+        "rank_last_week": 4,
+        "sunday_review_link": "",
+        "title": "LOST AND FOUND",
+        "updated_date": "2025-10-11T07:16:58.722Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780399179471"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Lost-Found-Novel-Danielle-Steel/dp/039917947X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780399179471?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780399179471"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLOST%2BAND%2BFOUND%2FDanielle%2BSteel%2F9780399179471"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780399179471"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Mrs-Everything-Novel-Jennifer-Weiner/dp/1501133489?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Jennifer Weiner",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781501133480.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/6c60370d-f5b3-59d2-a7de-a3368d1c41d4",
+        "contributor": "by Jennifer Weiner",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:16:49.336Z",
+        "dagger": 0,
+        "description": "The story of two sisters and how the world around them changes drastically from the 1950s.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781501133480",
+        "publisher": "Atria",
+        "rank": 7,
+        "rank_last_week": 7,
+        "sunday_review_link": "",
+        "title": "MRS. EVERYTHING",
+        "updated_date": "2025-10-11T07:16:49.336Z",
+        "weeks_on_list": 4,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781501133480"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Mrs-Everything-Novel-Jennifer-Weiner/dp/1501133489?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781501133480?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501133480"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMRS.%2BEVERYTHING%2FJennifer%2BWeiner%2F9781501133480"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781501133480"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Unsolved-Invisible-James-Patterson/dp/0316419826?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "James Patterson and David Ellis",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316419826.jpg",
+        "book_image_height": 499,
+        "book_image_width": 322,
+        "book_review_link": "",
+        "book_uri": "nyt://book/f0a2cb28-6563-5070-a2ee-b68bf2bb1871",
+        "contributor": "by James Patterson and David Ellis",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:16:45.431Z",
+        "dagger": 0,
+        "description": "A string of seemingly accidental and unrelated deaths confound F.B.I. Agent Emmy Dockery.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316419826",
+        "publisher": "Little, Brown",
+        "rank": 8,
+        "rank_last_week": 6,
+        "sunday_review_link": "",
+        "title": "UNSOLVED",
+        "updated_date": "2025-10-11T07:16:45.431Z",
+        "weeks_on_list": 5,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316419826"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Unsolved-Invisible-James-Patterson/dp/0316419826?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316419826?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316419826"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUNSOLVED%2FJames%2BPatterson%2Band%2BDavid%2BEllis%2F9780316419826"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316419826"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Lock-Every-Door-Riley-Sager/dp/1524745146?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Riley Sager",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781524745141.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/d0967f32-8b51-530f-b109-eb916866daec",
+        "contributor": "by Riley Sager",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:16:44.336Z",
+        "dagger": 0,
+        "description": "An apartment sitter uncovers secrets as she tries to expose a killer in an upscale Manhattan building.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781524745141",
+        "publisher": "Dutton",
+        "rank": 9,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "LOCK EVERY DOOR",
+        "updated_date": "2025-10-11T07:16:44.336Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781524745141"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Lock-Every-Door-Riley-Sager/dp/1524745146?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781524745141?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781524745141"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLOCK%2BEVERY%2BDOOR%2FRiley%2BSager%2F9781524745141"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781524745141"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Earth-Were-Briefly-Gorgeous-Novel-ebook/dp/B07H72LJ5V?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Ocean Vuong",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525562023.jpg",
+        "book_image_height": 495,
+        "book_image_width": 330,
+        "book_review_link": "https://www.nytimes.com/2019/05/27/books/review-on-earth-were-briefly-gorgeous-ocean-vuong.html",
+        "book_uri": "nyt://book/d7445ae3-7de0-5062-b19d-e65a2bf192d0",
+        "contributor": "by Ocean Vuong",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:16:45.7Z",
+        "dagger": 0,
+        "description": "Little Dog writes a letter to a mother who cannot read, revealing a family history.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525562023",
+        "publisher": "Penguin Press",
+        "rank": 10,
+        "rank_last_week": 10,
+        "sunday_review_link": "",
+        "title": "ON EARTH WE'RE BRIEFLY GORGEOUS",
+        "updated_date": "2025-10-11T07:16:45.7Z",
+        "weeks_on_list": 5,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525562023"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Earth-Were-Briefly-Gorgeous-Novel-ebook/dp/B07H72LJ5V?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525562023?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525562023"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FON%2BEARTH%2BWE%2527RE%2BBRIEFLY%2BGORGEOUS%2FOcean%2BVuong%2F9780525562023"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525562023"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Clancy-Enemy-Contact-Jack-Novel/dp/0525541691?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Mike Maden",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525541691.jpg",
+        "book_image_height": 491,
+        "book_image_width": 330,
+        "book_review_link": "",
+        "book_uri": "nyt://book/5acace6a-c9a5-5933-a88c-056400858caa",
+        "contributor": "by Mike Maden",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:16:44.595Z",
+        "dagger": 0,
+        "description": "Jack Ryan Jr. must stop an international criminal conspiracy and deal with tragic news.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525541691",
+        "publisher": "Putnam",
+        "rank": 11,
+        "rank_last_week": 9,
+        "sunday_review_link": "",
+        "title": "TOM CLANCY: ENEMY CONTACT",
+        "updated_date": "2025-10-11T07:16:44.595Z",
+        "weeks_on_list": 4,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525541691"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Clancy-Enemy-Contact-Jack-Novel/dp/0525541691?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525541691?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525541691"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTOM%2BCLANCY%253A%2BENEMY%2BCONTACT%2FMike%2BMaden%2F9780525541691"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525541691"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Whisper-Network-Novel-Chandler-Baker/dp/1250319471?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Chandler Baker",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250319470.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "https://www.nytimes.com/2019/07/02/books/review/whisper-network-chandler-baker.html",
+        "book_uri": "nyt://book/4a526bee-d792-5100-87d3-ba6e647ccd09",
+        "contributor": "by Chandler Baker",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:16:45.946Z",
+        "dagger": 0,
+        "description": "Three close co-workers file a sexual harassment lawsuit against a top C.E.O. candidate at an athletic apparel brand in Dallas.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250319470",
+        "publisher": "Flatiron",
+        "rank": 12,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "WHISPER NETWORK",
+        "updated_date": "2025-10-11T07:16:45.946Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250319470"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Whisper-Network-Novel-Chandler-Baker/dp/1250319471?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250319470?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250319470"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWHISPER%2BNETWORK%2FChandler%2BBaker%2F9781250319470"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250319470"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Girls-Like-Us-Cristina-Alger/dp/0525535802?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Cristina Alger",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525535805.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/694356b6-b762-5db1-978f-cbcf804ffb47",
+        "contributor": "by Cristina Alger",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:16:44.858Z",
+        "dagger": 0,
+        "description": "F.B.I. Agent Nell Flynn returns to Long Island and suspects her recently deceased father might have killed two young women.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525535805",
+        "publisher": "Putnam",
+        "rank": 13,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "GIRLS LIKE US",
+        "updated_date": "2025-10-11T07:16:44.858Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525535805"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Girls-Like-Us-Cristina-Alger/dp/0525535802?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525535805?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525535805"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGIRLS%2BLIKE%2BUS%2FCristina%2BAlger%2F9780525535805"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525535805"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Silent-Patient-Alex-Michaelides/dp/1250301696?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Alex Michaelides",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250301697.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "",
+        "book_uri": "nyt://book/fe8f9863-f798-55c5-acdf-ceb32b5484ce",
+        "contributor": "by Alex Michaelides",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:29:33.078Z",
+        "dagger": 0,
+        "description": "Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250301697",
+        "publisher": "Celadon",
+        "rank": 14,
+        "rank_last_week": 12,
+        "sunday_review_link": "",
+        "title": "THE SILENT PATIENT",
+        "updated_date": "2025-10-11T07:29:33.078Z",
+        "weeks_on_list": 21,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250301697"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Silent-Patient-Alex-Michaelides/dp/1250301696?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250301697?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250301697"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BSILENT%2BPATIENT%2FAlex%2BMichaelides%2F9781250301697"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250301697"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Surfside-Sisters-Novel-Nancy-Thayer-ebook/dp/B07FC36WLH?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Nancy Thayer",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781524798727.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "",
+        "book_uri": "nyt://book/64bbb299-e13d-5618-9597-02e73651f597",
+        "contributor": "by Nancy Thayer",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:16:45.107Z",
+        "dagger": 0,
+        "description": "When things go sour in New York City, a novelist returns to Nantucket, where she must face past mistakes.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781524798727",
+        "publisher": "Ballantine",
+        "rank": 15,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "SURFSIDE SISTERS",
+        "updated_date": "2025-10-11T07:16:45.107Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781524798727"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Surfside-Sisters-Novel-Nancy-Thayer-ebook/dp/B07FC36WLH?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781524798727?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781524798727"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSURFSIDE%2BSISTERS%2FNancy%2BThayer%2F9781524798727"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781524798727"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  }
+}

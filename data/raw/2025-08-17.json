@@ -1,0 +1,838 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+  "num_results": 15,
+  "last_modified": "2025-08-06T22:39:32Z",
+  "results": {
+    "display_name": "Hardcover Fiction",
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "previous_published_date": "2025-08-10",
+    "published_date": "2025-08-17",
+    "next_published_date": "2025-08-24",
+    "bestsellers_date": "2025-08-02",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "list_id": 1,
+    "uri": "nyt://bestsellerslist/ccbdbc03-a66c-5b52-b402-09d241ee78bc",
+    "books": [
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593158717?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Taylor Jenkins Reid",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593158715.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/ea3a72b1-7898-565c-90fc-dafffda12a5c",
+        "contributor": "by Taylor Jenkins Reid",
+        "contributor_note": "",
+        "created_date": "2025-07-24T03:00:44.554Z",
+        "dagger": 0,
+        "description": "In the summer of 1980, Joan Goodwin begins training with a group of candidates for NASA\u2019s space shuttle program.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593158715",
+        "publisher": "Ballantine",
+        "rank": 1,
+        "rank_last_week": 3,
+        "sunday_review_link": "",
+        "title": "ATMOSPHERE",
+        "updated_date": "2025-07-24T03:00:44.554Z",
+        "weeks_on_list": 9,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593158715"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593158717?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593158715?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593158715"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FATMOSPHERE%2FTaylor%2BJenkins%2BReid%2F9780593158715"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593158715"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/059397705X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Holly Jackson",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593977057.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/91177b2e-bcfa-56fb-aedd-2d4b89eed05f",
+        "contributor": "by Holly Jackson",
+        "contributor_note": "",
+        "created_date": "2025-07-30T22:40:22.46Z",
+        "dagger": 0,
+        "description": "With only a week left to live after a violent attack on Halloween, Jet Mason is determined to solve her own murder.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593977057",
+        "publisher": "Bantam",
+        "rank": 2,
+        "rank_last_week": 1,
+        "sunday_review_link": "",
+        "title": "NOT QUITE DEAD YET",
+        "updated_date": "2025-07-30T22:40:22.46Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593977057"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/059397705X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fnot-quite-dead-yet-holly-jackson%2F1146395864%3Fean%3D9780593977057"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNot-Quite-Dead-Yet%2FHolly-Jackson%2F9780593977057"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593977057"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593832442?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Shari Lapena",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593832448.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/dc804d3a-d047-59e8-a3c8-06edd8b6e58d",
+        "contributor": "by Shari Lapena",
+        "contributor_note": "",
+        "created_date": "2025-08-06T22:39:28.745Z",
+        "dagger": 0,
+        "description": "Suspicions arise when Bryden seems to have disappeared from her luxury condo building without any of her belongings.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593832448",
+        "publisher": "Pamela Dorman",
+        "rank": 3,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "SHE DIDN'T SEE IT COMING",
+        "updated_date": "2025-08-06T22:39:28.745Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593832448"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593832442?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fshe-didnt-see-it-coming-shari-lapena%2F1146487206%3Fean%3D9780593832448"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FShe-Didnt-See-Coming%2FShari-Lapena%2F9780593832448"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593832448"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1775293939?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Elle Kennedy",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781464241765.jpg",
+        "book_image_height": 500,
+        "book_image_width": 333,
+        "book_review_link": "",
+        "book_uri": "nyt://book/5fdcb5f1-4045-50d4-b58b-76977c9f1e7e",
+        "contributor": "by Elle Kennedy",
+        "contributor_note": "",
+        "created_date": "2025-08-06T22:39:21.828Z",
+        "dagger": 0,
+        "description": "Hannah Wells agrees to tutor the captain of the hockey team whose grades are tanking if he agrees to go on a pretend date with her.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781464241765",
+        "publisher": "Bloom",
+        "rank": 4,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE DEAL",
+        "updated_date": "2025-08-06T22:39:21.828Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781464241765"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1775293939?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-deal-elle-kennedy%2F1147165991%3Fean%3D9781464241765"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDeal-Collectors%2FElle-Kennedy%2F9781464241765"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781464241765"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1668080974?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Megan Miranda",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781668080979.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/4a7433fd-c99d-50c0-9aa2-026e2d4964e0",
+        "contributor": "by Megan Miranda",
+        "contributor_note": "",
+        "created_date": "2025-08-06T22:39:21.962Z",
+        "dagger": 0,
+        "description": "When her daughter gets a scholarship to the college where she experienced tragedy, Beckett Bowery suspects dangers will return.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781668080979",
+        "publisher": "Marysue Rucci",
+        "rank": 5,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "YOU BELONG HERE",
+        "updated_date": "2025-08-06T22:39:21.962Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781668080979"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1668080974?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fyou-belong-here-megan-miranda%2F1146596220%3Fean%3D9781668080979"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBelong-Here%2FMegan-Miranda%2F9781668080979"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781668080979"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1982112824?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Fredrik Backman",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781982112820.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/4129c15e-98d1-5301-b6ac-304f9bd76d18",
+        "contributor": "by Fredrik Backman",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:22:33.437Z",
+        "dagger": 0,
+        "description": "A young woman looks into the story behind a painting that was made 25 years ago and a small group of teens depicted in it; translated by Neil Smith.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781982112820",
+        "publisher": "Atria",
+        "rank": 6,
+        "rank_last_week": 10,
+        "sunday_review_link": "",
+        "title": "MY FRIENDS",
+        "updated_date": "2025-10-11T08:22:33.437Z",
+        "weeks_on_list": 13,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781982112820"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1982112824?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781982112820?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781982112820"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMY%2BFRIENDS%2FFredrik%2BBackman%2F9781982112820"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781982112820"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1649374186?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Rebecca Yarros",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781649377159.jpg",
+        "book_image_height": 500,
+        "book_image_width": 310,
+        "book_review_link": "",
+        "book_uri": "nyt://book/8aa689f7-187e-5292-bfd4-e7fc7c2c535f",
+        "contributor": "by Rebecca Yarros",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:22:19.248Z",
+        "dagger": 0,
+        "description": "The third book in the Empyrean series. As enemies gain traction, Violet Sorrengail goes beyond the Aretian wards in search of allies.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781649377159",
+        "publisher": "Red Tower",
+        "rank": 7,
+        "rank_last_week": 7,
+        "sunday_review_link": "",
+        "title": "ONYX STORM",
+        "updated_date": "2025-10-11T08:22:19.248Z",
+        "weeks_on_list": 28,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781649377159"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1649374186?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781649377159?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781649377159"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FONYX%2BSTORM%2FRebecca%2BYarros%2F9781649377159"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781649377159"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1668089335?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Stephen King",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781668089330.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/7ebabb25-4ddf-5a99-8ecd-82f644626e07",
+        "contributor": "by Stephen King",
+        "contributor_note": "",
+        "created_date": "2025-07-24T03:00:31.078Z",
+        "dagger": 0,
+        "description": "Holly Gibney does double duty by helping head off acts of retribution and protecting a women\u2019s rights activist.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781668089330",
+        "publisher": "Scribner",
+        "rank": 8,
+        "rank_last_week": 8,
+        "sunday_review_link": "",
+        "title": "NEVER FLINCH",
+        "updated_date": "2025-07-24T03:00:31.078Z",
+        "weeks_on_list": 10,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781668089330"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1668089335?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781668089330?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781668089330"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNEVER%2BFLINCH%2FStephen%2BKing%2F9781668089330"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781668089330"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0316569933?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "James Patterson and Mike Lupica",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316569934.jpg",
+        "book_image_height": 500,
+        "book_image_width": 333,
+        "book_review_link": "",
+        "book_uri": "nyt://book/183f0939-c653-57b0-b063-36374fb6fa33",
+        "contributor": "by James Patterson and Mike Lupica",
+        "contributor_note": "",
+        "created_date": "2025-07-30T22:40:20.69Z",
+        "dagger": 0,
+        "description": "The third book in the Jane Smith thriller series. Taking on a celebrity client proves dangerous.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316569934",
+        "publisher": "Little, Brown",
+        "rank": 9,
+        "rank_last_week": 2,
+        "sunday_review_link": "",
+        "title": "THE HAMPTONS LAWYER",
+        "updated_date": "2025-07-30T22:40:20.69Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316569934"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0316569933?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-hamptons-lawyer-james-patterson%2F1147007148%3Fean%3D9780316569934"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHamptons-Lawyer%2FJames-Patterson%2F9780316569934"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316569934"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593873920?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Olivia Rose Darling",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593873922.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/90708e85-049f-529f-952b-6e3529cf6b2b",
+        "contributor": "by Olivia Rose Darling",
+        "contributor_note": "",
+        "created_date": "2025-08-06T22:39:22.087Z",
+        "dagger": 0,
+        "description": "In this sequel to \u201cFear the Flames,\u201d Elowen and Cayden face violent attacks, shifting alliances and cutthroat diplomacy.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593873922",
+        "publisher": "Delacorte",
+        "rank": 10,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "WRATH OF THE DRAGONS",
+        "updated_date": "2025-08-06T22:39:22.087Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593873922"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593873920?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwrath-of-the-dragons-olivia-rose-darling%2F1146455850%3Fean%3D9780593873922"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWrath-Dragons%2FOlivia-Rose-Darling%2F9780593873922"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593873922"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1250899575?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Alison Espach",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250899576.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/0935eb9b-9320-5ed9-93e8-32cef229779e",
+        "contributor": "by Alison Espach",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:22:17.003Z",
+        "dagger": 0,
+        "description": "A woman who is down on her luck forms an unexpected bond with the bride at a wedding in Rhode Island.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250899576",
+        "publisher": "Holt",
+        "rank": 11,
+        "rank_last_week": 9,
+        "sunday_review_link": "",
+        "title": "THE WEDDING PEOPLE",
+        "updated_date": "2025-10-11T08:22:17.003Z",
+        "weeks_on_list": 35,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250899576"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250899575?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250899576?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250899576"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BWEDDING%2BPEOPLE%2FAlison%2BEspach%2F9781250899576"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250899576"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/166807818X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Clare Leslie Hall",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781668078181.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/bd78d61b-82fb-58ec-8990-46ca43146f2b",
+        "contributor": "by Clare Leslie Hall",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:22:18.033Z",
+        "dagger": 0,
+        "description": "Beth must confront her past when the man she once loved as a teenager returns to the village with his son.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781668078181",
+        "publisher": "Simon & Schuster",
+        "rank": 12,
+        "rank_last_week": 11,
+        "sunday_review_link": "",
+        "title": "BROKEN COUNTRY",
+        "updated_date": "2025-10-11T08:22:18.033Z",
+        "weeks_on_list": 19,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781668078181"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/166807818X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781668078181?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781668078181"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBROKEN%2BCOUNTRY%2FClare%2BLeslie%2BHall%2F9781668078181"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781668078181"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0063384213?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Daniel Silva",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780063384217.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/abfa7077-f5bf-5bee-8039-95d6b063297e",
+        "contributor": "by Daniel Silva",
+        "contributor_note": "",
+        "created_date": "2025-07-24T03:00:30.148Z",
+        "dagger": 0,
+        "description": "The 25th book in the Gabriel Allon series. The art world, the mob and the Vatican intersect when a Leonardo da Vinci painting goes missing.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780063384217",
+        "publisher": "Harper",
+        "rank": 13,
+        "rank_last_week": 6,
+        "sunday_review_link": "",
+        "title": "AN INSIDE JOB",
+        "updated_date": "2025-07-24T03:00:30.148Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780063384217"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0063384213?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780063384217?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780063384217"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAN%2BINSIDE%2BJOB%2FDaniel%2BSilva%2F9780063384217"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780063384217"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1250333989?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Sarah Beth Durst",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250333988.jpg",
+        "book_image_height": 500,
+        "book_image_width": 388,
+        "book_review_link": "",
+        "book_uri": "nyt://book/86871de6-9637-550f-83a3-8fda1e91eed3",
+        "contributor": "by Sarah Beth Durst",
+        "contributor_note": "",
+        "created_date": "2025-07-24T03:00:44.173Z",
+        "dagger": 0,
+        "description": "In this novel set in the world of \u201cThe Spellshop,\u201d Terlu Perna must figure out a sorcerer\u2019s secrets to save an island containing magical greenhouses.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250333988",
+        "publisher": "Bramble",
+        "rank": 14,
+        "rank_last_week": 4,
+        "sunday_review_link": "",
+        "title": "THE ENCHANTED GREENHOUSE",
+        "updated_date": "2025-07-24T03:00:44.173Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250333988"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250333989?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250333988?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250333988"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BENCHANTED%2BGREENHOUSE%2FSarah%2BBeth%2BDurst%2F9781250333988"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250333988"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/059344129X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Emily Henry",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593441299.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/9acef644-540c-598c-8d0b-abe49ecc78c0",
+        "contributor": "by Emily Henry",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:22:38.714Z",
+        "dagger": 0,
+        "description": "A writer looking for her big break competes against a Pulitzer winner to tell the story of an octogenarian with a storied past.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593441299",
+        "publisher": "Berkley",
+        "rank": 15,
+        "rank_last_week": 12,
+        "sunday_review_link": "",
+        "title": "GREAT BIG BEAUTIFUL LIFE",
+        "updated_date": "2025-10-11T08:22:38.714Z",
+        "weeks_on_list": 15,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593441299"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/059344129X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593441299?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593441299"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGREAT%2BBIG%2BBEAUTIFUL%2BLIFE%2FEmily%2BHenry%2F9780593441299"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593441299"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  }
+}

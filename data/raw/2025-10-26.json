@@ -1,0 +1,854 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+  "num_results": 15,
+  "last_modified": "2025-10-15T22:38:38Z",
+  "results": {
+    "display_name": "Hardcover Fiction",
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "previous_published_date": "2025-10-19",
+    "published_date": "2025-10-26",
+    "next_published_date": "2025-11-02",
+    "bestsellers_date": "2025-10-11",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "list_id": 1,
+    "uri": "nyt://bestsellerslist/97295fb2-40bb-51dc-a4c1-de0faef38998",
+    "books": [
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1464260915?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Freida McFadden",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781464260919.jpg",
+        "book_image_height": 500,
+        "book_image_width": 394,
+        "book_review_link": "",
+        "book_uri": "nyt://book/65d085aa-5926-5741-8006-1cd6cb90849e",
+        "contributor": "by Freida McFadden",
+        "contributor_note": "",
+        "created_date": "2025-10-15T22:38:33.294Z",
+        "dagger": 0,
+        "description": "During a rough storm, Casey puts herself in danger when she lets a girl, who is covered in blood, into her cabin.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781464260919",
+        "publisher": "Poisoned Pen",
+        "rank": 1,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE INTRUDER",
+        "updated_date": "2025-10-15T22:38:33.294Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781464260919"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1464260915?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781464260919?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-intruder-freida-mcfadden%2F1147331363%3Fean%3D9781464260919"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FIntruder%2FFreida-McFadden%2F9781464260919"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781464260919"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0385546890?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Dan Brown",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780385546898.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "https://www.nytimes.com/2025/09/09/books/review/the-secret-of-secrets-dan-brown.html",
+        "book_uri": "nyt://book/49cff1bb-35bc-554b-a7d4-dbc946230c00",
+        "contributor": "by Dan Brown",
+        "contributor_note": "",
+        "created_date": "2025-09-17T22:38:11.49Z",
+        "dagger": 0,
+        "description": "As he searches for the missing noetic scientist he has been seeing, Robert Langdon discovers something regarding a secret project.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780385546898",
+        "publisher": "Doubleday",
+        "rank": 2,
+        "rank_last_week": 4,
+        "sunday_review_link": "",
+        "title": "THE SECRET OF SECRETS",
+        "updated_date": "2025-09-17T22:38:11.49Z",
+        "weeks_on_list": 5,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780385546898"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0385546890?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-secret-of-secrets-dan-brown%2F1146902400%3Fean%3D9780385546898"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSecret-Secrets%2FDan-Brown%2F9780385546898"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780385546898"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1668095254?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Jack Carr",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781668095256.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/3d807ffe-41b7-548d-af77-84fa84612a24",
+        "contributor": "by Jack Carr",
+        "contributor_note": "",
+        "created_date": "2025-10-15T22:38:33.486Z",
+        "dagger": 0,
+        "description": "During a time of war and civil unrest in 1968, the Navy SEAL Tom Reece is given an unofficial and dangerous mission.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781668095256",
+        "publisher": "Atria/Emily Bestler",
+        "rank": 3,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "CRY HAVOC",
+        "updated_date": "2025-10-15T22:38:33.486Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781668095256"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1668095254?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781668095256?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcry-havoc-jack-carr%2F1146323769%3Fean%3D9781668095256"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCry-Havoc%2FJack-Carr%2F9781668095256"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781668095256"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/006240668X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Mitch Albom",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780062406682.jpg",
+        "book_image_height": 500,
+        "book_image_width": 340,
+        "book_review_link": "",
+        "book_uri": "nyt://book/c29f65eb-1196-5749-bbf1-7dff2b35022e",
+        "contributor": "by Mitch Albom",
+        "contributor_note": "",
+        "created_date": "2025-10-15T22:38:33.619Z",
+        "dagger": 0,
+        "description": "Alfie Logan, who was gifted with the ability to live any moment a second time but must accept the outcomes, makes a risky love decision.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780062406682",
+        "publisher": "Harper",
+        "rank": 4,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "TWICE",
+        "updated_date": "2025-10-15T22:38:33.619Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780062406682"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/006240668X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780062406682?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ftwice-mitch-albom%2F1146840194%3Fean%3D9780062406682"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTwice%2FMitch-Albom%2F9780062406682"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780062406682"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593972708?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "SenLinYu",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593972700.jpg",
+        "book_image_height": 500,
+        "book_image_width": 330,
+        "book_review_link": "",
+        "book_uri": "nyt://book/e9c567d8-7c38-5cb8-88e5-ba46078e2144",
+        "contributor": "by SenLinYu",
+        "contributor_note": "",
+        "created_date": "2025-10-01T22:40:32.788Z",
+        "dagger": 0,
+        "description": "After the war, an imprisoned alchemist is sent to a necromancer to recover her lost memories.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593972700",
+        "publisher": "Del Rey",
+        "rank": 5,
+        "rank_last_week": 3,
+        "sunday_review_link": "",
+        "title": "ALCHEMISED",
+        "updated_date": "2025-10-01T22:40:32.788Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593972700"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593972708?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593972700?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Falchemised-senlinyu%2F1146838848%3Fean%3D9780593972700"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAlchemised%2FSenLinYu%2F9780593972700"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593972700"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/125078915X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Stephanie Garber",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250789150.jpg",
+        "book_image_height": 500,
+        "book_image_width": 310,
+        "book_review_link": "",
+        "book_uri": "nyt://book/f4b03f0a-689b-5834-b62f-8b91dfcc2e1a",
+        "contributor": "by Stephanie Garber",
+        "contributor_note": "",
+        "created_date": "2025-10-15T22:38:34.165Z",
+        "dagger": 0,
+        "description": "Holland St. James must retrieve an ancient object called the Alchemical Heart by midnight tomorrow or perish.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250789150",
+        "publisher": "Flatiron",
+        "rank": 6,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "ALCHEMY OF SECRETS",
+        "updated_date": "2025-10-15T22:38:34.165Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250789150"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/125078915X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250789150?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Falchemy-of-secrets-stephanie-garber%2F1146839071%3Fean%3D9781250789150"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAlchemy-Secrets%2FStephanie-Garber%2F9781250789150"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250789150"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1594206104?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Thomas Pynchon",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781594206108.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "https://www.nytimes.com/2025/10/02/books/review/thomas-pynchon-shadow-ticket.html",
+        "book_uri": "nyt://book/7a8a4bb5-f2ab-52d3-96b2-8515feef5955",
+        "contributor": "by Thomas Pynchon",
+        "contributor_note": "",
+        "created_date": "2025-10-15T22:38:34.041Z",
+        "dagger": 0,
+        "description": "In 1932, the private eye Hicks McTaggart encounters a hodgepodge of characters as he pursues the heiress of a Wisconsin cheese fortune.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781594206108",
+        "publisher": "Penguin Press",
+        "rank": 7,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "SHADOW TICKET",
+        "updated_date": "2025-10-15T22:38:34.041Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781594206108"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1594206104?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781594206108?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fshadow-ticket-thomas-pynchon%2F1147255971%3Fean%3D9781594206108"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FShadow-Ticket%2FThomas-Pynchon%2F9781594206108"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781594206108"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1668208806?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Jaysea Lynn",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781668208809.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/1d70ac15-69df-5c4e-9c55-3d51d919cff0",
+        "contributor": "by Jaysea Lynn",
+        "contributor_note": "",
+        "created_date": "2025-10-15T22:38:34.294Z",
+        "dagger": 0,
+        "description": "Lily gets a job assigning people to appropriate circles and becomes attracted to a demon general in Hell.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781668208809",
+        "publisher": "Saga",
+        "rank": 8,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "FOR WHOM THE BELLE TOLLS",
+        "updated_date": "2025-10-15T22:38:34.294Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781668208809"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1668208806?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781668208809?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffor-whom-the-belle-tolls-jaysea-lynn%2F1146765083%3Fean%3D9781668208809"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWhom-Belle-Tolls-Deluxe-Limited%2FJaysea-Lynn%2F9781668208809"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781668208809"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/B0DSHQQ7HQ?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Jan Karon",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9798217047178.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/1f18c48f-57b0-57f7-9cfd-e9cbf8db0762",
+        "contributor": "by Jan Karon",
+        "contributor_note": "",
+        "created_date": "2025-10-15T22:38:33.905Z",
+        "dagger": 0,
+        "description": "The 15th book in the Mitford series. As Christmas approaches, love and heartbreak are felt by people around town.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9798217047178",
+        "publisher": "Putnam",
+        "rank": 9,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "MY BELOVED",
+        "updated_date": "2025-10-15T22:38:33.905Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9798217047178"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/B0DSHQQ7HQ?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9798217047178?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmy-beloved-jan-karon%2F1146799972%3Fean%3D9798217047178"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMy-Beloved%2FJan-Karon%2F9798217047178"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9798217047178"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1649379293?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Rebecca Yarros",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781649379290.jpg",
+        "book_image_height": 500,
+        "book_image_width": 309,
+        "book_review_link": "",
+        "book_uri": "nyt://book/333140ca-2cf5-5a9e-a379-8fbb9df3371f",
+        "contributor": "by Rebecca Yarros",
+        "contributor_note": "",
+        "created_date": "2025-10-08T22:39:08.853Z",
+        "dagger": 0,
+        "description": "Violet Sorrengail is urged by the commanding general, who also is her mother, to become a candidate for the elite dragon riders.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781649379290",
+        "publisher": "Red Tower",
+        "rank": 10,
+        "rank_last_week": 2,
+        "sunday_review_link": "",
+        "title": "FOURTH WING",
+        "updated_date": "2025-10-08T22:39:08.853Z",
+        "weeks_on_list": 96,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781649379290"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1649379293?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781649379290?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffourth-wing-rebecca-yarros%2F1142297916%3Fean%3D9781649379290"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFourth-Wing-Claw-Collection%2FRebecca-Yarros%2F9781649379290"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781649379290"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1538773961?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Patricia Cornwell",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781538773963.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/2dd1293f-0044-5a3c-9088-5bc1b71337ea",
+        "contributor": "by Patricia Cornwell",
+        "contributor_note": "",
+        "created_date": "2025-10-15T22:38:30.12Z",
+        "dagger": 0,
+        "description": "The 29th book in the Kay Scarpetta series. A serial killer known as the Phantom Slasher invades homes in Northern Virginia.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781538773963",
+        "publisher": "Grand Central",
+        "rank": 11,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "SHARP FORCE",
+        "updated_date": "2025-10-15T22:38:30.12Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781538773963"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1538773961?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781538773963?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsharp-force-patricia-cornwell%2F1146925014%3Fean%3D9781538773963"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSharp-Force%2FPatricia-Cornwell%2F9781538773963"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781538773963"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1649379390?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Rebecca Yarros",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781649379399.jpg",
+        "book_image_height": 500,
+        "book_image_width": 309,
+        "book_review_link": "",
+        "book_uri": "nyt://book/97d00681-5495-588c-97f8-f39f26c3349e",
+        "contributor": "by Rebecca Yarros",
+        "contributor_note": "",
+        "created_date": "2025-10-08T22:39:09.118Z",
+        "dagger": 0,
+        "description": "The second book in the Empyrean series. Violet Sorrengail\u2019s next round of training under the new vice commandant might require her to betray the man she loves.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781649379399",
+        "publisher": "Red Tower",
+        "rank": 12,
+        "rank_last_week": 1,
+        "sunday_review_link": "",
+        "title": "IRON FLAME",
+        "updated_date": "2025-10-08T22:39:09.118Z",
+        "weeks_on_list": 81,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781649379399"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1649379390?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781649379399?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Firon-flame-rebecca-yarros%2F1143445645%3Fean%3D9781649379399"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FIron-Flame-Wing-Claw-Collection%2FRebecca-Yarros%2F9781649379399"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781649379399"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/031656785X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Elin Hilderbrand and Shelby Cunningham",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316567855.jpg",
+        "book_image_height": 500,
+        "book_image_width": 323,
+        "book_review_link": "",
+        "book_uri": "nyt://book/7d3d0ce9-71f1-54f7-80f2-a1953a12af8f",
+        "contributor": "by Elin Hilderbrand and Shelby Cunningham",
+        "contributor_note": "",
+        "created_date": "2025-09-24T22:37:49.026Z",
+        "dagger": 0,
+        "description": "Harmful rumors cause trouble for the students and staff at a New England boarding school.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316567855",
+        "publisher": "Little, Brown",
+        "rank": 13,
+        "rank_last_week": 7,
+        "sunday_review_link": "",
+        "title": "THE ACADEMY",
+        "updated_date": "2025-09-24T22:37:49.026Z",
+        "weeks_on_list": 4,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316567855"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/031656785X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-academy-elin-hilderbrand%2F1146823022%3Fean%3D9780316567855"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAcademy%2FElin-Hilderbrand%2F9780316567855"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316567855"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1250365236?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Harper L. Woods",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250365231.jpg",
+        "book_image_height": 500,
+        "book_image_width": 373,
+        "book_review_link": "",
+        "book_uri": "nyt://book/e48c702b-da4c-50f3-90c4-6152da4b2569",
+        "contributor": "by Harper L. Woods",
+        "contributor_note": "",
+        "created_date": "2025-10-15T22:38:30.263Z",
+        "dagger": 0,
+        "description": "The third book in the Coven of Bones series. Beelzebub is put under a spell that makes him forbidden to touch.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250365231",
+        "publisher": "Bramble",
+        "rank": 14,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE DAMNED",
+        "updated_date": "2025-10-15T22:38:30.263Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250365231"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250365236?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250365231?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-damned-harper-l-woods%2F1146657334%3Fean%3D9781250365231"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDamned%2FHarper-L-Woods%2F9781250365231"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250365231"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1649374186?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Rebecca Yarros",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781649374189.jpg",
+        "book_image_height": 500,
+        "book_image_width": 310,
+        "book_review_link": "",
+        "book_uri": "nyt://book/46da5746-7ecd-5010-881f-2da09ae5efc3",
+        "contributor": "by Rebecca Yarros",
+        "contributor_note": "",
+        "created_date": "2025-10-11T08:22:17.301Z",
+        "dagger": 0,
+        "description": "The third book in the Empyrean series. As enemies gain traction, Violet Sorrengail goes beyond the Aretian wards in search of allies.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781649374189",
+        "publisher": "Red Tower",
+        "rank": 15,
+        "rank_last_week": 10,
+        "sunday_review_link": "",
+        "title": "ONYX STORM",
+        "updated_date": "2025-10-11T08:22:17.301Z",
+        "weeks_on_list": 37,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781649374189"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1649374186?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781649374189?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781649374189"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FONYX%2BSTORM%2FRebecca%2BYarros%2F9781649374189"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781649374189"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  }
+}

@@ -1,0 +1,862 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+  "num_results": 15,
+  "last_modified": "2025-10-11T07:19:28Z",
+  "results": {
+    "display_name": "Hardcover Fiction",
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "previous_published_date": "2019-10-13",
+    "published_date": "2019-10-20",
+    "next_published_date": "2019-10-27",
+    "bestsellers_date": "2019-10-05",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "list_id": 1,
+    "uri": "nyt://bestsellerslist/dc1c54cb-af35-52bf-8471-493bf646351e",
+    "books": [
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Water-Dancer-Oprahs-Book-Club/dp/0399590595?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Ta-Nehisi Coates",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780399590597.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "https://www.nytimes.com/2019/09/20/books/review-water-dancer-ta-nehisi-coates.html",
+        "book_uri": "nyt://book/30d61b66-0e7d-582c-a3ab-ddce005d5361",
+        "contributor": "by Ta-Nehisi Coates",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:21:57.426Z",
+        "dagger": 0,
+        "description": "A young man who was gifted with a mysterious power becomes part of a war between slavers and the enslaved.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780399590597",
+        "publisher": "One World",
+        "rank": 1,
+        "rank_last_week": 1,
+        "sunday_review_link": "",
+        "title": "THE WATER DANCER",
+        "updated_date": "2025-10-11T07:21:57.426Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780399590597"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Water-Dancer-Oprahs-Book-Club/dp/0399590595?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780399590597?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780399590597"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BWATER%2BDANCER%2FTa-Nehisi%2BCoates%2F9780399590597"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780399590597"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Institute-Novel-Stephen-King/dp/1982110562?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Stephen King",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781982110567.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "https://www.nytimes.com/2019/09/08/books/review-institute-stephen-king.html",
+        "book_uri": "nyt://book/ef08eed0-f900-53fe-9764-da9152bd5e8f",
+        "contributor": "by Stephen King",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:23:14.44Z",
+        "dagger": 0,
+        "description": "Children with special talents are abducted and sequestered in an institution where the sinister staff seeks to extract their gifts through harsh methods.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781982110567",
+        "publisher": "Scribner",
+        "rank": 2,
+        "rank_last_week": 2,
+        "sunday_review_link": "",
+        "title": "THE INSTITUTE",
+        "updated_date": "2025-10-11T07:23:14.44Z",
+        "weeks_on_list": 4,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781982110567"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Institute-Novel-Stephen-King/dp/1982110562?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781982110567?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781982110567"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BINSTITUTE%2FStephen%2BKing%2F9781982110567"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781982110567"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Where-Crawdads-Sing-Delia-Owens/dp/0735219095?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Delia Owens",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780735219090.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/053b4109-4555-5aa1-9b39-cc40549bcdf0",
+        "contributor": "by Delia Owens",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:50:45.896Z",
+        "dagger": 0,
+        "description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780735219090",
+        "publisher": "Putnam",
+        "rank": 3,
+        "rank_last_week": 5,
+        "sunday_review_link": "",
+        "title": "WHERE THE CRAWDADS SING",
+        "updated_date": "2025-10-11T07:50:45.896Z",
+        "weeks_on_list": 57,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780735219090"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Where-Crawdads-Sing-Delia-Owens/dp/0735219095?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780735219090?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780735219090"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWHERE%2BTHE%2BCRAWDADS%2BSING%2FDelia%2BOwens%2F9780735219090"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780735219090"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Dutch-House-Novel-Ann-Patchett/dp/0062963678?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Ann Patchett",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780062963673.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "https://www.nytimes.com/2019/09/21/books/review-dutch-house-ann-patchett.html",
+        "book_uri": "nyt://book/0ad5db6c-4d15-5624-bef3-1385f93f78e2",
+        "contributor": "by Ann Patchett",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:25:01.707Z",
+        "dagger": 0,
+        "description": "A sibling relationship is impacted when the family goes from poverty to wealth and back again over the course of many decades.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780062963673",
+        "publisher": "Harper",
+        "rank": 4,
+        "rank_last_week": 6,
+        "sunday_review_link": "",
+        "title": "THE DUTCH HOUSE",
+        "updated_date": "2025-10-11T07:25:01.707Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780062963673"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Dutch-House-Novel-Ann-Patchett/dp/0062963678?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780062963673?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062963673"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BDUTCH%2BHOUSE%2FAnn%2BPatchett%2F9780062963673"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780062963673"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Bloody-Genius-Virgil-Flowers-Novel/dp/0525536612?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "John Sandford",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525536611.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/fea821b6-6392-50b8-b5ae-048621b34a82",
+        "contributor": "by John Sandford",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:19:12.542Z",
+        "dagger": 0,
+        "description": "The 12th book in the Virgil Flowers series. A fight between university departments turns deadly.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525536611",
+        "publisher": "Putnam",
+        "rank": 5,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "BLOODY GENIUS",
+        "updated_date": "2025-10-11T07:19:12.542Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525536611"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Bloody-Genius-Virgil-Flowers-Novel/dp/0525536612?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525536611?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525536611"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBLOODY%2BGENIUS%2FJohn%2BSandford%2F9780525536611"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525536611"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Testaments-Sequel-Handmaids-Tale/dp/0385543786?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Margaret Atwood",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780385543781.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "",
+        "book_uri": "nyt://book/e1e18717-04bb-51a2-942a-45743507535f",
+        "contributor": "by Margaret Atwood",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:21:56.778Z",
+        "dagger": 0,
+        "description": "In a sequel to \u201cThe Handmaid\u2019s Tale,\u201d old secrets bring three women together as the Republic of Gilead\u2019s theocratic regime shows signs of decay.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780385543781",
+        "publisher": "Nan A. Talese/Doubleday",
+        "rank": 6,
+        "rank_last_week": 3,
+        "sunday_review_link": "",
+        "title": "THE TESTAMENTS",
+        "updated_date": "2025-10-11T07:21:56.778Z",
+        "weeks_on_list": 4,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780385543781"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Testaments-Sequel-Handmaids-Tale/dp/0385543786?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780385543781?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385543781"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BTESTAMENTS%2FMargaret%2BAtwood%2F9780385543781"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780385543781"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Lethal-Agent-Mitch-Rapp-Novel-ebook/dp/B07NBJSFFJ?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Kyle Mills",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781501190629.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "",
+        "book_uri": "nyt://book/86e28126-9c5c-5a00-b21f-80352e72ca2d",
+        "contributor": "by Kyle Mills",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:19:12.791Z",
+        "dagger": 0,
+        "description": "Mexican cartels, ISIS and a possible pandemic bring Mitch Rapp back into action.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781501190629",
+        "publisher": "Emily Bestler/Atria",
+        "rank": 7,
+        "rank_last_week": 4,
+        "sunday_review_link": "",
+        "title": "VINCE FLYNN: LETHAL AGENT",
+        "updated_date": "2025-10-11T07:19:12.791Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781501190629"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Lethal-Agent-Mitch-Rapp-Novel-ebook/dp/B07NBJSFFJ?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781501190629?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501190629"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FVINCE%2BFLYNN%253A%2BLETHAL%2BAGENT%2FKyle%2BMills%2F9781501190629"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781501190629"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Cilkas-Journey-Novel-Tattooist-Auschwitz/dp/1250265703?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Heather Morris",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250265708.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "",
+        "book_uri": "nyt://book/014cbbe5-9d31-59d6-9f09-dd39d04421a0",
+        "contributor": "by Heather Morris",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:19:24.339Z",
+        "dagger": 0,
+        "description": "A 16-year-old, who sleeps with a concentration camp commandant in order to survive, is sentenced to a Siberian prison camp where she cares for the ill.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250265708",
+        "publisher": "St. Martin's",
+        "rank": 8,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "CILKA'S JOURNEY",
+        "updated_date": "2025-10-11T07:19:24.339Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250265708"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Cilkas-Journey-Novel-Tattooist-Auschwitz/dp/1250265703?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250265708?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250265708"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCILKA%2527S%2BJOURNEY%2FHeather%2BMorris%2F9781250265708"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250265708"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Full-Throttle-Stories-Joe-Hill/dp/0062200674?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Joe Hill",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780062200679.jpg",
+        "book_image_height": 495,
+        "book_image_width": 327,
+        "book_review_link": "https://www.nytimes.com/2019/10/01/books/review/full-throttle-joe-hill.html",
+        "book_uri": "nyt://book/37ca0261-c732-5732-8d0a-5a85fa7fde2e",
+        "contributor": "by Joe Hill",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:19:24.73Z",
+        "dagger": 0,
+        "description": "A collection of short stories including two written with Stephen King: \u201cThrottle\u201d and \u201cIn the Tall Grass.\u201d",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780062200679",
+        "publisher": "Morrow",
+        "rank": 9,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "FULL THROTTLE",
+        "updated_date": "2025-10-11T07:19:24.73Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780062200679"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Full-Throttle-Stories-Joe-Hill/dp/0062200674?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780062200679?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062200679"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFULL%2BTHROTTLE%2FJoe%2BHill%2F9780062200679"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780062200679"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Imaginary-Friend-Stephen-Chbosky/dp/1538731339?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Stephen Chbosky",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781538731338.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "https://www.nytimes.com/2019/10/07/books/review/imaginary-friend-stephen-chbosky.html",
+        "book_uri": "nyt://book/8458120f-fd20-5f6f-8c1d-3182a4a0d79e",
+        "contributor": "by Stephen Chbosky",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:19:11.139Z",
+        "dagger": 0,
+        "description": "After disappearing for six days, a boy emerges from the woods with a voice in his head that sends him on a mission.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781538731338",
+        "publisher": "Grand Central",
+        "rank": 10,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "IMAGINARY FRIEND",
+        "updated_date": "2025-10-11T07:19:11.139Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781538731338"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Imaginary-Friend-Stephen-Chbosky/dp/1538731339?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781538731338?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538731338"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FIMAGINARY%2BFRIEND%2FStephen%2BChbosky%2F9781538731338"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781538731338"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Mrs-Miracle-Christmas-Novel-ebook/dp/B07MFHG8S3?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Debbie Macomber",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780399181399.jpg",
+        "book_image_height": 482,
+        "book_image_width": 330,
+        "book_review_link": "",
+        "book_uri": "nyt://book/7f0e36ae-d6ae-56da-a1f2-6e50776e5db8",
+        "contributor": "by Debbie Macomber",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:19:10.168Z",
+        "dagger": 0,
+        "description": "A visitor helps the McCullough family beyond expectation during the holiday season.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780399181399",
+        "publisher": "Ballantine",
+        "rank": 11,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "A MRS. MIRACLE CHRISTMAS",
+        "updated_date": "2025-10-11T07:19:10.168Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780399181399"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Mrs-Miracle-Christmas-Novel-ebook/dp/B07MFHG8S3?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780399181399?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780399181399"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FA%2BMRS.%2BMIRACLE%2BCHRISTMAS%2FDebbie%2BMacomber%2F9780399181399"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780399181399"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Girl-Who-Lived-Twice-continuing-ebook/dp/B07KQNN4CC?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "David Lagercrantz",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780451494344.jpg",
+        "book_image_height": 495,
+        "book_image_width": 321,
+        "book_review_link": "",
+        "book_uri": "nyt://book/dc676413-8c79-5b67-9d66-cbc04e8050b1",
+        "contributor": "by David Lagercrantz",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:19:28.328Z",
+        "dagger": 0,
+        "description": "Mikael Blomkvist helps Lisbeth Salander put her past behind her in the latest installment of Stieg Larsson's Millennium series.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780451494344",
+        "publisher": "Knopf",
+        "rank": 12,
+        "rank_last_week": 7,
+        "sunday_review_link": "",
+        "title": "THE GIRL WHO LIVED TWICE",
+        "updated_date": "2025-10-11T07:19:28.328Z",
+        "weeks_on_list": 6,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780451494344"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Girl-Who-Lived-Twice-continuing-ebook/dp/B07KQNN4CC?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780451494344?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780451494344"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BGIRL%2BWHO%2BLIVED%2BTWICE%2FDavid%2BLagercrantz%2F9780451494344"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780451494344"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Oracle-Jubilean-Mysteries-Unveiled/dp/1629996297?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Jonathan Cahn",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781629996295.jpg",
+        "book_image_height": 488,
+        "book_image_width": 330,
+        "book_review_link": "",
+        "book_uri": "nyt://book/94a69adb-1890-5c29-980d-daea1072a316",
+        "contributor": "by Jonathan Cahn",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:19:11.251Z",
+        "dagger": 0,
+        "description": "A traveler discovers mysteries hidden behind seven locked doors.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781629996295",
+        "publisher": "Front Line",
+        "rank": 13,
+        "rank_last_week": 9,
+        "sunday_review_link": "",
+        "title": "THE ORACLE",
+        "updated_date": "2025-10-11T07:19:11.251Z",
+        "weeks_on_list": 5,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781629996295"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Oracle-Jubilean-Mysteries-Unveiled/dp/1629996297?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781629996295?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781629996295"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BORACLE%2FJonathan%2BCahn%2F9781629996295"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781629996295"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Red-at-Bone-Jacqueline-Woodson/dp/0525535276?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Jacqueline Woodson",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525535270.jpg",
+        "book_image_height": 495,
+        "book_image_width": 315,
+        "book_review_link": "https://www.nytimes.com/2019/09/16/books/review/red-at-the-bone-jacqueline-woodson.html",
+        "book_uri": "nyt://book/7835d149-7778-5722-82ed-e918604b9d8b",
+        "contributor": "by Jacqueline Woodson",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:19:10.561Z",
+        "dagger": 0,
+        "description": "The long-lasting decisions young people make are explored through the history of a Brooklyn teenager\u2019s family.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525535270",
+        "publisher": "Riverhead",
+        "rank": 14,
+        "rank_last_week": 11,
+        "sunday_review_link": "",
+        "title": "RED AT THE BONE",
+        "updated_date": "2025-10-11T07:19:10.561Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525535270"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Red-at-Bone-Jacqueline-Woodson/dp/0525535276?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525535270?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525535270"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRED%2BAT%2BTHE%2BBONE%2FJacqueline%2BWoodson%2F9780525535270"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525535270"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Secrets-We-Kept-novel/dp/0525656154?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Lara Prescott",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525656159.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "https://www.nytimes.com/2019/09/02/books/review-secrets-we-kept-lara-prescott.html",
+        "book_uri": "nyt://book/ac3ae8a2-4ee2-51d1-8ffd-6d4bf5ca5d47",
+        "contributor": "by Lara Prescott",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:19:10.7Z",
+        "dagger": 0,
+        "description": "During the Cold War, members of the C.I.A.\u2019s typing pool aid its mission to smuggle the banned book \u201cDoctor Zhivago\u201d behind the Iron Curtain.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525656159",
+        "publisher": "Knopf",
+        "rank": 15,
+        "rank_last_week": 10,
+        "sunday_review_link": "",
+        "title": "THE SECRETS WE KEPT",
+        "updated_date": "2025-10-11T07:19:10.7Z",
+        "weeks_on_list": 5,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525656159"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Secrets-We-Kept-novel/dp/0525656154?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525656159?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525656159"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BSECRETS%2BWE%2BKEPT%2FLara%2BPrescott%2F9780525656159"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525656159"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  }
+}

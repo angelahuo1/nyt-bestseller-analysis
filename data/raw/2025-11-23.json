@@ -1,0 +1,858 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+  "num_results": 15,
+  "last_modified": "2025-11-12T23:38:19Z",
+  "results": {
+    "display_name": "Hardcover Fiction",
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "previous_published_date": "2025-11-16",
+    "published_date": "2025-11-23",
+    "next_published_date": "2025-11-30",
+    "bestsellers_date": "2025-11-08",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "list_id": 1,
+    "uri": "nyt://bestsellerslist/82b0e59c-cc94-513b-b0fc-aed383fc5db7",
+    "books": [
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0385548982?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "John Grisham",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780385548984.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/b4d35d23-bb5e-5f9c-b842-01c4352fe4dc",
+        "contributor": "by John Grisham",
+        "contributor_note": "",
+        "created_date": "2025-10-29T22:37:36.735Z",
+        "dagger": 0,
+        "description": "When Simon Latch, a lawyer in rural Virginia, is accused of murder, he goes in search of the real killer.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780385548984",
+        "publisher": "Doubleday",
+        "rank": 1,
+        "rank_last_week": 2,
+        "sunday_review_link": "",
+        "title": "THE WIDOW",
+        "updated_date": "2025-10-29T22:37:36.735Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780385548984"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0385548982?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780385548984?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-widow-john-grisham%2F1147191431%3Fean%3D9780385548984"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWidow%2FJohn-Grisham%2F9780385548984"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780385548984"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0385546890?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Dan Brown",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780385546898.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "https://www.nytimes.com/2025/09/09/books/review/the-secret-of-secrets-dan-brown.html",
+        "book_uri": "nyt://book/49cff1bb-35bc-554b-a7d4-dbc946230c00",
+        "contributor": "by Dan Brown",
+        "contributor_note": "",
+        "created_date": "2025-09-17T22:38:11.49Z",
+        "dagger": 0,
+        "description": "As he searches for the missing noetic scientist he has been seeing, Robert Langdon discovers something regarding a secret project.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780385546898",
+        "publisher": "Doubleday",
+        "rank": 2,
+        "rank_last_week": 4,
+        "sunday_review_link": "",
+        "title": "THE SECRET OF SECRETS",
+        "updated_date": "2025-09-17T22:38:11.49Z",
+        "weeks_on_list": 9,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780385546898"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0385546890?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-secret-of-secrets-dan-brown%2F1146902400%3Fean%3D9780385546898"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSecret-Secrets%2FDan-Brown%2F9780385546898"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780385546898"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593972708?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "SenLinYu",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593972700.jpg",
+        "book_image_height": 500,
+        "book_image_width": 330,
+        "book_review_link": "",
+        "book_uri": "nyt://book/e9c567d8-7c38-5cb8-88e5-ba46078e2144",
+        "contributor": "by SenLinYu",
+        "contributor_note": "",
+        "created_date": "2025-10-01T22:40:32.788Z",
+        "dagger": 0,
+        "description": "After the war, an imprisoned alchemist is sent to a necromancer to recover her lost memories.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593972700",
+        "publisher": "Del Rey",
+        "rank": 3,
+        "rank_last_week": 5,
+        "sunday_review_link": "",
+        "title": "ALCHEMISED",
+        "updated_date": "2025-10-01T22:40:32.788Z",
+        "weeks_on_list": 7,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593972700"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593972708?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593972700?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Falchemised-senlinyu%2F1146838848%3Fean%3D9780593972700"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAlchemised%2FSenLinYu%2F9780593972700"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593972700"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1538774704?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Reese Witherspoon and Harlan Coben",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781538774700.jpg",
+        "book_image_height": 500,
+        "book_image_width": 331,
+        "book_review_link": "",
+        "book_uri": "nyt://book/9b7486f1-4174-5974-85d4-6f3642a46e51",
+        "contributor": "by Reese Witherspoon and Harlan Coben",
+        "contributor_note": "",
+        "created_date": "2025-10-22T22:37:47.5Z",
+        "dagger": 0,
+        "description": "When a mysterious man disappears, the former combat surgeon giving him medical assistance goes on the lam.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781538774700",
+        "publisher": "Grand Central",
+        "rank": 4,
+        "rank_last_week": 6,
+        "sunday_review_link": "",
+        "title": "GONE BEFORE GOODBYE",
+        "updated_date": "2025-10-22T22:37:47.5Z",
+        "weeks_on_list": 4,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781538774700"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1538774704?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781538774700?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fgone-before-goodbye-harlan-coben%2F1147449181%3Fean%3D9781538774700"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGone-Before-Goodbye%2FHarlan-Coben%2F9781538774700"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781538774700"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1668014904?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Richard Paul Evans",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781668014905.jpg",
+        "book_image_height": 500,
+        "book_image_width": 354,
+        "book_review_link": "",
+        "book_uri": "nyt://book/0373edf1-e6ef-50a4-9bd0-f07988b79ebd",
+        "contributor": "by Richard Paul Evans",
+        "contributor_note": "",
+        "created_date": "2025-11-12T23:38:15.022Z",
+        "dagger": 0,
+        "description": "Three years after a tragedy, a computer repairman encounters several people who make him reconsider the value of his life.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781668014905",
+        "publisher": "Gallery",
+        "rank": 5,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE CHRISTMAS STRANGER",
+        "updated_date": "2025-11-12T23:38:15.022Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781668014905"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1668014904?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781668014905?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-christmas-stranger-richard-paul-evans%2F1146889944%3Fean%3D9781668014905"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FChristmas-Stranger%2FRichard-Paul-Evans%2F9781668014905"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781668014905"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/006240668X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Mitch Albom",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780062406682.jpg",
+        "book_image_height": 500,
+        "book_image_width": 340,
+        "book_review_link": "",
+        "book_uri": "nyt://book/c29f65eb-1196-5749-bbf1-7dff2b35022e",
+        "contributor": "by Mitch Albom",
+        "contributor_note": "",
+        "created_date": "2025-10-15T22:38:33.619Z",
+        "dagger": 0,
+        "description": "Alfie Logan, who was gifted with the ability to live any moment a second time but must accept the outcomes, makes a risky love decision.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780062406682",
+        "publisher": "Harper",
+        "rank": 6,
+        "rank_last_week": 9,
+        "sunday_review_link": "",
+        "title": "TWICE",
+        "updated_date": "2025-10-15T22:38:33.619Z",
+        "weeks_on_list": 5,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780062406682"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/006240668X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780062406682?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ftwice-mitch-albom%2F1146840194%3Fean%3D9780062406682"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTwice%2FMitch-Albom%2F9780062406682"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780062406682"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/B0DZ5FPM6L?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Nicholas Sparks with M. Night Shyamalan",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9798217154043.jpg",
+        "book_image_height": 500,
+        "book_image_width": 332,
+        "book_review_link": "",
+        "book_uri": "nyt://book/59f872d7-f5c3-5542-8473-f93b993d23c7",
+        "contributor": "by Nicholas Sparks with M. Night Shyamalan",
+        "contributor_note": "",
+        "created_date": "2025-10-22T22:37:47.625Z",
+        "dagger": 0,
+        "description": "A New York architect moves to Cape Cod, where he enters a relationship that brings up a lot of questions.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9798217154043",
+        "publisher": "Random House",
+        "rank": 7,
+        "rank_last_week": 7,
+        "sunday_review_link": "",
+        "title": "REMAIN",
+        "updated_date": "2025-10-22T22:37:47.625Z",
+        "weeks_on_list": 4,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9798217154043"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/B0DZ5FPM6L?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9798217154043?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fremain-nicholas-sparks%2F1147568387%3Fean%3D9798217154043"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRemain%2FNicholas-Sparks%2F9798217154043"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9798217154043"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/031656382X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Michael Connelly",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316563826.jpg",
+        "book_image_height": 500,
+        "book_image_width": 323,
+        "book_review_link": "",
+        "book_uri": "nyt://book/93096031-e0dc-5a57-b1a8-f6e6b1dac3fa",
+        "contributor": "by Michael Connelly",
+        "contributor_note": "",
+        "created_date": "2025-10-29T22:37:33.358Z",
+        "dagger": 0,
+        "description": "The eighth book in the Lincoln Lawyer series. Mickey Haller enlists a journalist to help his lawsuit against an A.I. company.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316563826",
+        "publisher": "Little, Brown",
+        "rank": 8,
+        "rank_last_week": 8,
+        "sunday_review_link": "",
+        "title": "THE PROVING GROUND",
+        "updated_date": "2025-10-29T22:37:33.358Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316563826"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/031656382X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316563826?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-proving-ground-michael-connelly%2F1147425306%3Fean%3D9780316563826"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FProving-Ground%2FMichael-Connelly%2F9780316563826"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316563826"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1464260915?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Freida McFadden",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781464260919.jpg",
+        "book_image_height": 500,
+        "book_image_width": 394,
+        "book_review_link": "",
+        "book_uri": "nyt://book/65d085aa-5926-5741-8006-1cd6cb90849e",
+        "contributor": "by Freida McFadden",
+        "contributor_note": "",
+        "created_date": "2025-10-15T22:38:33.294Z",
+        "dagger": 0,
+        "description": "During a rough storm, Casey puts herself in danger when she lets a girl, who is covered in blood, into her cabin.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781464260919",
+        "publisher": "Poisoned Pen",
+        "rank": 9,
+        "rank_last_week": 10,
+        "sunday_review_link": "",
+        "title": "THE INTRUDER",
+        "updated_date": "2025-10-15T22:38:33.294Z",
+        "weeks_on_list": 5,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781464260919"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1464260915?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781464260919?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-intruder-freida-mcfadden%2F1147331363%3Fean%3D9781464260919"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FIntruder%2FFreida-McFadden%2F9781464260919"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781464260919"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1250245370?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Jay Kristoff",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250245373.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/e40e3383-e381-5996-94af-162d747173cd",
+        "contributor": "by Jay Kristoff",
+        "contributor_note": "",
+        "created_date": "2025-11-12T23:38:15.164Z",
+        "dagger": 0,
+        "description": "The third book in the Empire of the Vampire series. A final battle will alter the state of the Empire.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250245373",
+        "publisher": "St. Martin's",
+        "rank": 10,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "EMPIRE OF THE DAWN",
+        "updated_date": "2025-11-12T23:38:15.164Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250245373"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250245370?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250245373?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fempire-of-the-dawn-jay-kristoff%2F1147021236%3Fean%3D9781250245373"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEmpire-Dawn%2FJay-Kristoff%2F9781250245373"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250245373"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1250328179?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Louise Penny",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250328175.jpg",
+        "book_image_height": 500,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/a7b2700f-bab6-53b8-8d3d-a19ae885661a",
+        "contributor": "by Louise Penny",
+        "contributor_note": "",
+        "created_date": "2025-11-05T23:40:33.101Z",
+        "dagger": 0,
+        "description": "The 20th book in the Chief Inspector Gamache series. After thwarting a terrorist attack, an injured Gamache leads a covert investigation.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250328175",
+        "publisher": "Minotaur",
+        "rank": 11,
+        "rank_last_week": 1,
+        "sunday_review_link": "",
+        "title": "THE BLACK WOLF",
+        "updated_date": "2025-11-05T23:40:33.101Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250328175"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250328179?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250328175?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-black-wolf-louise-penny%2F1146663292%3Fean%3D9781250328175"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBlack-Wolf%2FLouise-Penny%2F9781250328175"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250328175"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1335146989?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Jasmine Mas",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781335146984.jpg",
+        "book_image_height": 500,
+        "book_image_width": 318,
+        "book_review_link": "",
+        "book_uri": "nyt://book/1daa5a33-0526-5b5e-b5c2-59efc13c2a6e",
+        "contributor": "by Jasmine Mas",
+        "contributor_note": "",
+        "created_date": "2025-11-05T23:40:41.53Z",
+        "dagger": 0,
+        "description": "The second book in the Villains of Lore series. Seduction and danger put Hercules in a tough spot.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781335146984",
+        "publisher": "Canary Street",
+        "rank": 12,
+        "rank_last_week": 3,
+        "sunday_review_link": "",
+        "title": "BONDS OF HERCULES",
+        "updated_date": "2025-11-05T23:40:41.53Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781335146984"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1335146989?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781335146984?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbonds-of-hercules-jasmine-mas%2F1146294670%3Fean%3D9781335146984"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBonds-Hercules-Deluxe-Limited%2FJasmine-Mas%2F9781335146984"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781335146984"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593798430?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Virginia Evans",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593798430.jpg",
+        "book_image_height": 500,
+        "book_image_width": 324,
+        "book_review_link": "",
+        "book_uri": "nyt://book/ee6e7478-d847-5258-a579-f9ef0ed9c301",
+        "contributor": "by Virginia Evans",
+        "contributor_note": "",
+        "created_date": "2025-09-24T22:37:46.046Z",
+        "dagger": 0,
+        "description": "Letters from someone she used to know push Sybil Van Antwerp toward revisiting her past and finding a way to forgive.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593798430",
+        "publisher": "Crown",
+        "rank": 13,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE CORRESPONDENT",
+        "updated_date": "2025-09-24T22:37:46.046Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593798430"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593798430?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593798430?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-correspondent-virginia-evans%2F1146138272%3Fean%3D9780593798430"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DTHE%2520CORRESPONDENT%2520by%2520Virginia%2520Evans"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593798430"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/1501189441?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "John Irving",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781501189449.jpg",
+        "book_image_height": 500,
+        "book_image_width": 336,
+        "book_review_link": "https://www.nytimes.com/2025/11/02/books/review/john-irving-queen-esther.html",
+        "book_uri": "nyt://book/a61f320d-f6fc-55a8-9a1e-ffa7753e981d",
+        "contributor": "by John Irving",
+        "contributor_note": "",
+        "created_date": "2025-11-12T23:38:09.801Z",
+        "dagger": 0,
+        "description": "In a novel set in the world of \u201cThe Cider House Rules,\u201d a Jewish woman who grew up orphaned is affected by antisemitism.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781501189449",
+        "publisher": "Simon & Schuster",
+        "rank": 14,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "QUEEN ESTHER",
+        "updated_date": "2025-11-12T23:38:09.801Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781501189449"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1501189441?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781501189449?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fqueen-esther-john-irving%2F1146890379%3Fean%3D9781501189449"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FQueen-Esther%2FJohn-Irving%2F9781501189449"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781501189449"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/dp/0593975200?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Danielle L. Jensen",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780593975206.jpg",
+        "book_image_height": 500,
+        "book_image_width": 306,
+        "book_review_link": "",
+        "book_uri": "nyt://book/3bb6d332-452d-5945-85bc-e62ee185fc16",
+        "contributor": "by Danielle L. Jensen",
+        "contributor_note": "",
+        "created_date": "2025-11-12T23:38:10.012Z",
+        "dagger": 0,
+        "description": "Lara\u2019s sense of self and loyalty to her land become tested as her feelings toward her husband shift.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780593975206",
+        "publisher": "Del Rey",
+        "rank": 15,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE BRIDGE KINGDOM",
+        "updated_date": "2025-11-12T23:38:10.012Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780593975206"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593975200?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593975206?at=10lIEQ"
+          },
+          {
+            "name": "Barnes & Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-bridge-kingdom-danielle-l-jensen%2F1131330262%3Fean%3D9780593975206"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBridge-Kingdom-Deluxe%2FDanielle-L-Jensen%2F9780593975206"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780593975206"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  }
+}

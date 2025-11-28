@@ -1,0 +1,862 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+  "num_results": 15,
+  "last_modified": "2025-10-11T07:06:06Z",
+  "results": {
+    "display_name": "Hardcover Fiction",
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "previous_published_date": "2018-07-22",
+    "published_date": "2018-07-29",
+    "next_published_date": "2018-08-05",
+    "bestsellers_date": "2018-07-14",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "list_id": 1,
+    "uri": "nyt://bestsellerslist/fee679ea-4f5c-5d62-957c-0caca6cea179",
+    "books": [
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/President-Missing-Novel-James-Patterson/dp/0316412694?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "James Patterson and Bill Clinton",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316412698.jpg",
+        "book_image_height": 495,
+        "book_image_width": 322,
+        "book_review_link": "https://www.nytimes.com/2018/06/05/books/review/president-is-missing-clinton-patterson.html",
+        "book_uri": "nyt://book/ebf8a1c4-4ea7-5dcb-bfaa-e7cfd6a2c623",
+        "contributor": "by James Patterson and Bill Clinton",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:10:45.435Z",
+        "dagger": 0,
+        "description": "President Jonathan Duncan takes on adversaries at home and abroad.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316412698",
+        "publisher": "Little, Brown and Knopf",
+        "rank": 1,
+        "rank_last_week": 1,
+        "sunday_review_link": "",
+        "title": "THE PRESIDENT IS MISSING",
+        "updated_date": "2025-10-11T07:10:45.435Z",
+        "weeks_on_list": 6,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316412698"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/President-Missing-Novel-James-Patterson/dp/0316412694?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316412698?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316412698"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BPRESIDENT%2BIS%2BMISSING%2FJames%2BPatterson%2Band%2BBill%2BClinton%2F9780316412698"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316412698"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Good-Fight-Novel-Danielle-Steel-ebook/dp/B076GQWF3Q?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Danielle Steel",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781101884126.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/a24bf356-ef1e-5eda-b308-170495d0da32",
+        "contributor": "by Danielle Steel",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:05:52.135Z",
+        "dagger": 0,
+        "description": "Meredith McKenzie embraces and eschews the values of her family of lawyers during the tumultuous 1960s.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781101884126",
+        "publisher": "Delacorte",
+        "rank": 2,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE GOOD FIGHT",
+        "updated_date": "2025-10-11T07:05:52.135Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781101884126"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Good-Fight-Novel-Danielle-Steel-ebook/dp/B076GQWF3Q?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781101884126?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781101884126"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BGOOD%2BFIGHT%2FDanielle%2BSteel%2F9781101884126"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781101884126"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Clock-Dance-novel-Anne-Tyler-ebook/dp/B078QSXG2R?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Anne Tyler",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525655527.jpg",
+        "book_image_height": 495,
+        "book_image_width": 330,
+        "book_review_link": "https://www.nytimes.com/2018/08/01/books/review/clock-dance-anne-tyler.html",
+        "book_uri": "nyt://book/de642e77-30a7-5c48-8020-3546745771e1",
+        "contributor": "by Anne Tyler",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:06:39.096Z",
+        "dagger": 0,
+        "description": "A window into Willa Drake\u2019s life over 50 years and how she adjusts to some of life's surprises.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525655527",
+        "publisher": "Knopf",
+        "rank": 3,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "CLOCK DANCE",
+        "updated_date": "2025-10-11T07:06:39.096Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525655527"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Clock-Dance-novel-Anne-Tyler-ebook/dp/B078QSXG2R?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525655527?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525655527"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCLOCK%2BDANCE%2FAnne%2BTyler%2F9780525655527"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525655527"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Outsider-Novel-Stephen-King/dp/1501180983?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Stephen King",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781501180989.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "https://www.nytimes.com/2018/05/22/books/review/outsider-stephen-king.html",
+        "book_uri": "nyt://book/c4475f07-424a-5194-b68a-c94ff845cb08",
+        "contributor": "by Stephen King",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:10:45.197Z",
+        "dagger": 0,
+        "description": "A detective investigates a seemingly wholesome member of the community when an 11-year-old boy\u2019s body is found.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781501180989",
+        "publisher": "Scribner",
+        "rank": 4,
+        "rank_last_week": 4,
+        "sunday_review_link": "",
+        "title": "THE OUTSIDER",
+        "updated_date": "2025-10-11T07:10:45.197Z",
+        "weeks_on_list": 8,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781501180989"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Outsider-Novel-Stephen-King/dp/1501180983?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781501180989?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501180989"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BOUTSIDER%2FStephen%2BKing%2F9781501180989"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781501180989"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/All-We-Ever-Wanted-Novel-ebook/dp/B07639D2G9?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Emily Giffin",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780399178924.jpg",
+        "book_image_height": 495,
+        "book_image_width": 329,
+        "book_review_link": "",
+        "book_uri": "nyt://book/d17066bf-1162-53ff-8aa2-7a268482aa7a",
+        "contributor": "by Emily Giffin",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:06:41.385Z",
+        "dagger": 0,
+        "description": "A scandal sends members of two Nashville families into chaos.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780399178924",
+        "publisher": "Ballantine",
+        "rank": 5,
+        "rank_last_week": 5,
+        "sunday_review_link": "",
+        "title": "ALL WE EVER WANTED",
+        "updated_date": "2025-10-11T07:06:41.385Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780399178924"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/All-We-Ever-Wanted-Novel-ebook/dp/B07639D2G9?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780399178924?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780399178924"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FALL%2BWE%2BEVER%2BWANTED%2FEmily%2BGiffin%2F9780399178924"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780399178924"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Perfect-Couple-Elin-Hilderbrand/dp/0316375268?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Elin Hilderbrand",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316375269.jpg",
+        "book_image_height": 495,
+        "book_image_width": 319,
+        "book_review_link": "",
+        "book_uri": "nyt://book/1382f237-d57d-555c-890c-b742f4fc0359",
+        "contributor": "by Elin Hilderbrand",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:06:41.874Z",
+        "dagger": 0,
+        "description": "A body is found in Nantucket Harbor hours before a picture-perfect wedding.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316375269",
+        "publisher": "Little, Brown",
+        "rank": 6,
+        "rank_last_week": 3,
+        "sunday_review_link": "",
+        "title": "THE PERFECT COUPLE",
+        "updated_date": "2025-10-11T07:06:41.874Z",
+        "weeks_on_list": 4,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316375269"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Perfect-Couple-Elin-Hilderbrand/dp/0316375268?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316375269?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316375269"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BPERFECT%2BCOUPLE%2FElin%2BHilderbrand%2F9780316375269"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316375269"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Summer-Wives-Novel-Beatriz-Williams/dp/0062660349?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Beatriz Williams",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780062660343.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "",
+        "book_uri": "nyt://book/bb9a9e0e-0d61-5b91-a651-9a56515b4f25",
+        "contributor": "by Beatriz Williams",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:06:02.287Z",
+        "dagger": 0,
+        "description": "In the 1950s, a high-society schoolgirl falls for the son of a lighthouse keeper and, years later, tries to help undo his wrongful imprisonment.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780062660343",
+        "publisher": "Morrow",
+        "rank": 7,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE SUMMER WIVES",
+        "updated_date": "2025-10-11T07:06:02.287Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780062660343"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Summer-Wives-Novel-Beatriz-Williams/dp/0062660349?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780062660343?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062660343"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BSUMMER%2BWIVES%2FBeatriz%2BWilliams%2F9780062660343"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780062660343"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Spinning-Silver-Novel-Naomi-Novik/dp/0399180982?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Naomi Novik",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780399180989.jpg",
+        "book_image_height": 495,
+        "book_image_width": 327,
+        "book_review_link": "https://www.nytimes.com/2018/08/03/books/review/naomi-novik-spinning-silver.html",
+        "book_uri": "nyt://book/2f948696-8f95-57a5-bfbb-2b8616a66fe8",
+        "contributor": "by Naomi Novik",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:06:02.483Z",
+        "dagger": 0,
+        "description": "Miryem goes to collect debts owed to her father and winds up on a dangerous quest.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780399180989",
+        "publisher": "Del Rey",
+        "rank": 8,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "SPINNING SILVER",
+        "updated_date": "2025-10-11T07:06:02.483Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780399180989"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Spinning-Silver-Novel-Naomi-Novik/dp/0399180982?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780399180989?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780399180989"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSPINNING%2BSILVER%2FNaomi%2BNovik%2F9780399180989"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780399180989"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Spymaster-Thriller-Scot-Harvath-Book-ebook/dp/B075RMMZ6K?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Brad Thor",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781476789415.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "",
+        "book_uri": "nyt://book/dce508a8-bf05-586a-a90a-0fa6c5803586",
+        "contributor": "by Brad Thor",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:06:40.107Z",
+        "dagger": 0,
+        "description": "The 18th book in the Scot Harvath series.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781476789415",
+        "publisher": "Emily Bestler/Atria",
+        "rank": 9,
+        "rank_last_week": 2,
+        "sunday_review_link": "",
+        "title": "SPYMASTER",
+        "updated_date": "2025-10-11T07:06:40.107Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781476789415"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Spymaster-Thriller-Scot-Harvath-Book-ebook/dp/B075RMMZ6K?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781476789415?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781476789415"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSPYMASTER%2FBrad%2BThor%2F9781476789415"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781476789415"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/When-Life-Gives-You-Lululemons-ebook/dp/B078MC8G1X?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Lauren Weisberger",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781476778440.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/6b4cb117-0768-5ee1-b444-7141283d7d8a",
+        "contributor": "by Lauren Weisberger",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:06:41.652Z",
+        "dagger": 0,
+        "description": "Emily Charlton plans a comeback from the suburbs.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781476778440",
+        "publisher": "Simon & Schuster",
+        "rank": 10,
+        "rank_last_week": 8,
+        "sunday_review_link": "",
+        "title": "WHEN LIFE GIVES YOU LULULEMONS",
+        "updated_date": "2025-10-11T07:06:41.652Z",
+        "weeks_on_list": 6,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781476778440"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/When-Life-Gives-You-Lululemons-ebook/dp/B078MC8G1X?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781476778440?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781476778440"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWHEN%2BLIFE%2BGIVES%2BYOU%2BLULULEMONS%2FLauren%2BWeisberger%2F9781476778440"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781476778440"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Before-We-Were-Yours-Novel/dp/0425284689?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Lisa Wingate",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780425284681.jpg",
+        "book_image_height": 495,
+        "book_image_width": 330,
+        "book_review_link": "",
+        "book_uri": "nyt://book/cab69ca4-234d-567d-bf8f-e64631b26c4b",
+        "contributor": "by Lisa Wingate",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:08:11.041Z",
+        "dagger": 0,
+        "description": "A South Carolina lawyer learns about the questionable practices of a Tennessee orphanage.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780425284681",
+        "publisher": "Ballantine",
+        "rank": 11,
+        "rank_last_week": 10,
+        "sunday_review_link": "",
+        "title": "BEFORE WE WERE YOURS",
+        "updated_date": "2025-10-11T07:08:11.041Z",
+        "weeks_on_list": 43,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780425284681"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Before-We-Were-Yours-Novel/dp/0425284689?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780425284681?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780425284681"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBEFORE%2BWE%2BWERE%2BYOURS%2FLisa%2BWingate%2F9780425284681"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780425284681"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/There-novel-Tommy-Orange/dp/0525520376?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Tommy Orange",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525520375.jpg",
+        "book_image_height": 495,
+        "book_image_width": 327,
+        "book_review_link": "https://www.nytimes.com/2018/06/19/books/review/tommy-orange-there-there.html",
+        "book_uri": "nyt://book/616f2bbc-97ed-59d9-a86a-c39e7af50c64",
+        "contributor": "by Tommy Orange",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:11:37.958Z",
+        "dagger": 0,
+        "description": "A multigenerational story exploring the plight of the urban Native American.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525520375",
+        "publisher": "Knopf",
+        "rank": 12,
+        "rank_last_week": 6,
+        "sunday_review_link": "",
+        "title": "THERE THERE",
+        "updated_date": "2025-10-11T07:11:37.958Z",
+        "weeks_on_list": 6,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525520375"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/There-novel-Tommy-Orange/dp/0525520376?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525520375?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525520375"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHERE%2BTHERE%2FTommy%2BOrange%2F9780525520375"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525520375"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Woman-Window-Novel-J-Finn/dp/0062678418?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "A.J. Finn",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780062678416.jpg",
+        "book_image_height": 495,
+        "book_image_width": 330,
+        "book_review_link": "",
+        "book_uri": "nyt://book/31eb1c8b-ecb9-57af-ac3c-c3caf9ca690b",
+        "contributor": "by A.J. Finn",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:07:23.578Z",
+        "dagger": 0,
+        "description": "A recluse who drinks heavily and takes prescription drugs may have witnessed a crime across from her Harlem townhouse.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780062678416",
+        "publisher": "Morrow",
+        "rank": 13,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "THE WOMAN IN THE WINDOW",
+        "updated_date": "2025-10-11T07:07:23.578Z",
+        "weeks_on_list": 24,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780062678416"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Woman-Window-Novel-J-Finn/dp/0062678418?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780062678416?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062678416"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BWOMAN%2BIN%2BTHE%2BWINDOW%2FA.J.%2BFinn%2F9780062678416"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780062678416"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Little-Fires-Everywhere-Celeste-Ng-ebook/dp/B01N4VW75U?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Celeste Ng",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780735224292.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "https://www.nytimes.com/2017/09/25/books/review/little-fires-everywhere-celeste-ng.html",
+        "book_uri": "nyt://book/ef20f58d-a533-5fee-a639-a23aa9bfc69a",
+        "contributor": "by Celeste Ng",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:07:23.451Z",
+        "dagger": 0,
+        "description": "An artist upends a quiet town outside Cleveland.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780735224292",
+        "publisher": "Penguin Press",
+        "rank": 14,
+        "rank_last_week": 13,
+        "sunday_review_link": "",
+        "title": "LITTLE FIRES EVERYWHERE",
+        "updated_date": "2025-10-11T07:07:23.451Z",
+        "weeks_on_list": 42,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780735224292"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Little-Fires-Everywhere-Celeste-Ng-ebook/dp/B01N4VW75U?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780735224292?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780735224292"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLITTLE%2BFIRES%2BEVERYWHERE%2FCeleste%2BNg%2F9780735224292"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780735224292"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Year-Rest-Relaxation-Ottessa-Moshfegh/dp/0525522115?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 1,
+        "author": "Ottessa Moshfegh",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525522119.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "https://www.nytimes.com/2018/07/06/books/review/ottessa-moshfegh-my-year-of-rest-and-relaxation.html",
+        "book_uri": "nyt://book/51264e6c-cec5-5afc-b44c-83f8f656557d",
+        "contributor": "by Ottessa Moshfegh",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:05:48.964Z",
+        "dagger": 0,
+        "description": "A young woman living in New York City in 2000 contends with depression, bad relationships and an incompetent psychiatrist.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525522119",
+        "publisher": "Penguin Press",
+        "rank": 15,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "MY YEAR OF REST AND RELAXATION",
+        "updated_date": "2025-10-11T07:05:48.964Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525522119"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Year-Rest-Relaxation-Ottessa-Moshfegh/dp/0525522115?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525522119?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525522119"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMY%2BYEAR%2BOF%2BREST%2BAND%2BRELAXATION%2FOttessa%2BMoshfegh%2F9780525522119"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525522119"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  }
+}

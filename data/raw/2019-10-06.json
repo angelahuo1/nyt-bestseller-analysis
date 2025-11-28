@@ -1,0 +1,862 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+  "num_results": 15,
+  "last_modified": "2025-10-11T07:18:39Z",
+  "results": {
+    "display_name": "Hardcover Fiction",
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "previous_published_date": "2019-09-29",
+    "published_date": "2019-10-06",
+    "next_published_date": "2019-10-13",
+    "bestsellers_date": "2019-09-21",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "list_id": 1,
+    "uri": "nyt://bestsellerslist/9253741b-513b-5cee-a55c-27d3ca50a0ca",
+    "books": [
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Institute-Novel-Stephen-King/dp/1982110562?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Stephen King",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781982110567.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "https://www.nytimes.com/2019/09/08/books/review-institute-stephen-king.html",
+        "book_uri": "nyt://book/ef08eed0-f900-53fe-9764-da9152bd5e8f",
+        "contributor": "by Stephen King",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:23:14.44Z",
+        "dagger": 0,
+        "description": "Children with special talents are abducted and sequestered in an institution where the sinister staff seeks to extract their gifts through harsh methods.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781982110567",
+        "publisher": "Scribner",
+        "rank": 1,
+        "rank_last_week": 2,
+        "sunday_review_link": "",
+        "title": "THE INSTITUTE",
+        "updated_date": "2025-10-11T07:23:14.44Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781982110567"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Institute-Novel-Stephen-King/dp/1982110562?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781982110567?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781982110567"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BINSTITUTE%2FStephen%2BKing%2F9781982110567"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781982110567"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Testaments-Sequel-Handmaids-Tale/dp/0385543786?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Margaret Atwood",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780385543781.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "",
+        "book_uri": "nyt://book/e1e18717-04bb-51a2-942a-45743507535f",
+        "contributor": "by Margaret Atwood",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:21:56.778Z",
+        "dagger": 0,
+        "description": "In a sequel to \u201cThe Handmaid\u2019s Tale,\u201d old secrets bring three women together as the Republic of Gilead\u2019s theocratic regime shows signs of decay.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780385543781",
+        "publisher": "Nan A. Talese/Doubleday",
+        "rank": 2,
+        "rank_last_week": 1,
+        "sunday_review_link": "",
+        "title": "THE TESTAMENTS",
+        "updated_date": "2025-10-11T07:21:56.778Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780385543781"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Testaments-Sequel-Handmaids-Tale/dp/0385543786?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780385543781?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385543781"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BTESTAMENTS%2FMargaret%2BAtwood%2F9780385543781"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780385543781"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Where-Crawdads-Sing-Delia-Owens/dp/0735219095?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Delia Owens",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780735219090.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/053b4109-4555-5aa1-9b39-cc40549bcdf0",
+        "contributor": "by Delia Owens",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:50:45.896Z",
+        "dagger": 0,
+        "description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780735219090",
+        "publisher": "Putnam",
+        "rank": 3,
+        "rank_last_week": 3,
+        "sunday_review_link": "",
+        "title": "WHERE THE CRAWDADS SING",
+        "updated_date": "2025-10-11T07:50:45.896Z",
+        "weeks_on_list": 55,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780735219090"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Where-Crawdads-Sing-Delia-Owens/dp/0735219095?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780735219090?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780735219090"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWHERE%2BTHE%2BCRAWDADS%2BSING%2FDelia%2BOwens%2F9780735219090"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780735219090"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Land-Wolves-Walt-Longmire-Mysteries-ebook/dp/B07N5JNR49?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Craig Johnson",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525522508.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/01b0f27e-f85c-5929-9229-f0622d5d7268",
+        "contributor": "by Craig Johnson",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:18:20.81Z",
+        "dagger": 0,
+        "description": "The 15th book in the Longmire series. Back from Mexico, Sheriff Longmire must deal with a wolf and a killer on the loose.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525522508",
+        "publisher": "Viking",
+        "rank": 4,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "LAND OF WOLVES",
+        "updated_date": "2025-10-11T07:18:20.81Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525522508"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Land-Wolves-Walt-Longmire-Mysteries-ebook/dp/B07N5JNR49?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525522508?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525522508"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLAND%2BOF%2BWOLVES%2FCraig%2BJohnson%2F9780525522508"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525522508"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Girl-Who-Lived-Twice-continuing-ebook/dp/B07KQNN4CC?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "David Lagercrantz",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780451494344.jpg",
+        "book_image_height": 495,
+        "book_image_width": 321,
+        "book_review_link": "",
+        "book_uri": "nyt://book/dc676413-8c79-5b67-9d66-cbc04e8050b1",
+        "contributor": "by David Lagercrantz",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:19:28.328Z",
+        "dagger": 0,
+        "description": "Mikael Blomkvist helps Lisbeth Salander put her past behind her in the latest installment of Stieg Larsson's Millennium series.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780451494344",
+        "publisher": "Knopf",
+        "rank": 5,
+        "rank_last_week": 6,
+        "sunday_review_link": "",
+        "title": "THE GIRL WHO LIVED TWICE",
+        "updated_date": "2025-10-11T07:19:28.328Z",
+        "weeks_on_list": 4,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780451494344"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Girl-Who-Lived-Twice-continuing-ebook/dp/B07KQNN4CC?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780451494344?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780451494344"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BGIRL%2BWHO%2BLIVED%2BTWICE%2FDavid%2BLagercrantz%2F9780451494344"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780451494344"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Oracle-Jubilean-Mysteries-Unveiled/dp/1629996297?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Jonathan Cahn",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781629996295.jpg",
+        "book_image_height": 488,
+        "book_image_width": 330,
+        "book_review_link": "",
+        "book_uri": "nyt://book/94a69adb-1890-5c29-980d-daea1072a316",
+        "contributor": "by Jonathan Cahn",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:19:11.251Z",
+        "dagger": 0,
+        "description": "A traveler discovers mysteries hidden behind seven locked doors.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781629996295",
+        "publisher": "Front Line",
+        "rank": 6,
+        "rank_last_week": 5,
+        "sunday_review_link": "",
+        "title": "THE ORACLE",
+        "updated_date": "2025-10-11T07:19:11.251Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781629996295"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Oracle-Jubilean-Mysteries-Unveiled/dp/1629996297?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781629996295?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781629996295"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BORACLE%2FJonathan%2BCahn%2F9781629996295"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781629996295"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Killer-Instinct-James-Patterson/dp/0316420298?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "James Patterson and Howard Roughan",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316420297.jpg",
+        "book_image_height": 495,
+        "book_image_width": 319,
+        "book_review_link": "",
+        "book_uri": "nyt://book/1b79eaad-2f20-5074-9832-228c0ca01f7c",
+        "contributor": "by James Patterson and Howard Roughan",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:19:07.966Z",
+        "dagger": 0,
+        "description": "The second book in the Instinct series. When an act of terror strikes New York, Dr. Reinhart and Detective Needham go after a sociopath.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316420297",
+        "publisher": "Little, Brown",
+        "rank": 7,
+        "rank_last_week": 4,
+        "sunday_review_link": "",
+        "title": "KILLER INSTINCT",
+        "updated_date": "2025-10-11T07:19:07.966Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316420297"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Killer-Instinct-James-Patterson/dp/0316420298?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316420297?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316420297"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FKILLER%2BINSTINCT%2FJames%2BPatterson%2Band%2BHoward%2BRoughan%2F9780316420297"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316420297"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Red-at-Bone-Jacqueline-Woodson/dp/0525535276?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Jacqueline Woodson",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525535270.jpg",
+        "book_image_height": 495,
+        "book_image_width": 315,
+        "book_review_link": "https://www.nytimes.com/2019/09/16/books/review/red-at-the-bone-jacqueline-woodson.html",
+        "book_uri": "nyt://book/7835d149-7778-5722-82ed-e918604b9d8b",
+        "contributor": "by Jacqueline Woodson",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:19:10.561Z",
+        "dagger": 0,
+        "description": "The long-lasting decisions young people make are explored through the history of a Brooklyn teenager\u2019s family.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525535270",
+        "publisher": "Riverhead",
+        "rank": 8,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "RED AT THE BONE",
+        "updated_date": "2025-10-11T07:19:10.561Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525535270"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Red-at-Bone-Jacqueline-Woodson/dp/0525535276?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525535270?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525535270"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRED%2BAT%2BTHE%2BBONE%2FJacqueline%2BWoodson%2F9780525535270"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525535270"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Titanic-Secret-Isaac-Bell-Adventure-ebook/dp/B07MYL5DNF?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Clive Cussler and Jack Du Brul",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780735217263.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "",
+        "book_uri": "nyt://book/b0675319-4fb7-5ee5-878d-4130c6450441",
+        "contributor": "by Clive Cussler and Jack Du Brul",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:19:08.731Z",
+        "dagger": 0,
+        "description": "The 11th book in the Isaac Bell series. Dirk Pitt finds a document that brings a mystery from 1911 back to life.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780735217263",
+        "publisher": "Putnam",
+        "rank": 9,
+        "rank_last_week": 7,
+        "sunday_review_link": "",
+        "title": "THE TITANIC SECRET",
+        "updated_date": "2025-10-11T07:19:08.731Z",
+        "weeks_on_list": 2,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780735217263"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Titanic-Secret-Isaac-Bell-Adventure-ebook/dp/B07MYL5DNF?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780735217263?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780735217263"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BTITANIC%2BSECRET%2FClive%2BCussler%2Band%2BJack%2BDu%2BBrul%2F9780735217263"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780735217263"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Better-Man-Chief-Inspector-Gamache/dp/1250066212?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Louise Penny",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250066213.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "",
+        "book_uri": "nyt://book/13beaf12-22dd-5787-91e7-31ce551ccfd0",
+        "contributor": "by Louise Penny",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:19:08.856Z",
+        "dagger": 0,
+        "description": "The 15th book in the Chief Inspector Gamache series. The search for a missing girl is imperiled by rising floodwaters across the province.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250066213",
+        "publisher": "Minotaur",
+        "rank": 10,
+        "rank_last_week": 9,
+        "sunday_review_link": "",
+        "title": "A BETTER MAN",
+        "updated_date": "2025-10-11T07:19:08.856Z",
+        "weeks_on_list": 4,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250066213"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Better-Man-Chief-Inspector-Gamache/dp/1250066212?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250066213?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250066213"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FA%2BBETTER%2BMAN%2FLouise%2BPenny%2F9781250066213"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250066213"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Nickel-Boys-Novel-Colson-Whitehead/dp/0385537077?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Colson Whitehead",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780385537070.jpg",
+        "book_image_height": 495,
+        "book_image_width": 328,
+        "book_review_link": "https://www.nytimes.com/2019/07/11/books/review-nickel-boys-colson-whitehead.html",
+        "book_uri": "nyt://book/b9c84bf7-ad1c-56a3-9b42-e9b37e488f42",
+        "contributor": "by Colson Whitehead",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:19:08.494Z",
+        "dagger": 0,
+        "description": "Two boys respond to horrors at a Jim Crow-era reform school in ways that impact them decades later.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780385537070",
+        "publisher": "Doubleday",
+        "rank": 11,
+        "rank_last_week": 11,
+        "sunday_review_link": "",
+        "title": "THE NICKEL BOYS",
+        "updated_date": "2025-10-11T07:19:08.494Z",
+        "weeks_on_list": 10,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780385537070"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Nickel-Boys-Novel-Colson-Whitehead/dp/0385537077?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780385537070?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385537070"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BNICKEL%2BBOYS%2FColson%2BWhitehead%2F9780385537070"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780385537070"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Secrets-We-Kept-novel/dp/0525656154?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Lara Prescott",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780525656159.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "https://www.nytimes.com/2019/09/02/books/review-secrets-we-kept-lara-prescott.html",
+        "book_uri": "nyt://book/ac3ae8a2-4ee2-51d1-8ffd-6d4bf5ca5d47",
+        "contributor": "by Lara Prescott",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:19:10.7Z",
+        "dagger": 0,
+        "description": "During the Cold War, members of the C.I.A.\u2019s typing pool aid its mission to smuggle the banned book \u201cDoctor Zhivago\u201d behind the Iron Curtain.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780525656159",
+        "publisher": "Knopf",
+        "rank": 12,
+        "rank_last_week": 10,
+        "sunday_review_link": "",
+        "title": "THE SECRETS WE KEPT",
+        "updated_date": "2025-10-11T07:19:10.7Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780525656159"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Secrets-We-Kept-novel/dp/0525656154?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780525656159?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525656159"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BSECRETS%2BWE%2BKEPT%2FLara%2BPrescott%2F9780525656159"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780525656159"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Vendetta-Death-Dallas-Novel-Book-ebook/dp/B07NCVVCQK?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "J.D. Robb",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781250207173.jpg",
+        "book_image_height": 495,
+        "book_image_width": 326,
+        "book_review_link": "",
+        "book_uri": "nyt://book/a567b92b-7811-5b65-8c98-40b9fa6ebf4e",
+        "contributor": "by J.D. Robb",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:18:21.894Z",
+        "dagger": 0,
+        "description": "The 49th book of the In Death series. Eve Dallas looks into the misdeeds of a wealthy businessman while a vigilante named Lady Justice uses disguises to avenge women who were wronged.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781250207173",
+        "publisher": "St. Martin's",
+        "rank": 13,
+        "rank_last_week": 8,
+        "sunday_review_link": "",
+        "title": "VENDETTA IN DEATH",
+        "updated_date": "2025-10-11T07:18:21.894Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781250207173"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Vendetta-Death-Dallas-Novel-Book-ebook/dp/B07NCVVCQK?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250207173?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250207173"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FVENDETTA%2BIN%2BDEATH%2FJD%2BRobb%2F9781250207173"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781250207173"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/This-Tender-Land-William-Krueger/dp/1476749299?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "William Kent Krueger",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9781476749297.jpg",
+        "book_image_height": 495,
+        "book_image_width": 327,
+        "book_review_link": "",
+        "book_uri": "nyt://book/c09417d9-1d1d-5e26-92c5-bafc8e93517d",
+        "contributor": "by William Kent Krueger",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:18:31.657Z",
+        "dagger": 0,
+        "description": "Four orphans escape a Minnesota school and encounter a cross-section of different people struggling during the Great Depression.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9781476749297",
+        "publisher": "Atria",
+        "rank": 14,
+        "rank_last_week": 12,
+        "sunday_review_link": "",
+        "title": "THIS TENDER LAND",
+        "updated_date": "2025-10-11T07:18:31.657Z",
+        "weeks_on_list": 3,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9781476749297"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/This-Tender-Land-William-Krueger/dp/1476749299?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781476749297?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781476749297"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHIS%2BTENDER%2BLAND%2FWilliam%2BKent%2BKrueger%2F9781476749297"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9781476749297"
+          }
+        ]
+      },
+      {
+        "age_group": "",
+        "amazon_product_url": "https://www.amazon.com/Little-Hatred-Age-Madness-Book-ebook/dp/B07MJ656W9?tag=thenewyorktim-20",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "author": "Joe Abercrombie",
+        "book_image": "https://static01.nyt.com/bestsellers/images/9780316187169.jpg",
+        "book_image_height": 495,
+        "book_image_width": 320,
+        "book_review_link": "",
+        "book_uri": "nyt://book/1f06d04d-6879-59cb-a83c-7e814f648665",
+        "contributor": "by Joe Abercrombie",
+        "contributor_note": "",
+        "created_date": "2025-10-11T07:18:22.123Z",
+        "dagger": 0,
+        "description": "The Age of Madness series opens with a war erupting during a time of change.",
+        "first_chapter_link": "",
+        "price": "0.00",
+        "primary_isbn10": "",
+        "primary_isbn13": "9780316187169",
+        "publisher": "Orbit",
+        "rank": 15,
+        "rank_last_week": 0,
+        "sunday_review_link": "",
+        "title": "A LITTLE HATRED",
+        "updated_date": "2025-10-11T07:18:22.123Z",
+        "weeks_on_list": 1,
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": "9780316187169"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Little-Hatred-Age-Madness-Book-ebook/dp/B07MJ656W9?tag=thenewyorktim-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316187169?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316187169"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FA%2BLITTLE%2BHATRED%2FJoe%2BAbercrombie%2F9780316187169"
+          },
+          {
+            "name": "Bookshop.org",
+            "url": "https://bookshop.org/a/3546/9780316187169"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  }
+}
