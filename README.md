@@ -4,28 +4,29 @@ A two-part portfolio project combining data engineering, analytics engineering, 
 
 # Folder Structure
 nyt-bestsellers-analysis/
-│
-├── README.md  ← You are here
-├── requirements.txt
-│
-├── data/
-│   ├── raw/
-│   ├── clean/
-│   ├── analysis/
-│   └── results/
-│
-├── db/
-│   └── nyt_books.db
-│
-├── Project1-ETL/
-│   ├── README.md
-│   ├── scripts/
-│   └── sql/
-│
-└── Project2-Analysis/
-    ├── README.md
-    ├── notebooks/
-    └── results/
+- README.md
+- requirements.txt
+- data/
+    - raw/
+    - clean/
+    - results/
+    - analysis/
+- db/
+    - nyt_books.db
+- Project1-ETL/
+    - README.md
+    - scripts/
+        - extract_json.py
+        - load_to_sqlite.py
+        - transform_json.py
+    - sql/
+        - exploratory_queries.sql
+        - sql_queries_results.ipynb
+- Project2-Analysis/
+    - README.md
+    - notebooks/
+        - 01_etl.ipynb
+        - 02_analysis.ipynb
 
 
 ## Project 1 – ETL Pipeline
