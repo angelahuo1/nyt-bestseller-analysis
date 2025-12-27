@@ -3,6 +3,8 @@
 A two-part portfolio project combining data engineering, analytics engineering, and NLP to uncover patterns New York Times Bestseller lists from 2018-2025.
 
 # Folder Structure
+
+```text
 nyt-bestsellers-analysis/
 │
 ├── README.md  ← You are here
@@ -26,14 +28,14 @@ nyt-bestsellers-analysis/
     ├── README.md
     ├── notebooks/
     └── results/
-
+```
 
 ## Project 1 – ETL Pipeline
 - Extract raw NYT bestseller JSON files  
-- Normalize nested data into structured tables  
-- Clean and dedupe books + appearances  
+- Organize nested data into structured tables  
+- Clean books + appearances tables
 - Load into a SQLite database  
-- Export an analysis-ready dataset:
+- Export clean dataset:
   - `data/analysis/bestsellers_analysis_ready.csv`
 
 ## Project 2 – Exploratory & NLP Analysis

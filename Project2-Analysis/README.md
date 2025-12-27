@@ -9,11 +9,6 @@ Uses the cleaned dataset to perform exploratory analysis and natural language pr
 - Weeks-on-list analysis
 - Publisher patterns
 
-#### Example Visualizations:
-![](/images/top_publishers_weeks_on_list.png)
-![](/images/top_authors_weeks_on_list.png)
-![](/images/top_books_weeks_on_list.png)
-
 #### EDA Insight Summary:
 1. The bestseller market is extremely top-heavy. Most books last only a week on the list; a small minority dominate for months.
 2. Author reputation is an important factor. A handful of recurring, commercially established authors account for a large share of placements. Building a brand over time is impactful for making it onto the list.
