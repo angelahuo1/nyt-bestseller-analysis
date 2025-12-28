@@ -9,6 +9,11 @@ Uses the cleaned dataset to perform exploratory analysis and natural language pr
 - Weeks-on-list analysis
 - Publisher patterns
 
+#### Example Visualizations:
+![](images/top_authors_weeks_on_list.png)
+![](images/top_publishers_weeks_on_list.png)
+![](images/top_books_weeks_on_list.png)
+
 #### EDA Insight Summary:
 1. The bestseller market is extremely top-heavy. Most books last only a week on the list; a small minority dominate for months.
 2. Author reputation is an important factor. A handful of recurring, commercially established authors account for a large share of placements. Building a brand over time is impactful for making it onto the list.
@@ -24,10 +29,10 @@ Uses the cleaned dataset to perform exploratory analysis and natural language pr
 - Sentiment analysis (VADER)
 
 #### Example Visualizations:
-![](/images/common_bigrams_barplot.png)
-![](/images/top_books_weeks_on_list_filtered.png)
-![](/images/top_tf_idf_terms.png)
-![](/images/average_sentiment_by_topic.png)
+![](images/common_bigrams_barplot.png)
+![](images/top_books_weeks_on_list_filtered.png)
+![](images/top_tf_idf_terms.png)
+![](images/average_sentiment_by_topic.png)
 
 #### NLP Analysis Insights:
 1. The NYT bestseller list is dominated by series fiction. Topic 1 (series-driven books) has the longest average lifespan on the list, likely due to loyal fanbases, consistent releases, and strong author branding. These books hit lower rankings on average but maintain weeks of stable performance.
