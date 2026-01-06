@@ -4,10 +4,24 @@ from datetime import datetime, timedelta
 import time
 import os
 import json
+from azure.storage.blob import BlobServiceClient
 
 # config
-API_KEY = "YOUR_NYT_API"
+#API_KEY = "YOUR_NYT_API"
+API_KEY = "placeholder_for_api_key"
 LIST_NAME = "hardcover-fiction"
+
+#AZURE_CONNECTION_STRING = os.getenv("AZURE_STORAGE_CONNECTION_STRING")
+AZURE_CONNECTION_STRING = "placeholder_for_connection_string"
+RAW_CONTAINER = "nyt-raw"
+
+# Azure Blob Storage setup
+blob_service_client = BlobServiceClient.from_connection_string(AZURE_CONNECTION_STRING)
+container_client = blob_service_client.get_container_client(RAW_CONTAINER)
+try:
+    container_client.create_container()
+except Exception:
+    pass
 
 # set date range
 start_date = datetime(2018, 1, 7)
@@ -35,7 +49,13 @@ while date >= start_date:
     if response.status_code == 200:
         data = response.json()
 
-        # save JSON to file
+        # upload JSON to Azure Blob Storage
+        blob_name = f"{date_str}.json"
+        blob_client = container_client.get_blob_client(blob_name)
+        blob_client.upload_blob(json.dumps(data, indent=2), overwrite=True)
+        print(f"Uploaded JSON to Azure Blob: {blob_name}")
+
+        # save JSON to file (local backup)
         os.makedirs("data/raw", exist_ok=True)
         json_path = f"data/raw/{date_str}.json"
         with open(json_path, "w") as f:

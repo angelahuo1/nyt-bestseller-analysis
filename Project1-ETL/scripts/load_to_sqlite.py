@@ -1,49 +1,40 @@
-import sqlite3
 import pandas as pd
 import os
+from sqlalchemy import create_engine
+import urllib
 
 # paths
 DATA_DIR = "data/clean"
-DB_PATH = "db/nyt_books.db"
 BOOKS_CSV = os.path.join(DATA_DIR, "books.csv")
 APPEARANCES_CSV = os.path.join(DATA_DIR, "appearances.csv")
+
+# Azure SQL setup
+AZURE_SQL_SERVER = "placeholder_for_server.database.windows.net"
+AZURE_SQL_DB = "nyttables"
+AZURE_SQL_USER = "placeholder_for_username"
+AZURE_SQL_PASSWORD = "placeholder_for_password"
 
 # load cleaned csvs
 books = pd.read_csv(BOOKS_CSV)
 appearances = pd.read_csv(APPEARANCES_CSV)
 
-# connect to sqlite
-conn = sqlite3.connect(DB_PATH)
-cur = conn.cursor()
+# connect to Azure SQL
+driver = "{ODBC Driver 18 for SQL Server}"
 
-# create tables
-cur.execute("""
-    CREATE TABLE IF NOT EXISTS books (
-        isbn13 TEXT PRIMARY KEY,
-        title TEXT,
-        author TEXT,
-        publisher TEXT,
-        description TEXT
-    );
-""")
+params = urllib.parse.quote_plus(
+    f"DRIVER={driver};"
+    f"SERVER={AZURE_SQL_SERVER};"
+    f"DATABASE={AZURE_SQL_DB};"
+    f"UID={AZURE_SQL_USER};"
+    f"PWD={AZURE_SQL_PASSWORD};"
+    f"Encrypt=yes;"
+    f"TrustServerCertificate=no;"
+)
 
-cur.execute("""
-    CREATE TABLE IF NOT EXISTS appearances (
-        id INTEGER PRIMARY KEY AUTOINCREMENT,
-        isbn13 TEXT,
-        list_date TEXT,
-        rank INTEGER,
-        weeks_on_list INTEGER,
-        FOREIGN KEY(isbn13) REFERENCES books(isbn13)
-    );
-""")
+engine = create_engine(f"mssql+pyodbc:///?odbc_connect={params}")
 
-conn.commit()
+# load data to Azure SQL
+books.to_sql("books", engine, if_exists="replace", index=False)
+appearances.to_sql("appearances", engine, if_exists="replace", index=False)
 
-# insert data
-books.to_sql("books", conn, if_exists="replace", index=False)
-appearances.to_sql("appearances", conn, if_exists="replace", index=False)
-
-conn.commit()
-
-print("\nSQLite load completed. Database saved as nyt_books.db.")
+print("Data loaded to Azure SQL Database.")
